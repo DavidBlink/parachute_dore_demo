@@ -13,7 +13,7 @@
 		ckEditorStyles: {
 			name: 'parachute_dore_demo',
 			styles: [
-				{ name: 'Título Naranja', element: 'h2', attributes: { 'class': 'bck-title-naranja'} },
+				{ name: 'Título Naranja', element: 'h2', attributes: { 'class': 'bck-title bck-title-intro'} },
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
 				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
