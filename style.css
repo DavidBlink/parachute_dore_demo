@@ -1,10 +1,10 @@
-# cengage_demo
+# parachute_dore_demo
 
 /* Fonts */
 
 	@font-face {
-	  font-family: MyriadPro-Regular;
-	  src: url('fonts/MyriadPro-Regular.otf');
+	  font-family: GrilledCheeseBTN.otf;
+	  src: url('fonts/GrilledCheeseBTN.otf');
 	}
 
 	@font-face {
@@ -288,7 +288,7 @@ input, button, select, textarea {
     padding-bottom: 0px;
 }
 
-.cengage_demo-navbar h3 {
+.parachute_dore_demo-navbar h3 {
     width: 75%;
     margin: auto;
     margin-bottom: 15px;
@@ -431,7 +431,7 @@ fieldset[disabled] .slide_main input {
     background: linear-gradient(to left, #7aac39, transparent);
 }
 
-.cengage_demo-navbar {
+.parachute_dore_demo-navbar {
     position: fixed;
     bottom: 0;
     left: 0;
@@ -442,7 +442,7 @@ fieldset[disabled] .slide_main input {
     background: #545759;;
 }
 
-body.is_app .cengage_demo-navbar {
+body.is_app .parachute_dore_demo-navbar {
     /*top: 0;*/
     -webkit-transition: top 0.5s linear;
     -o-transition: top 0.5s linear;
@@ -450,11 +450,11 @@ body.is_app .cengage_demo-navbar {
     transition: top 0.5s linear;
 }
 
-body.is_app .cengage_demo-navbar.ocultar {
+body.is_app .parachute_dore_demo-navbar.ocultar {
     top: -136px;
 }
 
-.cengage_demo-navbar .navbar-content {
+.parachute_dore_demo-navbar .navbar-content {
     width: 100%;
     height: 100%;
     padding: 0 20px;
@@ -471,7 +471,7 @@ body.is_app .cengage_demo-navbar.ocultar {
     width: 87px;
     height: 35px;
     margin: 9px 0;
-    background: url(../cengage_demo/images/logong.png) center center / cover no-repeat;
+    background: url(../parachute_dore_demo/images/logong.png) center center / cover no-repeat;
 }
 
 .edit -publisher {
@@ -484,7 +484,7 @@ body:not(.edit) .slider-indicators {
     display: none;
 }
 
-.cengage_demo-navbar .copyright {
+.parachute_dore_demo-navbar .copyright {
     color: #fff;
     line-height: 5.0rem;
 }
@@ -677,16 +677,18 @@ body:not(.edit) .slider-indicators {
     vertical-align: sub;
 }
 
-/*título genérico*/
+/*titulo generico
 .bck-title {
     color: #211915;
     font-size: 2.1rem;
     font-weight: bold;
 }
+*/
 
-.bck-title-intro {
+.bck-title-naranja {
     font-size: 2.8rem;
-    font-family: 'MyriadPro-Regular', sans serif;
+    font-family: 'GrilledCheeseBTN.otf';
+    color: #ea5b0c;
 }
 
 .bck-title-1 {
@@ -700,9 +702,11 @@ body:not(.edit) .slider-indicators {
     font-weight: 600;
 }
 
+
+/*Enfasis*/
+
 .bck-enfasis {
-    color: #e76048;
-    font-weight: bold;
+    font-size: 5rem;
 }
 
 .bck-enfasis-2 {
