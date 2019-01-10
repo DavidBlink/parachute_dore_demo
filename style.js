@@ -13,12 +13,12 @@
 		ckEditorStyles: {
 			name: 'parachute_dore_demo',
 			styles: [
-				{ name: 'Título intro', element: 'h2', attributes: { 'class': 'bck-title bck-title-intro'} },
+				{ name: 'Título Naranja', element: 'h2', attributes: { 'class': 'bck-title-naranja'} },
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
 				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
 
-				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
+				{ name: 'numero titulo naranja', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Énfasis-2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis-3', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 
