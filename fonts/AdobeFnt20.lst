@@ -1,0 +1,1183 @@
+%!Adobe-FontList 1.20
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AmericanTypewriterStd-Bold
+FamilyName:ITC American Typewriter Std
+StyleName:Bold
+FullName:ITC American Typewriter Std Bold
+MenuName:American Typewriter Std Med
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\AmericanTypewriterStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44756
+FileModTime:1543907386
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,American Typewriter Std Bold
+NameArray:0,Mac,4,ITC American Typewriter Std Bold
+NameArray:0,Win,1,American Typewriter Std Med
+NameArray:0,Win,16,ITC American Typewriter Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AmericanTypewriterStd-Med
+FamilyName:ITC American Typewriter Std
+StyleName:Medium
+FullName:ITC American Typewriter Std Medium
+MenuName:American Typewriter Std Med
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\AmericanTypewriterStd-Med.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44728
+FileModTime:1543907386
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,American Typewriter Std Med
+NameArray:0,Mac,4,ITC American Typewriter Std Medium
+NameArray:0,Win,1,American Typewriter Std Med
+NameArray:0,Win,16,ITC American Typewriter Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Black
+FamilyName:Avenir LT Std
+StyleName:95 Black
+FullName:Avenir LT Std 95 Black
+MenuName:Avenir LT Std 65 Medium
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\AvenirLTStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28688
+FileModTime:1543907388
+WeightClass:750
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 95 Black
+NameArray:0,Win,1,Avenir LT Std 65 Medium
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Book
+FamilyName:Avenir LT Std
+StyleName:45 Book
+FullName:Avenir LT Std 45 Book
+MenuName:Avenir LT Std 45 Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\AvenirLTStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28288
+FileModTime:1543907388
+WeightClass:350
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 45 Book
+NameArray:0,Win,1,Avenir LT Std 45 Book
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Heavy
+FamilyName:Avenir LT Std
+StyleName:85 Heavy
+FullName:Avenir LT Std 85 Heavy
+MenuName:Avenir LT Std 55 Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\AvenirLTStd-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28508
+FileModTime:1543907390
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 85 Heavy
+NameArray:0,Win,1,Avenir LT Std 55 Roman
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BauhausStd-Demi
+FamilyName:Bauhaus Std
+StyleName:Demi
+FullName:Bauhaus Std Demi
+MenuName:Bauhaus Std Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\BauhausStd-Demi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28068
+FileModTime:1543907390
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Bauhaus Std Demi
+NameArray:0,Win,1,Bauhaus Std Light
+NameArray:0,Win,16,Bauhaus Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Billy-Bold
+FamilyName:Billy
+StyleName:Bold
+FullName:Billy Bold
+MenuName:Billy
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\BILLY-BOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:18072
+FileModTime:1543907392
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Billy Bold
+NameArray:0,Win,1,Billy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrunoJBStd-Bold
+FamilyName:Bruno JB Std
+StyleName:Bold
+FullName:Bruno JB Std Bold
+MenuName:Bruno JB Std
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\BrunoJBStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44480
+FileModTime:1543907390
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Bruno JB Std Bold
+NameArray:0,Win,1,Bruno JB Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CochinLTStd-BoldItalic
+FamilyName:Cochin LT Std
+StyleName:Bold Italic
+FullName:Cochin LT Std Bold Italic
+MenuName:Cochin LT Std
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\CochinLTStd-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34100
+FileModTime:1543907392
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,4,Cochin LT Std Bold Italic
+NameArray:0,Win,1,Cochin LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DomCasualStd-Bold
+FamilyName:Dom Casual Std
+StyleName:Bold
+FullName:Dom Casual Std Bold
+MenuName:Dom Casual Std
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\DomCasualStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36268
+FileModTime:1543907392
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,4,Dom Casual Std Bold
+NameArray:0,Win,1,Dom Casual Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DomCasualStd
+FamilyName:Dom Casual Std
+StyleName:Medium
+FullName:Dom Casual Std Medium
+MenuName:Dom Casual Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\DomCasualStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33308
+FileModTime:1543907392
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,18,Dom Casual Std
+NameArray:0,Mac,4,Dom Casual Std Medium
+NameArray:0,Win,1,Dom Casual Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:EuropeanPiStd-3
+FamilyName:European Pi Std
+StyleName:3
+FullName:European Pi Std 3
+MenuName:European Pi Std 3
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\EuropeanPiStd-3.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:18208
+FileModTime:1543907394
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:240
+NameArray:0,Mac,4,European Pi Std 3
+NameArray:0,Win,1,European Pi Std 3
+NameArray:0,Win,16,European Pi Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-CondensedBoldObl
+FamilyName:Futura Std
+StyleName:Bold Condensed Oblique
+FullName:Futura Std Bold Condensed Oblique
+MenuName:Futura Std Condensed
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\FuturaStd-CondensedBoldObl.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29508
+FileModTime:1543907394
+WeightClass:700
+WidthClass:3
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,Futura Std Condensed Bold Obl
+NameArray:0,Mac,4,Futura Std Bold Condensed Oblique
+NameArray:0,Win,1,Futura Std Condensed
+NameArray:0,Win,16,Futura Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-ExtraBoldOblique
+FamilyName:Futura Std
+StyleName:Extra Bold Oblique
+FullName:Futura Std Extra Bold Oblique
+MenuName:Futura Std ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\FuturaStd-ExtraBoldOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30312
+FileModTime:1543907396
+WeightClass:750
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,Futura Std ExtraBold Oblique
+NameArray:0,Mac,4,Futura Std Extra Bold Oblique
+NameArray:0,Win,1,Futura Std ExtraBold
+NameArray:0,Win,16,Futura Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-HeavyOblique
+FamilyName:Futura Std
+StyleName:Heavy Oblique
+FullName:Futura Std Heavy Oblique
+MenuName:Futura Std Medium
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\FuturaStd-HeavyOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28828
+FileModTime:1543907396
+WeightClass:650
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,4,Futura Std Heavy Oblique
+NameArray:0,Win,1,Futura Std Medium
+NameArray:0,Win,16,Futura Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-LightOblique
+FamilyName:Futura Std
+StyleName:Light Oblique
+FullName:Futura Std Light Oblique
+MenuName:Futura Std Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\FuturaStd-LightOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29088
+FileModTime:1543907398
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,4,Futura Std Light Oblique
+NameArray:0,Win,1,Futura Std Light
+NameArray:0,Win,16,Futura Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GlyphaLTStd-Oblique
+FamilyName:Glypha LT Std
+StyleName:55 Oblique
+FullName:Glypha LT Std 55 Oblique
+MenuName:Glypha LT Std
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\GlyphaLTStd-Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32028
+FileModTime:1543907398
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,Glypha LT Std Oblique
+NameArray:0,Mac,4,Glypha LT Std 55 Oblique
+NameArray:0,Win,1,Glypha LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GraphiteStd-Light
+FamilyName:Graphite Std
+StyleName:Light
+FullName:Graphite Std Light
+MenuName:Graphite Std Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\GraphiteStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36124
+FileModTime:1543907398
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,4,Graphite Std Light
+NameArray:0,Win,1,Graphite Std Light
+NameArray:0,Win,16,Graphite Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GraphiteStd-Regular
+FamilyName:Graphite Std
+StyleName:Regular
+FullName:Graphite Std
+MenuName:Graphite Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\GraphiteStd-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36476
+FileModTime:1543907400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,4,Graphite Std
+NameArray:0,Win,1,Graphite Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GrilledCheeseBTN
+FamilyName:Grilled Cheese BTN
+StyleName:Regular
+FullName:Grilled Cheese BTN
+MenuName:Grilled Cheese BTN
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\GrilledCheeseBTN.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35724
+FileModTime:1543907400
+WeightClass:550
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Grilled Cheese BTN
+NameArray:0,Win,1,Grilled Cheese BTN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Bd
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold
+FullName:Helvetica Neue LT Std 75 Bold
+MenuName:HelveticaNeueLT Std
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\HelveticaNeueLTStd-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29108
+FileModTime:1543907402
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold
+NameArray:0,Mac,4,Helvetica Neue LT Std 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdCn
+FamilyName:Helvetica Neue LT Std
+StyleName:77 Bold Condensed
+FullName:Helvetica Neue LT Std 77 Bold Condensed
+MenuName:HelveticaNeueLT Std Cn
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\HelveticaNeueLTStd-BdCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30148
+FileModTime:1543907402
+WeightClass:700
+WidthClass:3
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 77 Bold Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdIt
+FamilyName:Helvetica Neue LT Std
+StyleName:76 Bold Italic
+FullName:Helvetica Neue LT Std 76 Bold Italic
+MenuName:HelveticaNeueLT Std
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\HelveticaNeueLTStd-BdIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29584
+FileModTime:1543907402
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Ital
+NameArray:0,Mac,4,Helvetica Neue LT Std 76 Bold Italic
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvEx
+FamilyName:Helvetica Neue LT Std
+StyleName:83 Heavy Extended
+FullName:Helvetica Neue LT Std 83 Heavy Extended
+MenuName:HelveticaNeueLT Std Med Ext
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\HelveticaNeueLTStd-HvEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29768
+FileModTime:1543907404
+WeightClass:750
+WidthClass:7
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Hvy Ext
+NameArray:0,Mac,4,Helvetica Neue LT Std 83 Heavy Extended
+NameArray:0,Win,1,HelveticaNeueLT Std Med Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Lt
+FamilyName:Helvetica Neue LT Std
+StyleName:45 Light
+FullName:Helvetica Neue LT Std 45 Light
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\HelveticaNeueLTStd-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28980
+FileModTime:1543907404
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt
+NameArray:0,Mac,4,Helvetica Neue LT Std 45 Light
+NameArray:0,Win,1,HelveticaNeueLT Std Lt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtIt
+FamilyName:Helvetica Neue LT Std
+StyleName:46 Light Italic
+FullName:Helvetica Neue LT Std 46 Light Italic
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\HelveticaNeueLTStd-LtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29484
+FileModTime:1543907406
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt Ital
+NameArray:0,Mac,4,Helvetica Neue LT Std 46 Light Italic
+NameArray:0,Win,1,HelveticaNeueLT Std Lt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+FullName:Helvetica Neue LT Std 55 Roman
+MenuName:HelveticaNeueLT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\HelveticaNeueLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29044
+FileModTime:1543907406
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std
+NameArray:0,Mac,4,Helvetica Neue LT Std 55 Roman
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-XBlkCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:107 Extra Black Condensed Oblique
+FullName:Helvetica Neue LT Std 107 Extra Black Condensed Oblique
+MenuName:HelveticaNeueLT Std ExtBlk Cn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\HelveticaNeueLTStd-XBlkCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32832
+FileModTime:1543907384
+WeightClass:950
+WidthClass:3
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std ExtBlk CnOb
+NameArray:0,Mac,4,Helvetica Neue LT Std 107 Extra Black Condensed Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std ExtBlk Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:KingthingsTrypewriter2
+FamilyName:Kingthings Trypewriter 2
+StyleName:Regular
+FullName:Kingthings Trypewriter 2
+MenuName:Kingthings Trypewriter 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\KingthingsTrypewriter2.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114912
+FileModTime:1543907408
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kingthings Trypewriter 2
+NameArray:0,Win,1,Kingthings Trypewriter 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Lobster1.4
+FamilyName:Lobster 1.4
+StyleName:Regular
+FullName:Lobster 1.4
+MenuName:Lobster 1.4
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\Lobster1.4.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37632
+FileModTime:1543907408
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lobster 1.4
+NameArray:0,Win,1,Lobster 1.4
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MagnesiumMVBStd-Grime
+FamilyName:Magnesium MVB Std
+StyleName:Grime
+FullName:Magnesium MVB Std Grime
+MenuName:Magnesium MVB Std Grime
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\MagnesiumMVBStd-Grime.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:181740
+FileModTime:1543907410
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,4,Magnesium MVB Std Grime
+NameArray:0,Win,1,Magnesium MVB Std Grime
+NameArray:0,Win,16,Magnesium MVB Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-BoldCn
+FamilyName:Minion Pro
+StyleName:Bold Cond
+FullName:Minion Pro Bold Cond
+MenuName:Minion Pro Cond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\MinionPro-BoldCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:236528
+FileModTime:1543907412
+WeightClass:700
+WidthClass:3
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro Bold Cond
+NameArray:0,Win,1,Minion Pro Cond
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:235436
+FileModTime:1543907412
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OfficinaSansStd-Bold
+FamilyName:ITC Officina Sans Std
+StyleName:Bold
+FullName:ITC Officina Sans Std Bold
+MenuName:ITC Officina Sans Std Book
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\OfficinaSansStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35440
+FileModTime:1543907414
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,ITC Officina Sans Std Bold
+NameArray:0,Win,1,ITC Officina Sans Std Book
+NameArray:0,Win,16,ITC Officina Sans Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Olivier2016
+FamilyName:Olivier 2016
+StyleName:Regular
+FullName:Olivier2016
+MenuName:Olivier 2016
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\Olivier2016.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25280
+FileModTime:1543907414
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Olivier2016
+NameArray:0,Win,1,Olivier 2016
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SoupboneOT
+FamilyName:Soupbone OT
+StyleName:Regular
+FullName:Soupbone OT
+MenuName:SoupboneOT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\SOUPBONEOT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55232
+FileModTime:1543907414
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Soupbone OT
+NameArray:0,Win,1,SoupboneOT
+NameArray:0,Win,16,Soupbone OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TimesLTStd-Phonetic
+FamilyName:Times LT Std
+StyleName:Phonetic
+FullName:Times LT Std Phonetic
+MenuName:Times LT Std Phonetic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\TimesLTStd-Phonetic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111752
+FileModTime:1543907414
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Times LT Std Phonetic
+NameArray:0,Win,1,Times LT Std Phonetic
+NameArray:0,Win,16,Times LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TimesLTStd-Roman
+FamilyName:Times LT Std
+StyleName:Roman
+FullName:Times LT Std Roman
+MenuName:Times LT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\TimesLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47848
+FileModTime:1543907416
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Times LT Std
+NameArray:0,Mac,4,Times LT Std Roman
+NameArray:0,Win,1,Times LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-UltraCn
+FamilyName:Univers LT Std
+StyleName:59 Ultra Condensed
+FullName:Univers LT Std 59 Ultra Condensed
+MenuName:Univers LT Std 59 UltraCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\UniversLTStd-UltraCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31080
+FileModTime:1543907416
+WeightClass:400
+WidthClass:1
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Univers LT Std 59 UltraCn
+NameArray:0,Mac,4,Univers LT Std 59 Ultra Condensed
+NameArray:0,Win,1,Univers LT Std 59 UltraCn
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:WeberHandITCStd-Bold
+FamilyName:Weber Hand ITC Std
+StyleName:Bold
+FullName:Weber Hand ITC Std Bold
+MenuName:Weber Hand ITC Std
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\WEBERHANDITCSTD-BOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:48796
+FileModTime:1543907416
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Weber Hand ITC Std Bold
+NameArray:0,Win,1,Weber Hand ITC Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:WendyLPStd-Bold
+FamilyName:Wendy LP Std
+StyleName:Bold
+FullName:Wendy LP Std Bold
+MenuName:Wendy LP Std Medium
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\WendyLPStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41284
+FileModTime:1543907386
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,4,Wendy LP Std Bold
+NameArray:0,Win,1,Wendy LP Std Medium
+NameArray:0,Win,16,Wendy LP Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:YanoneKaffeesatz-Bold
+FamilyName:Yanone Kaffeesatz
+StyleName:Bold
+FullName:Yanone Kaffeesatz
+MenuName:Yanone Kaffeesatz Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\YanoneKaffeesatz-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33964
+FileModTime:1543907416
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Yanone Kaffeesatz
+NameArray:0,Win,1,Yanone Kaffeesatz Bold
+NameArray:0,Win,16,Yanone Kaffeesatz
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Zalderdash-Regular
+FamilyName:Zalderdash
+StyleName:Regular
+FullName:Zalderdash-Regular
+MenuName:Zalderdash
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\Zalderdash-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102824
+FileModTime:1543907418
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Zalderdash-Regular
+NameArray:0,Win,1,Zalderdash
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ZapfDingbatsStd
+FamilyName:ITC Zapf Dingbats Std
+StyleName:Medium
+FullName:ITC Zapf Dingbats Std Medium
+MenuName:ITC Zapf Dingbats Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\raquel_rodriguez\Desktop\Parachute Dore\Parachute Dore Livre - Demo\Document fonts\ZAPFDINGBATSSTD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39228
+FileModTime:1543907418
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:240
+NameArray:0,Mac,18,ITC Zapf Dingbats Std
+NameArray:0,Mac,4,ITC Zapf Dingbats Std Medium
+NameArray:0,Win,1,ITC Zapf Dingbats Std
+%EndFont
+
