@@ -767,7 +767,7 @@ body:not(.edit) .slider-indicators {
     list-style: none;
 }
 
-/*.texto_curso ul li:before,
+.texto_curso ul li:before,
 .workspace ul li ul li:before,
 .cke_contents ul li:before, .preview ul li:before,
 .classify-item ul li:before,
@@ -779,7 +779,7 @@ body:not(.edit) .slider-indicators {
     background-color: #3a3636;
     color: #333;
     border-radius: 50%;
-}*/
+}
 
 
 /*lista desordenada */
@@ -788,18 +788,20 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ul-1 li:before,
 #actividad .content .workspace ul li .bck-ul-1 li:before ,
 #actividad .popover-background.shown .popover-content > ul > li:before{
+    
     content: "\f0da";
     font-family: FontAwesome;
     position: absolute;
     height: 7px;
     width: 10px;
-    color: #fff;    
+    color: #fff;
+    background: none;    
 }
 
 
-/*#actividad .popover-background.shown .popover-content > ul > li:before{
+#actividad .popover-background.shown .popover-content > ul > li:before{
      position: inherit;
-}*/
+}
 
 /*LISTAS ORDENADAS*/
 
