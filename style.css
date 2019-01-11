@@ -738,13 +738,19 @@ body:not(.edit) .slider-indicators {
 
 
 #actividad .content img.player, #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
-    height: 25px !important;
+        height: 25px !important;
     width: 27px;
     display: inline-block;
     background-repeat: no-repeat;
-    border-radius: 100%;
+    border-radius: 0;
     margin-right: 5px;
     vertical-align: sub;
+    padding: 0px;
+}
+
+#actividad .content img.player, #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player:hover {
+-webkit-box-shadow: 2px 2px 2px undefinedpx #A8A3A2;
+    box-shadow: 2px 2px 2px undefinedpx #A8A3A2;
 }
 
 
@@ -771,11 +777,21 @@ body:not(.edit) .slider-indicators {
 
 
 .bck-title-3 {
+    .bck-title-3 {
     font-size: 30px;
-    font-weight: 600;
+    font-weight: 500;
     font-family: GlyphaLTStd-Oblique;
     color: #fff265;
     background-color: #000;
+    padding: 3px 10px 3px 6px;
+    width: fit-content;
+    -moz-transform: rotate(-10deg) skewX(3deg);
+    -webkit-transform: rotate(-10deg) skewX(3deg);
+    -o-transform: rotate(-10deg) skewX(3deg);
+    -ms-transform: rotate(-10deg) skewX(3deg);
+    transform: rotate(-4deg) skewX(4deg);
+    width: -moz-fit-content;
+}
 }
 
 
