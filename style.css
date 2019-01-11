@@ -15,16 +15,52 @@
       src: url(fonts/BauhausStd-Demi.otf);
     }
 
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-Bd;
+      src: url(fonts/HelveticaNeueLTStd-Bd.otf);
+    }
+
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-BdCn;
+      src: url(fonts/HelveticaNeueLTStd-BdCn.otf);
+    }
+
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-BdIt;
+      src: url(fonts/HelveticaNeueLTStd-BdIt.otf);
+    }
+
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-HvEx;
+      src: url(fonts/HelveticaNeueLTStd-HvEx.otf);
+    }
+
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-Lt;
+      src: url(fonts/HelveticaNeueLTStd-Lt.otf);
+    }
+
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-LtIt;
+      src: url(fonts/HelveticaNeueLTStd-LtIt.otf);
+    }
+
+
     @font-face {
       font-family: HelveticaNeueLTStd-Roman;
       src: url(fonts/HelveticaNeueLTStd-Roman.otf);
     }
 
-
-
-
-
-
+    @font-face {
+      font-family: HelveticaNeueLTStd-XBlkCnO;
+      src: url(fonts/HelveticaNeueLTStd-XBlkCnO.otf);
+    }
 
 
 
@@ -38,8 +74,6 @@
       src: url(fonts/Avenir.ttc);
 
     }
-
-
 
     @font-face {
       font-family: Calibri;
