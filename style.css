@@ -224,7 +224,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #book-index #indice .unit-content a:focus,
 #indice .units ul li a:focus,
 #indice .actividades a:focus {
-    color: #ba4200;
+    color: #ea5b0c;
 }
 
 #book-index #indice .unit-content .actividades .item {
@@ -1579,15 +1579,15 @@ td, th {
 /*Boton toc - boton reininciar ejercicio*/
 
 .btn-primary {
-    background-color: #428bcac9;
+    background-color: #ea5b0c;
 }
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
-    background-color: #bd0911;
+    background-color: #ea5b0c;
 }
 
 .btn-primary[disabled], .btn-primary[disabled]:focus {
-    background-color: #bd0911;
+    background-color: #ea5b0c;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
