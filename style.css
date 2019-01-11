@@ -724,7 +724,8 @@ body:not(.edit) .slider-indicators {
 }
 
 #actividad .player.audio:hover {
-    color: #ba4200;
+    -webkit-box-shadow: 2px 2px 2px undefinedpx #DBD4D3;
+box-shadow: 2px 2px 2px undefinedpx #DBD4D3;
 }
 
 
@@ -737,6 +738,8 @@ body:not(.edit) .slider-indicators {
     margin-right: 10px;
     vertical-align: sub;
 }
+
+
 
 /*titulo generico
 .bck-title {
