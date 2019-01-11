@@ -163,7 +163,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
     background: #ffffff9e;
     /*float: left;*/
     font-size: 30px;
-    font-weight: 700;
+    font-weight: 500;
     font-family: GrilledCheeseBTN;
     line-height: 34px;
     padding: 5px 20px;
@@ -190,9 +190,9 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 }
 
 #indice .units ul li {
-    -webkit-border-radius: 0px;
-       -moz-border-radius: 0px;
-            border-radius: 0px;
+    -webkit-border-radius: 4px;
+       -moz-border-radius: 4px;
+            border-radius: 4px;
 }
 
 #indice .units ul li.active:not(.disabled),
@@ -203,7 +203,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 #indice .units ul li.hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
-    background: #ba4200;
+    background: #f97227;
 }
 
 #book-index #indice .unit-content a,
