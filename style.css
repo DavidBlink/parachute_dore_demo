@@ -779,9 +779,7 @@ body:not(.edit) .slider-indicators {
     position: absolute;
     height: 7px;
     width: 10px;
-    color: #fff;
-    background-color: #ef7d00;
-    
+    color: #fff;    
 }
 
 
