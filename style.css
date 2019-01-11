@@ -670,10 +670,10 @@ body:not(.edit) .slider-indicators {
 
 /*Icono audio*/
 
-#actividad .player.audio:before {
+/*#actividad .player.audio:before {
     content: "\f025";
     font-family: "fontawesome";
-}
+}*/
 
 
 #actividad .player.audio {
