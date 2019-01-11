@@ -779,6 +779,10 @@ body:not(.edit) .slider-indicators {
 
 /*lista desordenada */
 
+#actividad .content ul.bck-ul li {
+    list-style: none;
+}
+
 /*lista trianguloNaranja*/
 #actividad .content .texto_curso .bck-ul li:before,
 #actividad .content .workspace ul li .bck-ul li:before ,
