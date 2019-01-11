@@ -239,7 +239,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
     color: #fff;
-    background: #ca500d;
+    background: #ba4200;
 }
 
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a,
@@ -962,25 +962,21 @@ body:not(.edit) .slider-indicators {
 /*CAJA1*/
 
 .bck-box.bck-box-1 {
-    min-height: 80px;
     margin-top: 15px;
 }
 
 .bck-box-1 .bck-title {
-    border-bottom: 0px solid #eee;
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background-color: #728fa6;
-    padding: 5px;
-    border-bottom: 2px solid;
-    border-color: #fff;
+    
 
 }
 
 .bck-box.bck-box-1 .bck-content {
     padding-left: 30px;
-    background-color: #e3e4e6;
+    background-color: background: rgb(25,43,74); 
+background: -moz-linear-gradient(-45deg, rgba(25,43,74,1) 0%, rgba(78,95,140,1) 44%, rgba(117,139,192,1) 100%); 
+background: -webkit-linear-gradient(-45deg, rgba(25,43,74,1) 0%,rgba(78,95,140,1) 44%,rgba(117,139,192,1) 100%); 
+background: linear-gradient(135deg, rgba(25,43,74,1) 0%,rgba(78,95,140,1) 44%,rgba(117,139,192,1) 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#192b4a', endColorstr='#758bc0',GradientType=1 ); 
 }
 
 
