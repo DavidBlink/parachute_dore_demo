@@ -58,6 +58,11 @@
     }
 
     @font-face {
+      font-family: GlyphaLTStd-Oblique;
+      src: url(fonts/GlyphaLTStd-Oblique.otf);
+    }
+
+    @font-face {
       font-family: HelveticaNeueLTStd-XBlkCnO;
       src: url(fonts/HelveticaNeueLTStd-XBlkCnO.otf);
     }
@@ -766,8 +771,11 @@ body:not(.edit) .slider-indicators {
 
 
 .bck-title-3 {
-    font-size: 1.7rem;
+    font-size: 30px;
     font-weight: 600;
+    font-family: GlyphaLTStd-Oblique;
+    color: #fff265;
+    background-color: #000;
 }
 
 
