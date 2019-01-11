@@ -159,11 +159,12 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 }
 
 #indice .unit-content .header .title {
-    color: #ed1b24;
+    color: #ea5b0c;
     background: #ffffff9e;
-    float: left;
+    /*float: left;*/
     font-size: 30px;
     font-weight: 700;
+    font-family: GrilledCheeseBTN;
     line-height: 34px;
     padding: 5px 20px;
     height: 50px;
