@@ -763,19 +763,6 @@ body:not(.edit) .slider-indicators {
     border-radius: 50%;
 }
 
-/*lista desordenada por defecto, sin seleccionar estilo para la ul*/
-
-#actividad .content .texto_curso ul li:before,
-#actividad .content .workspace ul li ul li:before,
-{
-    height: 6px;
-    width: 6px;
-    background-color: #3a3636;
-    color: #000000;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
-}
 
 /*lista desordenada */
 
