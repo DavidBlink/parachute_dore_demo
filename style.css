@@ -126,13 +126,14 @@ body {
     height: 100vh;
     font-size: 16px;
     font-weight: 300;
-    font-family: HelveticaNeueLTStd-HvEx;
+    
 }
 
 .body_clase .content-wrapper,
 .body_clase.view-mode .content-wrapper {
     padding-top: 44px;
     padding-bottom: 50px;
+    font-family: HelveticaNeueLTStd-Lt;
 }
 
 .body_clase .content-wrapper.modo-revision,
