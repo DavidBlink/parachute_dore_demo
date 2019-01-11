@@ -735,9 +735,10 @@ body:not(.edit) .slider-indicators {
     font-size: 5rem;
 }
 
+/*azul-bauhaus*/
 .bck-enfasis-2 {
-    color: #5888c3;
-    font-style: italic;
+    color: #4565ad;
+    font-family: BauhausStd-Demi;
 
 }    
 
