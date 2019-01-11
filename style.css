@@ -693,7 +693,7 @@ body:not(.edit) .slider-indicators {
 */
 
 .bck-title-intro {
-    font-size: 2.8rem;
+    font-size: 40px;
     font-family: 'GrilledCheeseBTN';
     color: #ea5b0c;
 }
@@ -701,7 +701,7 @@ body:not(.edit) .slider-indicators {
 .bck-title-1 {
     color: #fff;
      font-family: Olivier2016;
-     font-size: 2.4rem;
+     font-size: 32px;
 }
 
 
@@ -779,9 +779,9 @@ body:not(.edit) .slider-indicators {
 }
 
 
-#actividad .popover-background.shown .popover-content > ul > li:before{
+/*#actividad .popover-background.shown .popover-content > ul > li:before{
      position: inherit;
-}
+}*/
 
 /*LISTAS ORDENADAS*/
 
