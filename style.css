@@ -980,11 +980,12 @@ body:not(.edit) .slider-indicators {
 
 .bck-box.bck-box-1 .bck-content {
     padding-left: 30px;
-    background-color: background: rgb(25,43,74); 
-background: -moz-linear-gradient(top, rgba(25,43,74,1) 0%, rgba(78,95,140,1) 31%, rgba(85,117,193,1) 79%); 
-background: -webkit-linear-gradient(top, rgba(25,43,74,1) 0%,rgba(78,95,140,1) 31%,rgba(85,117,193,1) 79%); 
-background: linear-gradient(to bottom, rgba(25,43,74,1) 0%,rgba(78,95,140,1) 31%,rgba(85,117,193,1) 79%); 
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#192b4a', endColorstr='#5575c1',GradientType=0 ); 
+    background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#365785+0,4e7ab6+32,5685c4+82 */
+background: rgb(54,87,133); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(54,87,133,1) 0%, rgba(78,122,182,1) 32%, rgba(86,133,196,1) 82%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(54,87,133,1) 0%,rgba(78,122,182,1) 32%,rgba(86,133,196,1) 82%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(54,87,133,1) 0%,rgba(78,122,182,1) 32%,rgba(86,133,196,1) 82%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', endColorstr='#5685c4',GradientType=0 ); /* IE6-9 */ 
 
 
 /*CAJA2*/
