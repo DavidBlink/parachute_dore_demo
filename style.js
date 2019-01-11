@@ -20,6 +20,7 @@
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Azul-Bauhaus', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
+				{ name: 'NúmeroNaranjaTitulo', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'Énfasis-3', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
