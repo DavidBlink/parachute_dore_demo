@@ -13,25 +13,26 @@
 		ckEditorStyles: {
 			name: 'parachute_dore_demo',
 			styles: [
-				{ name: 'Título intro', element: 'h2', attributes: { 'class': 'bck-title bck-title-intro'} },
-				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
-				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
-				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
+				{ name: 'Título intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
+				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
+				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title-2'} },
+				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title-3'} },
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Énfasis-2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis-3', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
-				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
-				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
-				{ name: 'Lista Ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-3' } },
+				
+				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
+				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
+				{ name: 'Lista Ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 
-				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
-				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
-				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-3' } },
-				{ name: 'Caja 4', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-4' } },
-				{ name: 'Caja 5', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-5' } },
+				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
+				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
+				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
+				{ name: 'Caja 4', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
+				{ name: 'Caja 5', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td bck-td-1'} },
@@ -41,8 +42,8 @@
 
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
 
-				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
-				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } }
+				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } },
+				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-2' } }
 			]
 		},
 		slidesTitle: {},
