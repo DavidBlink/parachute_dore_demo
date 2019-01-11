@@ -810,7 +810,10 @@ body:not(.edit) .slider-indicators {
 }    
 
 .bck-enfasis-3 {
-    color: #728fab;
+    color: #ea5b0c;
+    font-size: 65px;
+    font-family: BauhausStd-Demi;
+
  }
 
 /*LISTAS DESORDENADAS*/
