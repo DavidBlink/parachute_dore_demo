@@ -718,7 +718,7 @@ body:not(.edit) .slider-indicators {
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
-    background-size: cover;
+    background-size: contain;
     background-position: 0;
     background-color: #9a999e00;
 }
