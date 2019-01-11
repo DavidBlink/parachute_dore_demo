@@ -724,8 +724,8 @@ body:not(.edit) .slider-indicators {
 }
 
 #actividad .player.audio:hover {
-    -webkit-box-shadow: 2px 2px 2px undefinedpx #DBD4D3;
-box-shadow: 2px 2px 2px undefinedpx #DBD4D3;
+    -webkit-box-shadow: 2px 2px 2px undefinedpx #A8A3A2;
+    box-shadow: 2px 2px 2px undefinedpx #A8A3A2;
 }
 
 
