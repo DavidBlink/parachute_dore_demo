@@ -894,7 +894,7 @@ body:not(.edit) .slider-indicators {
     position: absolute;
     color: #ffffff;
     background: #ec6608;
-    margin-left: -40px;
+    margin-left: -35px;
     margin-right: 0px;
     border-radius: 100%;
     text-align: center;
