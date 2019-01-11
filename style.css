@@ -749,7 +749,7 @@ body:not(.edit) .slider-indicators {
     list-style: none;
 }
 
-.texto_curso ul li:before,
+/*.texto_curso ul li:before,
 .workspace ul li ul li:before,
 .cke_contents ul li:before, .preview ul li:before,
 .classify-item ul li:before,
@@ -761,7 +761,7 @@ body:not(.edit) .slider-indicators {
     background-color: #3a3636;
     color: #333;
     border-radius: 50%;
-}
+}*/
 
 
 /*lista desordenada */
