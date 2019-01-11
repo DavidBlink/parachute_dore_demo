@@ -13,8 +13,8 @@
 		ckEditorStyles: {
 			name: 'parachute_dore_demo',
 			styles: [
-				{ name: 'Título intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
-				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
+				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
+				{ name: 'Título BlancoInicio', element: 'h2', attributes: { 'class': 'bck-title-1'} },
 				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title-2'} },
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title-3'} },
 
@@ -28,7 +28,7 @@
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista Ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 
-				{ name: 'Caja-inicio', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
+				{ name: 'CajaInicio', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
 				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'Caja 4', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
