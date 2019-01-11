@@ -712,14 +712,13 @@ body:not(.edit) .slider-indicators {
 
 
 #actividad .player.audio {
-     background-image: url(Images/icono-audio-parachute.png);
+    background-image: url(Images/icono-audio-parachute.png);
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
     background-size: cover;
     background-position: 0;
-    background-color: #9a999e;
-    color: #fff;
+    background-color: #9a999e00;
 }
 
 #actividad .player.audio:hover {
@@ -733,7 +732,7 @@ body:not(.edit) .slider-indicators {
     display: inline-block;
     background-repeat: no-repeat;
     border-radius: 100%;
-    margin: 0 5px;
+    margin-right: 10px;
     vertical-align: sub;
 }
 
