@@ -701,7 +701,7 @@ body:not(.edit) .slider-indicators {
 .bck-title-1 {
     color: #fff;
      font-family: Olivier2016;
-     font-size: 2.2rem;
+     font-size: 2.4rem;
 }
 
 
@@ -779,12 +779,17 @@ body:not(.edit) .slider-indicators {
 
 /*lista desordenada */
 
+/*lista trianguloNaranja*/
 #actividad .content .texto_curso .bck-ul li:before,
 #actividad .content .workspace ul li .bck-ul li:before ,
 #actividad .popover-background.shown .popover-content > ul > li:before{
+    content: "\f0da";
+    font-family: FontAwesome;
+    position: absolute;
     height: 7px;
-    width: 7px;
-    background-color: #f00;
+    width: 10px;
+    color: #fff;
+    background-color: #ef7d00;
     
 }
 
