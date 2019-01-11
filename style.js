@@ -19,7 +19,7 @@
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title-3'} },
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
-				{ name: 'Énfasis-2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
+				{ name: 'Azul-Bauhaus', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis-3', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
