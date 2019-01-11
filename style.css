@@ -6,6 +6,11 @@
     }
 
     @font-face {
+      font-family: Olivier2016;
+      src: url(fonts/Olivier2016.otf);
+    }
+
+    @font-face {
       font-family: Arial;
       src: url(fonts/Arial.ttf);
 
@@ -15,6 +20,9 @@
       src: url(fonts/Avenir.ttc);
 
     }
+
+
+
     @font-face {
       font-family: Calibri;
       src: url(fonts/Calibri.ttf);
