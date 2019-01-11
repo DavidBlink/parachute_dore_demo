@@ -90,8 +90,9 @@
 /*General */
 body {
     height: 100vh;
-    font-size: 1.7rem;
+    font-size: 16px;
     font-weight: 300;
+    font-family: HelveticaNeueLTStd-Roman;
 }
 
 .body_clase .content-wrapper,
@@ -1598,6 +1599,11 @@ td, th {
 .btn-primary {
     background-color: #ea5b0c;
 }
+
+.btn-primary, .btn-primary.disabled {
+    background-color: #ea5b0c
+}
+
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
     background-color: #ea5b0c;
