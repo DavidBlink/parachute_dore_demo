@@ -11,6 +11,24 @@
     }
 
     @font-face {
+      font-family: BauhausStd-Demi;
+      src: url(fonts/BauhausStd-Demi.otf);
+    }
+
+    @font-face {
+      font-family: HelveticaNeueLTStd-Roman;
+      src: url(fonts/HelveticaNeueLTStd-Roman.otf);
+    }
+
+
+
+
+
+
+
+
+
+    @font-face {
       font-family: Arial;
       src: url(fonts/Arial.ttf);
 
