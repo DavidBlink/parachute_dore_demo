@@ -946,15 +946,11 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso ol.bck-ol-2 li:before,
 #actividad .popover-content ol.bck-ol-2 li:before,
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
-    content: counter(bck-li-counter);
-    color: #333;
-    font-weight: bold;
-    margin-top: 0;
-    padding-right: 10px;
-    text-align: right;
-    position:absolute;
-    left:-10px;
-
+    content: counter(bck-li-counter, lower-alpha)".";
+    position: absolute;
+    text-align: center;
+    color: #96a6d1;
+    line-height: normal;
 }
 
 /*LISTA ORDENADA 3*/
