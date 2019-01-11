@@ -923,7 +923,7 @@ body:not(.edit) .slider-indicators {
     line-height: 26px;
 }
 
-/*LISTA ORDENADA 2*/
+/*LISTA LetraMinusAzul*/
 #actividad .content .cke_contents .bck-ol-2,
 #actividad .content .texto_curso .bck-ol-2,
 #actividad .content .workspace ul li .bck-ol-2 {
@@ -951,6 +951,9 @@ body:not(.edit) .slider-indicators {
     text-align: center;
     color: #96a6d1;
     line-height: normal;
+    margin-left: -20px;
+    line-height: unset;
+    font-weight: 600;
 }
 
 /*LISTA ORDENADA 3*/
