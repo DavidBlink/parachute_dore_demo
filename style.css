@@ -1117,27 +1117,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 }
 
 .bck-box.bck-box-2 .bck-title:before {
-    background-image: none;
-    content: '';
-    margin: 0px;
-    color: #9ac61e;
-    margin-right: 10px;
+    
 }
 
-#actividad .content .bck-box.bck-box-2 .header.bck-title .title {
-    display: inline-block;
-}
-
-#actividad .content .bck-box.bck-box-2 .header.bck-title .title h3 {
-    margin: 0;
-    color: #9BCB20;
-    font-size: 1.8rem;
-    font-weight: bold;
-}
-
-#actividad .content .bck-box.bck-box-2 .header.bck-title .title h3:before {
-    content: '';
-}
 
 /*CAJA3*/
 
