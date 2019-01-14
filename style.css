@@ -777,7 +777,6 @@ body:not(.edit) .slider-indicators {
 
 
 .bck-title-3 {
-    .bck-title-3 {
     font-size: 30px;
     font-weight: 500;
     font-family: GlyphaLTStd-Oblique;
@@ -791,7 +790,6 @@ body:not(.edit) .slider-indicators {
     -ms-transform: rotate(-10deg) skewX(3deg);
     transform: rotate(-4deg) skewX(4deg);
     width: -moz-fit-content;
-}
 }
 
 
