@@ -1160,16 +1160,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     padding: 10px;
 }
 
-.bck-box.bck-box-3:after {
-    background-image: url(Images/after-verde-caja.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 30px;
-    position: absolute;
-    width: 10px;
-    height: auto;
-    }
+
 
 .bck-box.bck-box-3 .bck-content {
     border: 0;
@@ -1188,6 +1179,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     font-size: 2.5rem;
     font-weight: 100;
 }
+
+.bck-box.bck-box-3 .bck-title:after {
+    background-image: url(Images/after-verde-caja.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 30px;
+    position: absolute;
+    width: 10px;
+    height: auto;
+    }
 
 
 
