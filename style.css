@@ -847,6 +847,7 @@ body:not(.edit) .slider-indicators {
  /*Enfasis 6 YanoneFont*/
  .bck-enfasis-6 {
     font-family: YanoneKaffeesatz;
+    font-size: 2.5rem;
  }
 
 /*LISTAS DESORDENADAS*/
@@ -1232,6 +1233,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     color: #FFF;
     font-size: 2.5rem;
     font-weight: 100;
+    margin-top: -30px;
+    -webkit-text-stroke: 1px #292926;
 }
 
 /*CAJA5*/
