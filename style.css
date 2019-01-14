@@ -834,6 +834,11 @@ body:not(.edit) .slider-indicators {
     color: #ea5b0c;
  }
 
+  /*Enfasis 5 ColorRojo*/
+ .bck-enfasis-5 {
+    color: #CE161C;
+ }
+
 /*LISTAS DESORDENADAS*/
 
 .texto_curso ul li {
@@ -1201,7 +1206,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     background: #D4E05A;
     margin-top: 20px;
     padding: 10px 10px 2px;
-    border-radius: 10px 10px 10px 0px;
+    border-radius: 0px 30px 30px 30px;
 }
 
 .bck-box.bck-box-4 .bck-content {
