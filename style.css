@@ -1507,7 +1507,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 /**/
 
-/**Iconos**/
+/*Iconos*/
+
+/*icono Hablar*/
+.item-container .icon-hablar:before {
+background-image: url(Images/icono-hablar.png);
+}
+
+
+/**Iconos anteriores¿?**/
 
 .item-container .icon:before {
     content: "";
