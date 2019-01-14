@@ -764,7 +764,7 @@ body:not(.edit) .slider-indicators {
 */
 
 .bck-title-intro {
-    font-size: 46px;
+    font-size: 5rem;
     font-family: 'GrilledCheeseBTN';
     color: #ea5b0c;
 }
@@ -815,7 +815,7 @@ body:not(.edit) .slider-indicators {
 /*NúmeroNaranjaTitulo*/
 .bck-enfasis-3 {
     color: #ea5b0c;
-    font-size: 6rem;
+    font-size: 9rem;
     font-family: BauhausStd-Demi;
 
  }
@@ -1097,9 +1097,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     margin-top: 20px;
 }
 
+.bck-box.bck-box-2:before {
+    background-image: url(Images/before-leson.png);
+    padding: 10px;
+    position: absolute;
+    left: 0;
+
+}
+
 .bck-box.bck-box-2 .bck-content {
     border: 0;
-    padding: 10px 25px;
+    padding: 0px 25px 10px 25px;
 }
 
 .bck-box.bck-box-2 .bck-title {
@@ -1108,12 +1116,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     text-align: center;
     border: 0;
     color: #96a7d1;
-    font-size: 1.5rem;
-    font-weight: bold;
+    font-size: 2rem;
+    font-weight: 500;
 }
 
 .bck-box.bck-box-2 .bck-title p {
     width: auto;
+    border-bottom: 2px dotted;
 }
 
 .bck-box.bck-box-2 .bck-title:before {
