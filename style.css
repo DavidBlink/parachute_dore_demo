@@ -399,9 +399,11 @@ footer {
 }
 
 #actividad .class_slide {
-    padding: 40px 97px 0px 137px;
+    padding: 20px 97px 0px;
+    -webkit-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
+    -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
+    box-shadow: rgba(0, 0, 0, 0.43) 0 3px 9px;
 }
-
 body.is_app #actividad .class_slide {
     padding-top: 115px;
 }
@@ -807,6 +809,7 @@ body:not(.edit) .slider-indicators {
     -ms-transform: rotate(-10deg) skewX(3deg);
     transform: rotate(-4deg) skewX(4deg);
     width: -moz-fit-content;
+    margin-left: 10px;
 }
 
 
@@ -962,7 +965,7 @@ body:not(.edit) .slider-indicators {
     position: absolute;
     color: #ffffff;
     background: #ec6608;
-    margin-left: -35px;
+    margin-left: -30px;
     margin-right: 0px;
     border-radius: 100%;
     text-align: center;
@@ -1107,7 +1110,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 .bck-box.bck-box-2 {
     background: #fff;
     text-align: left;
-    margin-top: 20px;
+    margin-left: -97px;
+    margin-top: -37px;
 }
 
 .bck-box.bck-box-2:before {
@@ -1115,7 +1119,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 140px 180px 40px 180px;
+    padding: 150px 250px 100px;
     position: absolute;
     width: 40px;
     height: auto;
@@ -1124,7 +1128,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-2 .bck-content {
     border: 0;
-    padding: 30px 25px 10px 87px;
+    padding: 48px 25px 10px 120px;
     font-size: 5rem;
     font-family: GrilledCheeseBTN;
     color: #ea5b0c;
@@ -1132,7 +1136,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-2 .bck-title {
     font-family: Olivier2016;
-    padding: 5px 25px;
+    padding: 20px 25px 0px;
     text-align: center;
     border: 0;
     color: #80A0D3;
@@ -1562,14 +1566,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     content: "";
     background-repeat: no-repeat;
     -webkit-background-size: cover;
-       -moz-background-size: cover;
-         -o-background-size: cover;
-            background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: contain;
     background-position: center center;
     display: inline-block;
     vertical-align: middle;
-    height: 25px;
-    width: 25px;
+    height: 28px;
+    width: 30px;
 }
 
 
