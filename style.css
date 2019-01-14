@@ -1091,7 +1091,6 @@ body:not(.edit) .slider-indicators {
 
 .bck-box-1 .bck-title {
     
-
 }
 
 .bck-box.bck-box-1 .bck-content {
@@ -1103,7 +1102,6 @@ background: -webkit-linear-gradient(top, rgba(54,87,133,1) 0%,rgba(78,122,182,1)
 background: linear-gradient(to bottom, rgba(54,87,133,1) 0%,rgba(78,122,182,1) 32%,rgba(86,133,196,1) 82%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', endColorstr='#5685c4',GradientType=0 ); /* IE6-9 */ 
 }
-
 
 /*CAJA2 CajaLeson*/
 
@@ -1153,7 +1151,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     
 }
 
-
 /*CAJA3 CajaNaranja*/
 
 .bck-box.bck-box-3 {
@@ -1163,10 +1160,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     background: linear-gradient(to right, rgba(252,181,84,1) 0%,rgba(254,193,94,1) 40%,rgba(255,224,122,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcb554', endColorstr='#ffe07a',GradientType=1 );
     margin-top: 20px;
-    padding: 10px;
+    padding: 10px 10px 2px;
 }
-
-
 
 .bck-box.bck-box-3 .bck-content {
     border: 0;
@@ -1200,33 +1195,29 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     margin-top: -36px;
 }
 
-
-
-/*CAJA4*/
+/*CAJA4 CajaAmarilla*/
 
 .bck-box.bck-box-4 {
-    min-height: 80px;
-    margin-top: 15px;
-}
-
-.bck-box-4 .bck-title {
-    border-bottom: 0px solid #eee;
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background-color: #bf0811;
-    padding: 10px;
-    text-align: left;
-    border-bottom: 2px solid;
-    border-color: #fff;
-
+    background: #D4E05A;
+    margin-top: 20px;
+    padding: 10px 10px 2px;
+    border-radius: 10px 10px 10px 0px;
 }
 
 .bck-box.bck-box-4 .bck-content {
+    border: 0;
     padding: 5px;
-    background-color: #e3e4e6;
 }
 
+.bck-box.bck-box-4 .bck-title {
+    font-family: GrilledCheeseBTN;
+    padding: 5px 25px;
+    text-align: center;
+    border: 0;
+    color: #FFF;
+    font-size: 2.5rem;
+    font-weight: 100;
+}
 
 /*CAJA5*/
 
@@ -1243,8 +1234,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     background-color: #bf0811;
     padding: 10px;
     text-align: center;
-   
-
 }
 
 .bck-box.bck-box-5 .bck-content {
