@@ -42,6 +42,8 @@
 				{ name: 'Celda 4', element: 'td', attributes: { 'class': 'bck-td bck-td-4'} },
 
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
+				
+				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-2' } }
