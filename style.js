@@ -37,6 +37,7 @@
 				{ name: 'CajaNaranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'CajaAmarilla', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
 				{ name: 'CajaBordeAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
+				{ name: 'CajaFondoAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td bck-td-1'} },
