@@ -769,11 +769,16 @@ body:not(.edit) .slider-indicators {
     color: #ea5b0c;
 }
 
+
+/*Título BlancoInicio*/
 .bck-title-1 {
     color: #fff;
      font-family: Olivier2016;
      font-size: 32px;
 }
+
+
+
 
 
 .bck-title-3 {
@@ -906,6 +911,11 @@ body:not(.edit) .slider-indicators {
     font-family: sans-serif;
     margin-left: -10px;
 }
+
+#actividad .content .cke_contents .bck-ol li {
+    margin-left: 0px;
+}
+
 
 /*LISTA ORDENADA 1*/
 #actividad .content .cke_contents .bck-ol-1,
