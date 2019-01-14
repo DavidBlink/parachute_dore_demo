@@ -1513,7 +1513,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 /*Iconos*/
 
 /*icono Hablar*/
-.item-container .icon-hablar:before {
+.icon-hablar:before {
     background-image: url(Images/icono-hablar.png);
     content: "";
     background-repeat: no-repeat;
