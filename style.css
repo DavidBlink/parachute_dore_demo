@@ -1269,6 +1269,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     -webkit-text-stroke: 2px #8da6d6;
 }
 
+/*CAJA6 CajaFondoAzul*/
+
+.bck-box.bck-box-6 {
+    background: #D4DDF1;
+    margin-top: 20px;
+    padding: 10px 10px 0px;
+    border: 0px;
+    border-radius: 0px;
+}
+
+.bck-box.bck-box-6 .bck-content {
+    border: 0;
+    padding: 5px;
+}
+
 /*CAJA POP-UP*/
 
 .info-popover .popover-title:before, .popover-template .popover-title:before {
