@@ -841,7 +841,7 @@ body:not(.edit) .slider-indicators {
 
   /*Enfasis 5 ColorRojo*/
  .bck-enfasis-5 {
-    color: #CE161C;
+    color: #c90c0f;
  }
 
  /*Enfasis 6 YanoneFont*/
@@ -1237,30 +1237,32 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     -webkit-text-stroke: 1px #292926;
 }
 
-/*CAJA5*/
+/*CAJA5 CajaBordeAzul*/
 
 .bck-box.bck-box-5 {
-    min-height: 80px;
-    margin-top: 15px;
-}
-
-.bck-box-5 .bck-title {
-    border-bottom: 0px solid #eee;
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background-color: #bf0811;
-    padding: 10px;
-    text-align: center;
+    background: #FFF;
+    margin-top: 20px;
+    padding: 10px 10px 0px;
+    border: 2px solid #8da6d6;
+    border-radius: 20px;
 }
 
 .bck-box.bck-box-5 .bck-content {
-    padding: 10px;
-    background-color: #fff;
-    border: 2px solid;
-    border-color: #bf0811;
+    border: 0;
+    padding: 5px;
 }
 
+.bck-box.bck-box-5 .bck-title {
+    font-family: GrilledCheeseBTN;
+    padding: 5px 25px;
+    text-align: left;
+    border: 0;
+    color: #FFF;
+    font-size: 2.5rem;
+    font-weight: 100;
+    margin-top: -30px;
+    -webkit-text-stroke: 1px #8da6d6;
+}
 
 /*CAJA POP-UP*/
 
