@@ -23,6 +23,7 @@
 				{ name: 'NúmeroNaranjaTitulo', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'ColorNaranja', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
+				{ name: 'ColorRosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'YanoneFont', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
