@@ -68,6 +68,11 @@
     }
 
     @font-face {
+      font-family: YanoneKaffeesatz;
+      src: url(fonts/YanoneKaffeesatz-Bold.otf);
+    }
+
+    @font-face {
       font-family: WendyLPStd;
       src: url(fonts/WendyLPStd-Bold.otf);
     }
@@ -837,6 +842,11 @@ body:not(.edit) .slider-indicators {
   /*Enfasis 5 ColorRojo*/
  .bck-enfasis-5 {
     color: #CE161C;
+ }
+
+ /*Enfasis 6 YanoneFont*/
+ .bck-enfasis-6 {
+    font-family: YanoneKaffeesatz;
  }
 
 /*LISTAS DESORDENADAS*/
