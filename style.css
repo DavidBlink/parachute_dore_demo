@@ -1151,17 +1151,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 /*CAJA3 CajaNaranja*/
 
 .bck-box.bck-box-3 {
-    background: #fff;
-    text-align: left;
+    background: rgb(252,181,84);
+    background: -moz-linear-gradient(left, rgba(252,181,84,1) 0%, rgba(254,193,94,1) 40%, rgba(255,224,122,1) 100%);
+    background: -webkit-linear-gradient(left, rgba(252,181,84,1) 0%,rgba(254,193,94,1) 40%,rgba(255,224,122,1) 100%);
+    background: linear-gradient(to right, rgba(252,181,84,1) 0%,rgba(254,193,94,1) 40%,rgba(255,224,122,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcb554', endColorstr='#ffe07a',GradientType=1 );
     margin-top: 20px;
+    padding: 10px;
 }
 
 .bck-box.bck-box-3:after {
-    background-image: url();
+    background-image: url(Images/after-verde-caja.png);
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 0px;
+    padding: 30px;
     position: absolute;
     width: 10px;
     height: auto;
@@ -1170,8 +1174,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 .bck-box.bck-box-3 .bck-content {
     border: 0;
     padding: 5px;
-    font-size: 2rem;
+    font-size: 2.8rem;
     font-family: WendyLPStd;
+    text-align: center;
 }
 
 .bck-box.bck-box-3 .bck-title {
@@ -1181,7 +1186,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     border: 0;
     color: #FFF;
     font-size: 2.5rem;
-    font-weight: 600;
+    font-weight: 100;
 }
 
 
