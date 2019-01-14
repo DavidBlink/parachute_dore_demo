@@ -812,9 +812,10 @@ body:not(.edit) .slider-indicators {
 
 }    
 
+/*NúmeroNaranjaTitulo*/
 .bck-enfasis-3 {
     color: #ea5b0c;
-    font-size: 4.4rem;
+    font-size: 6rem;
     font-family: BauhausStd-Demi;
 
  }
@@ -1092,7 +1093,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-2 {
     background: #fff;
-    border: 2px solid #b9d3e4;
     text-align: left;
     margin-top: 20px;
 }
@@ -1118,9 +1118,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-2 .bck-title:before {
     background-image: none;
-    font-family: 'FontAwesome';
-    content: '\f0a9';
-    margin: 0 5px 0 0px;
+    content: '';
+    margin: 0px;
     color: #9ac61e;
     margin-right: 10px;
 }
