@@ -1185,7 +1185,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     font-weight: 100;
 }
 
-.bck-box.bck-box-3 .bck-title:after {
+.bck-box.bck-box-3 .bck-title:before {
     background-image: url(Images/after-verde-caja.png);
     content: '';
     background-size: contain;
