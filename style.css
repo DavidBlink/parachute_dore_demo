@@ -1139,10 +1139,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-3 .bck-title {
     padding: 10px 25px;
-    border: 0px;
     color: #9BCB20;
-    font-size: 1.8rem;
-    font-weight: bold;
+    font-size: 2rem;
+    font-weight: 500;
 }
 
 
