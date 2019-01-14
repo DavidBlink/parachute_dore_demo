@@ -1099,8 +1099,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-2:before {
     background-image: url(Images/before-leson.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
     padding: 10px;
     position: absolute;
+    width: 80px;
+    height: auto;
     left: 0;
 
 }
@@ -1115,7 +1120,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     padding: 10px 25px;
     text-align: center;
     border: 0;
-    color: #96a7d1;
+    color: #80A0D3;
     font-size: 2rem;
     font-weight: 500;
 }
