@@ -1102,22 +1102,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 10px;
+    padding: 140px 180px 65px 180px;
     position: absolute;
-    width: 80px;
+    width: 40px;
     height: auto;
     left: 0;
-
 }
 
 .bck-box.bck-box-2 .bck-content {
     border: 0;
-    padding: 0px 25px 10px 25px;
+    padding: 0px 25px 10px 85px;
 }
 
 .bck-box.bck-box-2 .bck-title {
     font-family: Olivier2016;
-    padding: 10px 25px;
+    padding: 5px 25px;
     text-align: center;
     border: 0;
     color: #80A0D3;
