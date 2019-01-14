@@ -844,6 +844,11 @@ body:not(.edit) .slider-indicators {
     color: #c90c0f;
  }
 
+/*Enfasis 7 ColorRosa*/
+ .bck-enfasis-5 {
+    color: #F26661;
+ }
+
  /*Enfasis 6 YanoneFont*/
  .bck-enfasis-6 {
     font-family: YanoneKaffeesatz;
@@ -1243,7 +1248,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     background: #FFF;
     margin-top: 20px;
     padding: 10px 10px 0px;
-    border: 2px solid #8da6d6;
+    border: 5px solid #8da6d6;
     border-radius: 20px;
 }
 
@@ -1254,14 +1259,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-5 .bck-title {
     font-family: GrilledCheeseBTN;
-    padding: 5px 25px;
+    padding: 5px 15px;
     text-align: left;
     border: 0;
     color: #FFF;
-    font-size: 2.5rem;
-    font-weight: 100;
-    margin-top: -30px;
-    -webkit-text-stroke: 1px #8da6d6;
+    font-size: 4rem;
+    font-weight: 600;
+    margin-top: -49px;
+    -webkit-text-stroke: 2px #8da6d6;
 }
 
 /*CAJA POP-UP*/
