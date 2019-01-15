@@ -1053,7 +1053,8 @@ body:not(.edit) .slider-indicators {
     height: 6px;
     width: 6px;
     background-image: url(Images/tick-naranja-ul.png);
-    background-color: none;
+    background-size: contain;
+    background-repeat: no-repeat;
     position: absolute;
     margin-left: -15px;
 }
