@@ -6,6 +6,11 @@
     }
 
     @font-face {
+      font-family: Cochin;
+      src: url(fonts/CochinLTStd-BoldItalic.otf);
+    }
+
+    @font-face {
       font-family: GrilledCheeseBTN;
       src: url(fonts/GrilledCheeseBTN.otf);
     }
@@ -887,6 +892,11 @@ body:not(.edit) .slider-indicators {
     font-size: 2rem;
 }
 
+/*Enfasis 11 CochinFont*/
+.bck-enfasis-11 {
+    font-family: Cochin;
+    font-size: 2rem;
+}
 
 
 /*LISTAS DESORDENADAS*/
@@ -972,7 +982,6 @@ body:not(.edit) .slider-indicators {
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
-    margin-top: .6em;
     margin-left: -15px;
 }
 
