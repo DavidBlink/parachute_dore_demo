@@ -1387,6 +1387,47 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     padding: 5px;
 }
 
+/*CAJA10 CajaTachesAzul*/
+
+.bck-box.bck-box-10 {
+    background: #E8EEF9;
+    margin-top: 20px;
+    padding: 10px 10px 2px;
+    border: 3px solid #80A0D3;
+    border-radius: 30px;
+    -webkit-box-shadow: 6px 6px 10px 0 #BDBDBD;
+    box-shadow: 6px 6px 10px 0 #BDBDBD;
+}
+
+.bck-box.bck-box-10 .bck-content {
+    border: 0;
+    padding: 5px;
+}
+
+.bck-box.bck-box-10 .bck-title {
+    font-family: GrilledCheeseBTN;
+    padding: 5px 25px;
+    text-align: left;
+    border: 0;
+    color: #ec6608;
+    font-size: 4rem;
+    font-weight: 100;
+}
+
+.bck-box.bck-box-10 .bck-title:before {
+    background-image: url(Images/taches-finales-azul-before.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 50px;
+    position: absolute;
+    left: 0px;
+    top: 0;
+    width: 10px;
+    height: auto;
+    margin-top: -1px;
+}
+
 
 /*CAJA POP-UP*/
 
