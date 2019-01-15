@@ -953,6 +953,29 @@ body:not(.edit) .slider-indicators {
     margin-top: 2px;
 }
 
+/*Lista DesNaranja*/
+
+#actividad .content .texto_curso .bck-ul-2 li,
+#actividad .content .workspace ul li .bck-ul-2 li ,
+#actividad .popover-background.shown .popover-content > ul > li {
+
+}
+
+#actividad .content .texto_curso .bck-ul-2 li:before,
+#actividad .content .workspace ul li .bck-ul-2 li:before ,
+#actividad .popover-background.shown .popover-content > ul > li:before{
+    content: "";
+    height: 6px;
+    width: 6px;
+    color: #ec6608;
+    position: absolute;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    margin-top: .6em;
+    margin-left: -15px;
+}
+
 
 #actividad .popover-background.shown .popover-content > ul > li:before{
      position: inherit;
