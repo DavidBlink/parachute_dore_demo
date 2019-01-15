@@ -55,6 +55,7 @@
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
 				
 				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
+				{ name: 'Icono Boligrafo', element: 'span', attributes: { 'class': 'icon icon-boli' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-2' } }
