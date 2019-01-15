@@ -1278,7 +1278,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     -webkit-text-stroke: 1px #292926;
 }
 
-/*CAJA5 CajaBordeAzul*/
+/*CAJA5 CajaATOI*/
 
 .bck-box.bck-box-5 {
     background: #FFF;
@@ -1426,6 +1426,33 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     width: 10px;
     height: auto;
     margin-top: -1px;
+}
+
+/*CAJA11 CajaBordesAzul*/
+
+.bck-box.bck-box-11 {
+    background: #E8EEF9;
+    margin-top: 20px;
+    padding: 10px 10px 2px;
+    border: 3px solid #80A0D3;
+    border-radius: 30px;
+    -webkit-box-shadow: 6px 6px 10px 0 #BDBDBD;
+    box-shadow: 6px 6px 10px 0 #BDBDBD;
+}
+
+.bck-box.bck-box-11 .bck-content {
+    border: 0;
+    padding: 5px;
+}
+
+.bck-box.bck-box-11 .bck-title {
+    font-family: GrilledCheeseBTN;
+    padding: 5px 25px;
+    text-align: left;
+    border: 0;
+    color: #ec6608;
+    font-size: 4rem;
+    font-weight: 100;
 }
 
 
