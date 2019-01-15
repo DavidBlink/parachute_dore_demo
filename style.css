@@ -1621,6 +1621,42 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     font-weight: 100;
 }
 
+/*CAJA12 CajaStrategies*/
+
+.bck-box.bck-box-12 {
+    background: #FFF;
+    margin-top: 20px;
+    padding: 10px;
+    -webkit-box-shadow: 0 -4px 5px 1px #B0B0B0;
+    box-shadow: 0 -4px 5px 1px #B0B0B0;
+}
+
+.bck-box.bck-box-12 .bck-content {
+    border: 0;
+    padding: 5px;
+}
+
+.bck-box.bck-box-12 .bck-title {
+    
+}
+
+.bck-box.bck-box-12 .bck-title:before {
+    background-image: url(Images/strategies-before-parachute.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 80px;
+    position: absolute;
+    left: -20px;
+    top: 0;
+    width: 10px;
+    height: auto;
+    margin-top: -42px;
+}
+
+
+
+
 
 /*CAJA POP-UP*/
 
