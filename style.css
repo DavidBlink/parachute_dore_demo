@@ -1093,8 +1093,8 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
     content: counter(bck-li-counter)'';
     background: #FFCB06;
-    -webkit-box-shadow: 0 2px 5px 0 ##D2A806;
-    box-shadow: 0 2px 5px 0 ##D2A806;
+    -webkit-box-shadow: 0 2px 5px 0 #D2A806;
+    box-shadow: 0 2px 5px 0 #D2A806;
     margin-top: 1px;
     padding-left: 10px;
     color: #FFF;
