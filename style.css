@@ -841,8 +841,11 @@ body:not(.edit) .slider-indicators {
 .bck-title-5 {
     font-family: BauhausStd-Demi;
     color: #814997;
-    font-size: 2.5rem;
+    font-size: 2.8rem;
+    padding-bottom: 3px;
     border-bottom: 2px solid #814997;
+    width: fit-content;
+    width: -moz-fit-content;
 }
 
 /*Enfasis*/
