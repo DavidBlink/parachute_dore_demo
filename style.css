@@ -967,7 +967,7 @@ body:not(.edit) .slider-indicators {
     content: "";
     height: 6px;
     width: 6px;
-    color: #ec6608;
+    background-color: #ec6608;
     position: absolute;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
