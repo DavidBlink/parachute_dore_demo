@@ -1083,19 +1083,26 @@ body:not(.edit) .slider-indicators {
     padding-left: 0px;
     position: relative;
     z-index: 0;
+    font-size: 2.2rem;
+    color: #ec6608;
 }
 
 #actividad .content .cke_contents .bck-ol-3 li:before,
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
 #actividad .popover-content ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
-    content: counter(bck-li-counter, upper-alpha)'';
+    content: counter(bck-li-counter)'';
+    background: #FFCB06;
+    -webkit-box-shadow: 0 2px 5px 0 ##D2A806;
+    box-shadow: 0 2px 5px 0 ##D2A806;
     margin-top: 1px;
-    padding-right: 10px;
-    color: #262e2a;
+    padding-left: 10px;
+    color: #FFF;
     font-size: 1.8rem;
     font-weight: 600;
     text-align: right;
+    width: 30px;
+    height: 20px;
 }
 /**/
 
