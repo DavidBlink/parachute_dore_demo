@@ -836,7 +836,7 @@ body:not(.edit) .slider-indicators {
     font-family: Olivier2016;
     font-size: 3.2rem;
     text-decoration: underline;
-    text-decoration-style: 1px dotted;
+    text-decoration-style: dotted;
 }
 
 /*titulo MoradoSubrayado*/
