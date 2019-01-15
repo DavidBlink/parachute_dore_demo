@@ -1,5 +1,13 @@
 /* Fonts */
 
+
+
+AvenirLTStd-Book.otf
+    @font-face {
+      font-family: AvenirLT;
+      src: url(fonts/AvenirLTStd-Book.otf);
+    }
+
     @font-face {
       font-family: GrilledCheeseBTN;
       src: url(fonts/GrilledCheeseBTN.otf);
@@ -1319,7 +1327,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 .bck-box.bck-box-7 .bck-content {
     border: 0;
     padding: 5px;
-    font-family: Avenir;
+    font-family: AvenirLT;
 }
 
 .bck-box.bck-box-7 .bck-title {
