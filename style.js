@@ -19,7 +19,6 @@
 				{ name: 'AmarilloFondoNegro', element: 'h3', attributes: { 'class': 'bck-title-3'} },
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
-				{ name: 'Azul-Bauhaus', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'NúmeroNaranjaTitulo', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'ColorNaranja', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
@@ -28,6 +27,7 @@
 				{ name: 'Azul-Bauhaus', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'LobsterFont', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 				{ name: 'YanoneFont', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
+				{ name: 'WendyFont', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				
