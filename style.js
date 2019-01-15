@@ -24,6 +24,7 @@
 				{ name: 'ColorNaranja', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				{ name: 'ColorAzul', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
+				{ name: 'ColorAzulClaro', element: 'span', attributes: { 'class': 'bck-enfasis-13'} },
 				{ name: 'ColorRosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Azul-Bauhaus', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'CochinFont', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
