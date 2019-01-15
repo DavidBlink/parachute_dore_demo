@@ -1641,7 +1641,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     
 }
 
-.bck-box.bck-box-12 .bck-title:before {
+.bck-box.bck-box-12 .bck-box-12:before {
     background-image: url(Images/strategies-before-parachute.png);
     content: '';
     background-size: contain;
@@ -1654,9 +1654,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     height: auto;
     margin-top: -42px;
 }
-
-
-
 
 
 /*CAJA POP-UP*/
