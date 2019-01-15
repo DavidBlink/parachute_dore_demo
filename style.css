@@ -850,6 +850,9 @@ body:not(.edit) .slider-indicators {
     width: -moz-fit-content;
 }
 
+
+/*-------------*/
+
 /*Enfasis*/
 .bck-enfasis {
     font-size: 5rem;
@@ -898,7 +901,10 @@ body:not(.edit) .slider-indicators {
     color: #b1c1e5;
  }
 
- 
+/*Enfasis 15 ColorMorado*/
+ .bck-enfasis-15 {
+    color: #814997;
+ } 
 
 /*Enfasis 7 ColorRosa*/
  .bck-enfasis-7 {
