@@ -875,11 +875,11 @@ body:not(.edit) .slider-indicators {
  /*Enfasis 14 PointsMorados*/
  .bck-enfasis-14 {
     font-size: 1.6rem;
-    border: 1px solid #814997;
+    border: 2px solid #814997;
     background: #E8EEF9;
-    padding: 2px;
-    margin-bottom: -5px;
- }
+    padding: 4px;
+    border-radius: 3px;
+}
 
  /*Enfasis 4 ColorNaraja*/
  .bck-enfasis-4 {
