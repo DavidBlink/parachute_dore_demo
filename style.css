@@ -968,7 +968,7 @@ body:not(.edit) .slider-indicators {
     list-style-type: none;
     counter-increment: bck-li-counter 1;
     position: relative;
-    margin-top: 10px;
+   
 }
 
 #actividad .content .cke_contents .bck-ol li:before,
@@ -985,6 +985,7 @@ body:not(.edit) .slider-indicators {
 
 #actividad .content .cke_contents .bck-ol li {
     margin-left: 0px;
+    margin-top: 10px;
 }
 
 
