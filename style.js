@@ -58,6 +58,7 @@
 				{ name: 'CajaBlog', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
 				{ name: 'CajaNaranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
 				{ name: 'CajaBlanca', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-9' } },
+				{ name: 'CajaStrategies', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-12' } },
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td bck-td-1'} },
