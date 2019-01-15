@@ -898,6 +898,12 @@ body:not(.edit) .slider-indicators {
     font-size: 2rem;
 }
 
+/*Enfasis 12 GrilledFont*/
+.bck-enfasis-12 {
+    font-family: GrilledCheeseBTN;
+    font-size: 2rem;
+}
+
 
 /*LISTAS DESORDENADAS*/
 
