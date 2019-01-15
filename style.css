@@ -337,7 +337,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
     color: #fff;
-    background: #ba4200;
+    background: #eb5705;
 }
 
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a,
