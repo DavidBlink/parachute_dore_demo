@@ -349,7 +349,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
-    background: #cb6005;
+    background: #ff7521;;
 }
 
 #indice .unit-content .actividades .item.nivel_6 .title,
