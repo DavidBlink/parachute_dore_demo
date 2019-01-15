@@ -1,8 +1,5 @@
 /* Fonts */
 
-
-
-AvenirLTStd-Book.otf
     @font-face {
       font-family: AvenirLT;
       src: url(fonts/AvenirLTStd-Book.otf);
@@ -878,9 +875,14 @@ body:not(.edit) .slider-indicators {
 /*Enfasis 8 LobsterFont*/
  .bck-enfasis-8 {
     font-family: Lobster;
+    font-size: 2.2rem;
  }
 
-
+/*Enfasis 10 WendyFont*/
+.bck-enfasis-10 {
+    font-family: WendyLPStd;
+    font-size: 2rem;
+}
 
 
 
