@@ -849,8 +849,14 @@ body:not(.edit) .slider-indicators {
     color: #c90c0f;
  }
 
+/*Enfasis 9 ColorAzul*/
+ .bck-enfasis-9 {
+    color: #00529c;
+ }
+
+
 /*Enfasis 7 ColorRosa*/
- .bck-enfasis-5 {
+ .bck-enfasis-7 {
     color: #F26661;
  }
 
@@ -859,6 +865,15 @@ body:not(.edit) .slider-indicators {
     font-family: YanoneKaffeesatz;
     font-size: 2.5rem;
  }
+
+/*Enfasis 8 LobsterFont*/
+ .bck-enfasis-8 {
+    font-family: Lobster;
+ }
+
+
+
+
 
 /*LISTAS DESORDENADAS*/
 
