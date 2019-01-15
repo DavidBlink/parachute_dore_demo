@@ -789,10 +789,9 @@ body:not(.edit) .slider-indicators {
 
 .bck-title-intro {
     font-size: 5rem;
-    font-family: 'GrilledCheeseBTN';
+    font-family: GrilledCheeseBTN;
     color: #ea5b0c;
 }
-
 
 /*Título BlancoInicio*/
 .bck-title-1 {
@@ -801,10 +800,14 @@ body:not(.edit) .slider-indicators {
      font-size: 3.2rem;
 }
 
+/*Título AzulClaro*/
+.bck-title-2 {
+    color: #8da6d6;
+     font-family: GrilledCheeseBTN;
+     font-size: 5rem;
+}
 
-
-
-
+/*Titulo AmarilloFondoNegro*/
 .bck-title-3 {
     font-size: 2rem;
     font-weight: 500;
@@ -1203,7 +1206,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     
 }
 
-/*CAJA3 CajaNaranja*/
+/*CAJA3 CajaEsquinaVerde*/
 
 .bck-box.bck-box-3 {
     background: rgb(252,181,84);
@@ -1339,6 +1342,49 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     background-repeat: no-repeat;
     padding: 5px;
 }
+
+/*CAJA8 CajaNaranja*/
+
+.bck-box.bck-box-8 {
+    background: #F36F23;
+    margin-top: 20px;
+    padding: 10px 10px 2px;
+    border-radius: 30px;
+}
+
+.bck-box.bck-box-8 .bck-content {
+    border: 0;
+    padding: 5px;
+}
+
+.bck-box.bck-box-8 .bck-title {
+    font-family: Olivier2016;
+    color: #fff;
+    font-size: 3rem;
+    text-align: left;
+    padding: 5px;
+}
+
+/*CAJA9 CajaBlanca*/
+
+.bck-box.bck-box-9 {
+    background: #FFF;
+    margin-top: 20px;
+    padding: 10px 10px 2px;
+    border-radius: 30px;
+}
+
+.bck-box.bck-box-9 .bck-content {
+    border: 0;
+    padding: 5px;
+}
+
+.bck-box.bck-box-9 .bck-title {
+    font-size: 3rem;
+    text-align: left;
+    padding: 5px;
+}
+
 
 /*CAJA POP-UP*/
 
