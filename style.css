@@ -1066,7 +1066,7 @@ body:not(.edit) .slider-indicators {
     font-weight: 600;
 }
 
-/*LISTA ORDENADA 3*/
+/*Lista RectaAmarilla*/
 #actividad .content .cke_contents .bck-ol-3,
 #actividad .content .texto_curso .bck-ol-3,
 #actividad .content .workspace ul li .bck-ol-3 {
@@ -1415,7 +1415,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 }
 
 .bck-box.bck-box-10 .bck-title:before {
-    background-image: url(Images/taches-finales-azul-before.png);
+    background-image: url(Images/taches-finales-azul-before2.png);
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
