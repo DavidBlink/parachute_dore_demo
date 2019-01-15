@@ -2141,7 +2141,7 @@ td, th {
 }
 
 .btn-primary, .btn-primary.disabled {
-    background-color: #ea5b0c
+    background-color: #ea5b0c;
 }
 
 
@@ -2157,7 +2157,7 @@ td, th {
     background-color: #ba4200;
 }
 
-.btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus {
+.btn-primary.disabled:hover, .btn-primary.disabled:focus {
     background-color: #ba4200;
 }
 
