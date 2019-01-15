@@ -751,7 +751,12 @@ body:not(.edit) .slider-indicators {
 
 
 #actividad .content img.player, #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
-        height: 25px !important;
+    background-image: url(Images/video-dvd-icono.png);
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: contain;
+    height: 25px !important;
     width: 27px;
     display: inline-block;
     background-repeat: no-repeat;
