@@ -1136,6 +1136,41 @@ body:not(.edit) .slider-indicators {
 }
 
 /*LISTA LetraMinusAzul*/
+#actividad .content .cke_contents .bck-ol-5,
+#actividad .content .texto_curso .bck-ol-5,
+#actividad .content .workspace ul li .bck-ol-5 {
+    list-style-type: none;
+    counter-reset: bck-li-counter;
+    margin-left: 20px;
+}
+
+#actividad .content .cke_contents .bck-ol-5 li,
+#actividad .content .cke_contents .bck-ol-5 li,
+#actividad .content .texto_curso .bck-ol-5 li,
+#actividad .popover-content .bck-ol-5 li,
+#actividad .content .workspace ul li .bck-ol-5 li {
+    counter-increment: bck-li-counter;
+    padding-left: 0px;
+    position: relative;
+    z-index: 0;
+    margin-left: 0px;
+}
+
+#actividad .content .cke_contents .bck-ol-5 li:before,
+#actividad .content .texto_curso ol.bck-ol-5 li:before,
+#actividad .popover-content ol.bck-ol-5 li:before,
+#actividad .content .workspace ul li ol.bck-ol-5 li:before {
+    content: counter(bck-li-counter, lower-alpha)".";
+    position: absolute;
+    text-align: center;
+    color: #814997;
+    line-height: normal;
+    margin-left: -20px;
+    line-height: unset;
+    font-weight: 600;
+}
+
+/*LISTA LetraMinusMorada*/
 #actividad .content .cke_contents .bck-ol-2,
 #actividad .content .texto_curso .bck-ol-2,
 #actividad .content .workspace ul li .bck-ol-2 {
