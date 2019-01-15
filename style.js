@@ -31,10 +31,13 @@
 				{ name: 'WendyFont', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
+				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				
 				{ name: 'Lista OrdNaranja', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista LetraMinusAzul', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
-				{ name: 'Lista Ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
+				{ name: 'Lista RectaAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
+				{ name: 'Lista Ordenada 4', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
+				
 
 				{ name: 'CajaInicio', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'CajaLeson', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
