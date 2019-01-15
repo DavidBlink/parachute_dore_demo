@@ -1043,6 +1043,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li .bck-ul-3 li ,
 #actividad .popover-background.shown .popover-content > ul > li {
     color: #814997;
+    font-weight: 600;
     
 }
 
