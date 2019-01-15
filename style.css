@@ -63,6 +63,11 @@
     }
 
     @font-face {
+      font-family: Lobster;
+      src: url(fonts/Lobster1.4.otf);
+    }
+
+    @font-face {
       font-family: HelveticaNeueLTStd-XBlkCnO;
       src: url(fonts/HelveticaNeueLTStd-XBlkCnO.otf);
     }
