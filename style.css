@@ -1674,6 +1674,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     font-family: BauhausStd-Demi;
     color: #ec6608;
     font-size: 3rem;
+    text-align: left;
+    padding-left: 40px;
 }
 
 .bck-box.bck-box-12 .bck-title:before {
