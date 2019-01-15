@@ -23,7 +23,10 @@
 				{ name: 'NúmeroNaranjaTitulo', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'ColorNaranja', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
+				{ name: 'ColorAzul', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
 				{ name: 'ColorRosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
+				{ name: 'Azul-Bauhaus', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
+				{ name: 'LobsterFont', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 				{ name: 'YanoneFont', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
