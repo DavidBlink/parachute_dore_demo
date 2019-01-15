@@ -1676,11 +1676,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     background-repeat: no-repeat;
     padding: 80px;
     position: absolute;
-    left: -20px;
+    left: 0px;
     top: 0;
     width: 10px;
     height: auto;
-    margin-top: -42px;
+    margin-top: 2px;
 }
 
 
