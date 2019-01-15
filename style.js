@@ -15,8 +15,9 @@
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
 				{ name: 'Título BlancoInicio', element: 'h2', attributes: { 'class': 'bck-title-1'} },
-				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title-2'} },
+				{ name: 'Título AzulClaro', element: 'h3', attributes: { 'class': 'bck-title-2'} },
 				{ name: 'AmarilloFondoNegro', element: 'h3', attributes: { 'class': 'bck-title-3'} },
+				
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'NúmeroNaranjaTitulo', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
@@ -42,6 +43,7 @@
 				{ name: 'CajaBordeAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
 				{ name: 'CajaFondoAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
 				{ name: 'CajaBlog', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
+				{ name: 'CajaNaranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td bck-td-1'} },
