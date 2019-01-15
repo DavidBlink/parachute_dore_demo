@@ -1084,6 +1084,7 @@ body:not(.edit) .slider-indicators {
     position: relative;
     z-index: 0;
     font-size: 2.2rem;
+    font-weight: 600;
     color: #ec6608;
 }
 
@@ -1096,14 +1097,16 @@ body:not(.edit) .slider-indicators {
     -webkit-box-shadow: 0 2px 5px 0 #D2A806;
     box-shadow: 0 2px 5px 0 #D2A806;
     margin-top: 1px;
-    padding-left: 10px;
+    padding-left: 40px;
+    padding-right: 5px;
     color: #FFF;
+    margin-left: -62px;
+    margin-right: 10px;
     font-size: 2.2rem;
     font-weight: 600;
     text-align: right;
-    width: 30px;
-    height: 20px;
 }
+
 /**/
 
 /*BOXES*/
