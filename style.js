@@ -19,6 +19,7 @@
 				{ name: 'AmarilloFondoNegro', element: 'h3', attributes: { 'class': 'bck-title-3'} },
 				{ name: 'JevalueNaranja', element: 'h3', attributes: { 'class': 'bck-title-4'} },
 				{ name: 'MoradoSubrayado', element: 'h3', attributes: { 'class': 'bck-title-5'} },
+				{ name: 'NaranjaBauhaus', element: 'h3', attributes: { 'class': 'bck-title-6'} },
 				
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
@@ -39,6 +40,7 @@
 
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
+				{ name: 'Lista TickNaranja', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				
 				{ name: 'Lista OrdNaranja', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista OrdAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
