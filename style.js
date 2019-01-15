@@ -37,7 +37,7 @@
 
 				{ name: 'CajaInicio', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'CajaLeson', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
-				{ name: 'CajaNaranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
+				{ name: 'CajaEsquinaVerde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'CajaAmarilla', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
 				{ name: 'CajaBordeAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
 				{ name: 'CajaFondoAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
