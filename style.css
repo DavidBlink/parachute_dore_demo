@@ -850,6 +850,13 @@ body:not(.edit) .slider-indicators {
     width: -moz-fit-content;
 }
 
+/*titulo NaranjaBauhaus*/
+.bck-title-6 {
+    font-family: BauhausStd-Demi;
+    color: #ec6608;
+    font-size: 2.4rem;
+}
+
 
 /*-------------*/
 
@@ -1027,6 +1034,27 @@ body:not(.edit) .slider-indicators {
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
+    margin-left: -15px;
+}
+
+/*lista tickNaranja*/
+
+#actividad .content .texto_curso .bck-ul-3 li,
+#actividad .content .workspace ul li .bck-ul-3 li ,
+#actividad .popover-background.shown .popover-content > ul > li {
+    color: #814997;
+    
+}
+
+#actividad .content .texto_curso .bck-ul-3 li:before,
+#actividad .content .workspace ul li .bck-ul-3 li:before ,
+#actividad .popover-background.shown .popover-content > ul > li:before{
+    content: "";
+    height: 6px;
+    width: 6px;
+    background-image: url(Images/tick-naranja-ul.png);
+    background-color: none;
+    position: absolute;
     margin-left: -15px;
 }
 
