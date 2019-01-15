@@ -1289,6 +1289,30 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     padding: 5px;
 }
 
+/*CAJA7 CajaBlog*/
+
+.bck-box.bck-box-7 {
+    background: #FFF;
+    margin-top: 20px;
+    padding: 10px 10px 2px;
+    border-radius: 0px;
+    -webkit-box-shadow: 0 6px 4px 1px #BDBDBD;
+    box-shadow: 0 6px 4px 1px #BDBDBD;
+}
+
+.bck-box.bck-box-7 .bck-content {
+    border: 0;
+    padding: 5px;
+}
+
+.bck-box.bck-box-7 .bck-title {
+    background-image: url(Images/blog-declaire-caja1.jpg);
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 5px;
+}
+
 /*CAJA POP-UP*/
 
 .info-popover .popover-title:before, .popover-template .popover-title:before {
