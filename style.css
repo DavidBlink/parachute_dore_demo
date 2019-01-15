@@ -1320,8 +1320,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     margin-top: 20px;
     padding: 10px 10px 2px;
     border-radius: 0px;
-    -webkit-box-shadow: 0 6px 0 0 #BDBDBD;
-    box-shadow: 0 6px 0 0 #BDBDBD;
+    -webkit-box-shadow: 0 6px 10px 0 #BDBDBD;
+    box-shadow: 0 6px 10px 0 #BDBDBD;
 }
 
 .bck-box.bck-box-7 .bck-content {
