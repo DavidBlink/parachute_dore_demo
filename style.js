@@ -27,6 +27,7 @@
 				{ name: 'ColorRosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Azul-Bauhaus', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'CochinFont', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
+				{ name: 'GrilledFont', element: 'span', attributes: { 'class': 'bck-enfasis-12'} },
 				{ name: 'LobsterFont', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 				{ name: 'YanoneFont', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 				{ name: 'WendyFont', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
