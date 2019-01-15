@@ -846,7 +846,6 @@ body:not(.edit) .slider-indicators {
 }
 
 /*Enfasis*/
-
 .bck-enfasis {
     font-size: 5rem;
 }
@@ -856,7 +855,6 @@ body:not(.edit) .slider-indicators {
     color: #4565ad;
     font-family: BauhausStd-Demi;
     font-size: 2rem;
-
 }    
 
 /*NúmeroNaranjaTitulo*/
@@ -864,7 +862,6 @@ body:not(.edit) .slider-indicators {
     color: #ea5b0c;
     font-size: 9rem;
     font-family: BauhausStd-Demi;
-
  }
 
  /*Enfasis 4 ColorNaraja*/
