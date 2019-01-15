@@ -835,11 +835,8 @@ body:not(.edit) .slider-indicators {
     color: #ea5b0c;
     font-family: Olivier2016;
     font-size: 3.2rem;
-    border-bottom: 1px dotted #ea5b0c;
-    width: fit-content;
-    width: -moz-fit-content;
-    padding-bottom: 8px;
-    display: block;
+    text-decoration: underline;
+    text-decoration-style: dotted;
 }
 
 /*titulo MoradoSubrayado*/
@@ -872,6 +869,11 @@ body:not(.edit) .slider-indicators {
     font-family: BauhausStd-Demi;
  }
 
+ /*Enfasis 14 PointsMorados*/
+ .bck-enfasis-13 {
+    color: #b1c1e5;
+ }
+
  /*Enfasis 4 ColorNaraja*/
  .bck-enfasis-4 {
     color: #ea5b0c;
@@ -892,6 +894,7 @@ body:not(.edit) .slider-indicators {
     color: #b1c1e5;
  }
 
+ 
 
 /*Enfasis 7 ColorRosa*/
  .bck-enfasis-7 {
