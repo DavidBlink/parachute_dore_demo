@@ -89,6 +89,7 @@
       src: url(fonts/Arial.ttf);
 
     }
+
     @font-face {
       font-family: Avenir;
       src: url(fonts/Avenir.ttc);
@@ -1318,6 +1319,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 .bck-box.bck-box-7 .bck-content {
     border: 0;
     padding: 5px;
+    font-family: Avenir;
 }
 
 .bck-box.bck-box-7 .bck-title {
