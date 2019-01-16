@@ -190,9 +190,9 @@ body {
 #actividad .carousel-inner .item-container {
     background-image: none;
     max-width: 1200px;
-    -webkit-box-shadow: rgba(0,0,0,0.298039) 0 0px 0px;
-       -moz-box-shadow: rgba(0,0,0,0.298039) 0 0px 0px;
-            box-shadow: rgba(0,0,0,0.298039) 0 0px 0px;
+    -webkit-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
+    -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
+    box-shadow: rgba(0, 0, 0, 0.43) 0 3px 9px;
     margin: 20px auto 30px;
     padding: 0px;
     padding-bottom: 0px;
@@ -415,10 +415,8 @@ footer {
 
 #actividad .class_slide {
     padding: 20px 97px 0px;
-    -webkit-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
-    -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
-    box-shadow: rgba(0, 0, 0, 0.43) 0 3px 9px;
-}
+    }
+    
 body.is_app #actividad .class_slide {
     padding-top: 115px;
 }
