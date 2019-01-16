@@ -2136,6 +2136,18 @@ td, th {
     font-weight: 100;
 }
 
+#actividad .workspace h5:before {
+    content: "\f0da";
+    font-family: FontAwesome;
+    position: absolute;
+    /* height: 7px; */
+    /* width: 10px; */
+    color: #ef7d00;
+    padding: 2px;
+    background: none;
+    margin-top: 2px;
+}
+
 .cke_reset {
     background: white;
 }
