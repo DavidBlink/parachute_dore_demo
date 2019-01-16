@@ -418,8 +418,9 @@ footer {
     }
 
 body.is_app #actividad .class_slide {
-    padding-top: 60px;
+    padding-top: 0px;
 }
+
 
 #actividad .class_slide:last-of-type {
     padding-bottom: 100px;
@@ -2662,6 +2663,12 @@ td, th {
     margin-top: -14px;
 }
 
+#actividad .carousel-inner .item-container {
+    -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
+    -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
+    box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
+}
+
 
 }
 
@@ -2838,6 +2845,12 @@ td, th {
     margin-top: -30px;
 }
 
+#actividad .carousel-inner .item-container {
+    -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
+    -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
+    box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
+}
+
 }
 
 @media screen and (max-width: 1024px) {
@@ -2858,6 +2871,12 @@ td, th {
     font-size: 5rem;
     font-family: GrilledCheeseBTN;
     color: #ea5b0c;
+}
+
+#actividad .carousel-inner .item-container {
+    -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
+    -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
+    box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
 }
 
 }
