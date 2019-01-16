@@ -2132,8 +2132,9 @@ td, th {
 #actividad .workspace h5 {
     color: #fff;
     font-family: Olivier2016;
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 100;
+    margin-top: 10px;
 }
 
 #actividad .workspace h5:before {
@@ -2146,6 +2147,7 @@ td, th {
     padding: 2px;
     background: none;
     margin-top: 2px;
+    margin-left: -15px;
 }
 
 .cke_reset {
