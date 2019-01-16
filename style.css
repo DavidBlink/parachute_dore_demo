@@ -2810,6 +2810,19 @@ td, th {
     font-size: 2.5rem;
 }
 
+.bck-box.bck-box-3 .bck-title:before{
+    background-image: url(Images/after-verde-caja.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 40px;
+    position: absolute;
+    right: 0px;
+    top: 0;
+    width: 10px;
+    height: auto;
+    margin-top: -30px;
+}
 
 }
 
