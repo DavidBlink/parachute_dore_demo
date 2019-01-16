@@ -904,6 +904,11 @@ body:not(.edit) .slider-indicators {
     color: #00529c;
  }
 
+ /*Enfasis 16 ColorCeleste*/
+ .bck-enfasis-16 {
+    color: #009bdb;
+ }
+
  /*Enfasis 13 ColorAzulClaro*/
  .bck-enfasis-13 {
     color: #b1c1e5;
@@ -2091,6 +2096,10 @@ table,
     border: 1px solid #ccc;
 }
 
+.bck-table-2 {
+    border: 1px solid #3F6AB2;
+}
+
 table td,
 .bck-table td {
     padding: 10px;
@@ -2098,21 +2107,9 @@ table td,
 }
 
 table td.bck-td-1 {
-    color: #fff;
-    background-color: #9ACB1E;
+    
 }
 
-table td.bck-td-2 {
-    background-color: #DCE29F;
-}
-
-table td.bck-td-3 {
-    background-color: #E5E9B7;
-}
-
-table td.bck-td-4 {
-    background-color: #E6E7E8;
-}
 
 td, th {
     padding-left: 10px;
