@@ -2129,6 +2129,13 @@ td, th {
     background-color: white;
 }
 
+#actividad .workspace h5 {
+    color: #fff;
+    font-family: Olivier2016;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
 .cke_reset {
     background: white;
 }
