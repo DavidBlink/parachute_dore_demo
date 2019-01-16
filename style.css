@@ -416,7 +416,7 @@ footer {
 #actividad .class_slide {
     padding: 20px 97px 0px;
     }
-    
+
 body.is_app #actividad .class_slide {
     padding-top: 115px;
 }
@@ -2705,7 +2705,7 @@ td, th {
 
     .bck-box.bck-box-2 .bck-title {
     font-family: Olivier2016;
-    padding: 10px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
     border: 0;
     color: #80A0D3;
     font-size: 2rem;
@@ -2716,8 +2716,8 @@ td, th {
 
     .bck-box.bck-box-2 .bck-content {
     border: 0;
-    padding: 0px 25px 10px 50px;
-    font-size: 3rem;
+    padding: 20px 25px 10px 50px;
+    font-size: 4rem;
     font-family: GrilledCheeseBTN;
     color: #ea5b0c;
     }
