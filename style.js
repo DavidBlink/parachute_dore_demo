@@ -28,6 +28,7 @@
 				{ name: 'ColorNaranja', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				{ name: 'ColorAzul', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
+				{ name: 'ColorAzulCeleste', element: 'span', attributes: { 'class': 'bck-enfasis-16'} },
 				{ name: 'ColorAzulClaro', element: 'span', attributes: { 'class': 'bck-enfasis-13'} },
 				{ name: 'ColorMorado', element: 'span', attributes: { 'class': 'bck-enfasis-15'} },
 				{ name: 'ColorRosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
