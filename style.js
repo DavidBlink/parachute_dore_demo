@@ -64,11 +64,9 @@
 				{ name: 'CajaStrategies', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-12' } },
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
+				{ name: 'TablaAzul', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td bck-td-1'} },
-				{ name: 'Celda 2', element: 'td', attributes: { 'class': 'bck-td bck-td-2'} },
-				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td bck-td-3'} },
-				{ name: 'Celda 4', element: 'td', attributes: { 'class': 'bck-td bck-td-4'} },
-
+				
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
 				
 				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
