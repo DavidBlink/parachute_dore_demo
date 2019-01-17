@@ -899,6 +899,15 @@ body:not(.edit) .slider-indicators {
     font-size: 3rem;
 }
 
+/*titulo BlogClaire*/
+.bck-title-7 {
+    width: 50%;
+    height: auto;
+    background-image: url(Images/blog-claire-titulo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
 
 /*-------------*/
 
