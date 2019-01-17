@@ -2105,19 +2105,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 /**/
 
-/**TABLA**/
-table,
-.bck-table {
-    border: 1px solid #ccc;
-}
-
-.bck-table-2 {
-    border: 1px solid #3F6AB2;
-}
-
-.bck-table-2 table td {
-    border: 1px solid #3F6AB2;
-}
+/**TABLA y Celdas**/
 
 table td,
 .bck-table td {
@@ -2125,13 +2113,30 @@ table td,
     border-color: #ccc;
 }
 
-table td.bck-td-1 {
-    
-}
-
-
 td, th {
     padding-left: 10px;
+}
+
+table,
+.bck-table {
+    border: 1px solid #ccc;
+}
+
+/*tabla azul y celda azul*/
+
+.bck-table-2 {
+    border: 1px solid #3F6AB2;
+}
+
+.bck-table-2 td {
+    border: 1px solid #3F6AB2;
+}
+
+/*celda azul*/
+.bck-td-2 {
+    color: #ffffff;
+    background: #3F6AB2;
+    text-align: center;
 }
 
 /**/
