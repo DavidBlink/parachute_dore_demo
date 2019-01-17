@@ -32,6 +32,7 @@
 				{ name: 'ColorAzulCeleste', element: 'span', attributes: { 'class': 'bck-enfasis-16'} },
 				{ name: 'ColorAzulClaro', element: 'span', attributes: { 'class': 'bck-enfasis-13'} },
 				{ name: 'ColorMorado', element: 'span', attributes: { 'class': 'bck-enfasis-15'} },
+				{ name: 'ColorOliva', element: 'span', attributes: { 'class': 'bck-enfasis-18'} },
 				{ name: 'ColorRosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Azul-Bauhaus', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'CochinFont', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
