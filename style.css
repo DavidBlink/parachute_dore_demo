@@ -2185,6 +2185,17 @@ table,
     background-color: #ea5b0c;
 }
 
+.btn-danger, .btn-danger[disabled] {
+    color: #fff;
+    background-color: #f17936;
+    border-color: transparent;
+}
+
+.btn-danger:hover {
+    color: #fff;
+    background-color: #f19562;
+    border-color: transparent;
+}
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
     background-color: #ea5b0c;
