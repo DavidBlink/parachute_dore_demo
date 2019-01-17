@@ -66,7 +66,10 @@
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'TablaAzul', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
+				
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td bck-td-1'} },
+				{ name: 'CeldaAzul', element: 'td', attributes: { 'class': 'bck-td-2'} },
+				
 				
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
 				
