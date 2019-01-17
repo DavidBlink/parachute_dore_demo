@@ -298,6 +298,8 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
+    -webkit-box-shadow: 1px 1px 1px 1px #C2C2C2;
+    box-shadow: 1px 1px 1px 1px #C2C2C2;
 }
 
 #indice .units ul li.active:not(.disabled),
@@ -699,6 +701,30 @@ body:not(.edit) .slider-indicators {
        -moz-border-radius: 0;
             border-radius: 0;
 }
+
+/*Señalar respuesta - Respuesta en línea*/
+#actividad .workspace.chooseblanks .inline-answer a {
+    display: inline-block;
+    vertical-align: initial;
+    border: 2px solid #f17936;
+    color: #787878;
+    padding: 3px 6px;
+    margin: 0 2px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+}
+
+#actividad .workspace.chooseblanks .inline-answer a:hover {
+    background-color: #f7dfd2;
+    color: #414141;
+}
+
+#actividad .workspace.chooseblanks .inline-answer a.selected:not(.respuesta_ok):not(.respuesta_ko):not(.solucion) {
+    background-color: #ea5b0c;
+    color: #fff;
+}
+
 
 #actividad .workspace.matching .opcion {
     background: #fff;
@@ -1533,7 +1559,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 .bck-box.bck-box-6 {
     background: #D4DDF1;
     margin-top: 20px;
-    padding: 10px 15px 0px;
+    padding: 10px 15px 10px;
     border: 0px;
     border-radius: 0px;
 }
