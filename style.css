@@ -247,8 +247,8 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
     -webkit-border-radius: 0;
        -moz-border-radius: 0;
             border-radius: 0;
-            -webkit-box-shadow: 2px 2px 1px 5px #E3E3E3;
-            box-shadow: 2px 2px 1px 5px #E3E3E3;
+            -webkit-box-shadow: 1px 1px 1px 1px #C2C2C2;
+            box-shadow: 1px 1px 1px 1px #C2C2C2;
 
 }
 
