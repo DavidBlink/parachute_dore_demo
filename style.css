@@ -740,10 +740,13 @@ body:not(.edit) .slider-indicators {
 /*Classify activities*/
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
     background: #fff;
+    border-color: #ffab7d;
+    padding-top: 2px;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
     background: #fff;
+    border: 3px solid #fcd7c3;
 }
 /**/
 /*Ordering activities*/
