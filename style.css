@@ -1202,7 +1202,7 @@ body:not(.edit) .slider-indicators {
     line-height: 26px;
 }
 
-/*LISTA LetraMinusAzul*/
+/*LISTA LetraMinusMorada*/
 #actividad .content .cke_contents .bck-ol-5,
 #actividad .content .texto_curso .bck-ol-5,
 #actividad .content .workspace ul li .bck-ol-5 {
@@ -1238,7 +1238,7 @@ body:not(.edit) .slider-indicators {
     margin-top: -1px;
 }
 
-/*LISTA LetraMinusMorada*/
+/*LISTA LetraMinusAzul*/
 #actividad .content .cke_contents .bck-ol-2,
 #actividad .content .texto_curso .bck-ol-2,
 #actividad .content .workspace ul li .bck-ol-2 {
