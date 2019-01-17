@@ -706,7 +706,7 @@ body:not(.edit) .slider-indicators {
 #actividad .workspace.chooseblanks .inline-answer a {
     display: inline-block;
     vertical-align: initial;
-    border: 2px solid #f17936;
+    border: 2px solid #ffb186;
     color: #787878;
     padding: 3px 6px;
     margin: 0 2px;
@@ -724,6 +724,12 @@ body:not(.edit) .slider-indicators {
     background-color: #f17936;
     color: #fff;
     font-weight: 400;
+}
+
+#actividad .workspace.chooseblanks .inline-answer a.respuesta_ok {
+    color: #00bdff;
+    border-color: #00bdff;
+    background-color: #ffffff;
 }
 
 
