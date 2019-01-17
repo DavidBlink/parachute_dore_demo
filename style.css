@@ -898,16 +898,18 @@ body:not(.edit) .slider-indicators {
 
  /*Enfasis 4 ColorNaraja*/
  .bck-enfasis-4 {
-    color: #ea5b0c;
+    color: #f69333;
  }
 
   /*Enfasis 17 NaranjaBorde*/
  .bck-enfasis-17 {
     font-family: GrilledCheeseBTN;
     color: #f69333;
-    border: 1px solid #f69333;
-    padding: 1px;
- }
+    border: 2px solid #f69333;
+    padding: 3px;
+    border-radius: 8px;
+    font-weight: 400;
+}
 
   /*Enfasis 5 ColorRojo*/
  .bck-enfasis-5 {
