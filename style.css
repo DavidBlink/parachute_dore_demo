@@ -721,8 +721,9 @@ body:not(.edit) .slider-indicators {
 }
 
 #actividad .workspace.chooseblanks .inline-answer a.selected:not(.respuesta_ok):not(.respuesta_ko):not(.solucion) {
-    background-color: #ea5b0c;
+    background-color: #f17936;
     color: #fff;
+    font-weight: 400;
 }
 
 
