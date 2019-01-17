@@ -2159,7 +2159,7 @@ td, th {
 
 table,
 .bck-table {
-    border: 1px solid #ccc;
+    border: 0px solid #ccc;
 }
 
 /*tabla azul y celda azul*/
