@@ -1496,6 +1496,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-2 .bck-title p {
     border-bottom: 2px dotted #80A0D3;
+    width: fit-content;
+    width: -moz-fit-content;
 }
 
 
