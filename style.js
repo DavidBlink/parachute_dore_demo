@@ -44,6 +44,7 @@
 
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
+				{ name: 'Lista DesGris', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista TickNaranja', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				
 				{ name: 'Lista OrdNaranja', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
