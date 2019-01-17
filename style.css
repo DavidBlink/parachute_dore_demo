@@ -1107,6 +1107,27 @@ body:not(.edit) .slider-indicators {
     margin-left: -15px;
 }
 
+/*Lista DesGris*/
+
+#actividad .content .texto_curso .bck-ul-4 li,
+#actividad .content .workspace ul li .bck-ul-4 li ,
+#actividad .popover-background.shown .popover-content > ul > li {
+
+}
+
+#actividad .content .texto_curso .bck-ul-4 li:before,
+#actividad .content .workspace ul li .bck-ul-4 li:before ,
+#actividad .popover-background.shown .popover-content > ul > li:before {
+    content: "";
+    height: 9px;
+    width: 9px;
+    background-color: #818284;
+    position: absolute;
+    top: -1px;
+    border-radius: 100%;
+    margin-left: -15px;
+}
+
 /*lista tickNaranja*/
 
 #actividad .content .texto_curso .bck-ul-3 li,
