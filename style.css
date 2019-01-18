@@ -1,111 +1,15 @@
-/*parachute*/
+/*yam_demo*/
 
 /* Fonts */
 
     @font-face {
-      font-family: AvenirLT;
-      src: url(fonts/AvenirLTStd-Book.otf);
-    }
-
-    @font-face {
-      font-family: BauhausStd-Demi;
-      src: url(fonts/BauhausStd-Demi.otf);
-    }
-
-    @font-face {
-      font-family: Cochin;
-      src: url(fonts/CochinLTStd-BoldItalic.otf);
-    }
-
-    @font-face {
-      font-family: GrilledCheeseBTN;
-      src: url(fonts/GrilledCheeseBTN.otf);
-    }
-
-    @font-face {
-      font-family: Olivier2016;
-      src: url(fonts/Olivier2016.otf);
-    }
-
-    
-    @font-face {
-      font-family: HelveticaNeueLTStd-Bd;
-      src: url(fonts/HelveticaNeueLTStd-Bd.otf);
-    }
-
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-BdCn;
-      src: url(fonts/HelveticaNeueLTStd-BdCn.otf);
-    }
-
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-BdIt;
-      src: url(fonts/HelveticaNeueLTStd-BdIt.otf);
-    }
-
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-HvEx;
-      src: url(fonts/HelveticaNeueLTStd-HvEx.otf);
-    }
-
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-Lt;
-      src: url(fonts/HelveticaNeueLTStd-Lt.otf);
-    }
-
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-LtIt;
-      src: url(fonts/HelveticaNeueLTStd-LtIt.otf);
-    }
-
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-Roman;
-      src: url(fonts/HelveticaNeueLTStd-Roman.otf);
-    }
-
-    @font-face {
-      font-family: GlyphaLTStd-Oblique;
-      src: url(fonts/GlyphaLTStd-Oblique.otf);
-    }
-
-    @font-face {
-      font-family: Lobster;
-      src: url(fonts/Lobster1.4.otf);
-    }
-
-    @font-face {
-      font-family: HelveticaNeueLTStd-XBlkCnO;
-      src: url(fonts/HelveticaNeueLTStd-XBlkCnO.otf);
-    }
-
-    @font-face {
-      font-family: YanoneKaffeesatz;
-      src: url(fonts/YanoneKaffeesatz-Bold.otf);
-    }
-
-    @font-face {
-      font-family: WendyLPStd;
-      src: url(fonts/WendyLPStd-Bold.otf);
-    }
-
-
-
-    @font-face {
       font-family: Arial;
       src: url(fonts/Arial.ttf);
-
     }
 
     @font-face {
       font-family: Avenir;
       src: url(fonts/Avenir.ttc);
-
     }
 
     @font-face {
@@ -123,12 +27,12 @@
       src: url(fonts/Candara.ttf);
     }
 
-
     @font-face {
       font-family: LithosPro-Black;
       src: url(fonts/LithosPro-Black.otf);
       font-weight: 100;
     }
+
     @font-face {
       font-family: LithosPro-Regular;
       src: url(fonts/LithosPro-Regular.otf);
@@ -157,7 +61,6 @@
 /*General */
 body {
     height: 100vh;
-    font-family: HelveticaNeueLTStd-Roman;
     font-size: 16px;
     font-weight: 400;
     
@@ -168,7 +71,6 @@ body {
 .body_clase.view-mode .content-wrapper {
     padding-top: 44px;
     padding-bottom: 50px;
-    font-family: HelveticaNeueLTStd-Roman;
     font-size: 16px;
     font-weight: 300;
 }
@@ -271,7 +173,6 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
     /*float: left;*/
     font-size: 30px;
     font-weight: 500;
-    font-family: GrilledCheeseBTN;
     line-height: 34px;
     padding: 5px 20px;
     height: 50px;
@@ -396,7 +297,7 @@ input, button, select, textarea {
     padding-bottom: 0px;
 }
 
-.parachute_dore_demo-navbar h3 {
+.yam_demo-navbar h3 {
     width: 75%;
     margin: auto;
     margin-bottom: 15px;
@@ -429,7 +330,7 @@ footer {
     }
 
 body.is_app #actividad .class_slide {
-    padding-top: 0px;
+    padding-top: 20px;
 }
 
 
@@ -540,7 +441,7 @@ fieldset[disabled] .slide_main input {
     background: linear-gradient(to left, #7aac39, transparent);
 }
 
-.parachute_dore_demo-navbar {
+.yam_demo-navbar {
     position: fixed;
     bottom: 0;
     left: 0;
@@ -551,7 +452,7 @@ fieldset[disabled] .slide_main input {
     background: #545759;;
 }
 
-body.is_app .parachute_dore_demo-navbar {
+body.is_app .yam_demo-navbar {
     /*top: 0;*/
     -webkit-transition: top 0.5s linear;
     -o-transition: top 0.5s linear;
@@ -559,11 +460,11 @@ body.is_app .parachute_dore_demo-navbar {
     transition: top 0.5s linear;
 }
 
-body.is_app .parachute_dore_demo-navbar.ocultar {
+body.is_app .yam_demo-navbar.ocultar {
     top: -136px;
 }
 
-.parachute_dore_demo-navbar .navbar-content {
+.yam_demo-navbar .navbar-content {
     width: 100%;
     height: 100%;
     padding: 0 20px;
@@ -580,7 +481,7 @@ body.is_app .parachute_dore_demo-navbar.ocultar {
     width: 87px;
     height: 35px;
     margin: 9px 0;
-    background: url(../parachute_dore_demo/images/logong.png) center center / cover no-repeat;
+    background: url(../yam_demo/images/logong.png) center center / cover no-repeat;
 }
 
 .edit -publisher {
@@ -593,7 +494,7 @@ body:not(.edit) .slider-indicators {
     display: none;
 }
 
-.parachute_dore_demo-navbar .copyright {
+.yam_demo-navbar .copyright {
     color: #fff;
     line-height: 5.0rem;
 }
@@ -827,7 +728,6 @@ body:not(.edit) .slider-indicators {
 }
 
 
-
 /*titulo generico
 .bck-title {
     color: #211915;
@@ -838,191 +738,25 @@ body:not(.edit) .slider-indicators {
 
 .bck-title-intro {
     font-size: 5rem;
-    font-family: GrilledCheeseBTN;
     color: #ea5b0c;
 }
 
 /*Título BlancoInicio*/
 .bck-title-1 {
     color: #fff;
-     font-family: Olivier2016;
-     font-size: 3.2rem;
-}
-
-/*Título AzulClaro*/
-.bck-title-2 {
-    color: #8da6d6;
-     font-family: GrilledCheeseBTN;
-     font-size: 4rem;
-}
-
-/*Titulo AmarilloFondoNegro*/
-.bck-title-3 {
-    font-size: 2rem;
-    font-weight: 500;
-    font-family: GlyphaLTStd-Oblique;
-    color: #fff265;
-    background-color: #000;
-    padding: 3px 10px 3px 6px;
-    width: fit-content;
-    -moz-transform: rotate(-10deg) skewX(3deg);
-    -webkit-transform: rotate(-10deg) skewX(3deg);
-    -o-transform: rotate(-10deg) skewX(3deg);
-    -ms-transform: rotate(-10deg) skewX(3deg);
-    transform: rotate(-4deg) skewX(4deg);
-    width: -moz-fit-content;
-    margin-left: 10px;
-}
-
-/*titulo JevalueNaranja*/
-.bck-title-4 {
-    color: #ea5b0c;
-    font-family: Olivier2016;
     font-size: 3.2rem;
-    text-decoration: underline;
-    text-decoration-style: dotted;
-}
-
-/*titulo MoradoSubrayado*/
-.bck-title-5 {
-    font-family: BauhausStd-Demi;
-    color: #814997;
-    font-size: 3rem;
-    padding-bottom: 3px;
-    border-bottom: 2px solid #814997;
-    width: fit-content;
-    width: -moz-fit-content;
-}
-
-/*titulo NaranjaBauhaus*/
-.bck-title-6 {
-    font-family: BauhausStd-Demi;
-    color: #ec6608;
-    font-size: 3rem;
-}
-
-/*titulo BlogClaire*/
-.bck-title-7 {
-    width: 100%;
-    height: auto;
-    font-size: 10rem;
-    background-image: url(Images/blog-claire-titulo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
 }
 
 
 /*-------------*/
+
 
 /*Enfasis*/
 .bck-enfasis {
     font-size: 5rem;
 }
 
-/*azul-bauhaus*/
-.bck-enfasis-2 {
-    color: #4565ad;
-    font-family: BauhausStd-Demi;
-    font-size: 2rem;
-}    
 
-/*NúmeroNaranjaTitulo*/
-.bck-enfasis-3 {
-    color: #ea5b0c;
-    font-size: 9rem;
-    font-family: BauhausStd-Demi;
- }
-
- /*Enfasis 14 PointsMorados*/
- .bck-enfasis-14 {
-    font-size: 1.7rem;
-    border: 2px solid #814997;
-    background: #E8EEF9;
-    padding: 5px;
-    border-radius: 3px;
-    font-family: BauhausStd-Demi;
-    color: #814997;
-}
-
- /*Enfasis 4 ColorNaraja*/
- .bck-enfasis-4 {
-    color: #f69333;
- }
-
-  /*Enfasis 17 NaranjaBorde*/
- .bck-enfasis-17 {
-    font-family: GrilledCheeseBTN;
-    color: #f69333;
-    border: 2px solid #f69333;
-    padding: 3px;
-    border-radius: 8px;
-    font-weight: 400;
-}
-
-/*Enfasis 18 ColorOliva*/
- .bck-enfasis-18 {
-    color: #9CB225;
- }
-
-  /*Enfasis 5 ColorRojo*/
- .bck-enfasis-5 {
-    color: #c90c0f;
- }
-
-/*Enfasis 9 ColorAzul*/
- .bck-enfasis-9 {
-    color: #00529c;
- }
-
- /*Enfasis 16 ColorCeleste*/
- .bck-enfasis-16 {
-    color: #009bdb;
- }
-
- /*Enfasis 13 ColorAzulClaro*/
- .bck-enfasis-13 {
-    color: #b1c1e5;
- }
-
-/*Enfasis 15 ColorMorado*/
- .bck-enfasis-15 {
-    color: #814997;
- } 
-
-/*Enfasis 7 ColorRosa*/
- .bck-enfasis-7 {
-    color: #F26661;
- }
-
- /*Enfasis 6 YanoneFont*/
- .bck-enfasis-6 {
-    font-family: YanoneKaffeesatz;
-    font-size: 2.5rem;
- }
-
-/*Enfasis 8 LobsterFont*/
- .bck-enfasis-8 {
-    font-family: Lobster;
-    font-size: 2.2rem;
- }
-
-/*Enfasis 10 WendyFont*/
-.bck-enfasis-10 {
-    font-family: WendyLPStd;
-    font-size: 2rem;
-}
-
-/*Enfasis 11 CochinFont*/
-.bck-enfasis-11 {
-    font-family: Cochin;
-    font-size: 2rem;
-}
-
-/*Enfasis 12 GrilledFont*/
-.bck-enfasis-12 {
-    font-family: GrilledCheeseBTN;
-    font-size: 2rem;
-}
 
 
 /*LISTAS DESORDENADAS*/
@@ -1070,7 +804,6 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li .bck-ul-1 li ,
 #actividad .popover-background.shown .popover-content > ul > li {
     color: #fff;
-    font-family: Olivier2016;
     font-size: 2rem;
     font-weight: 100;
 }
@@ -1108,53 +841,6 @@ body:not(.edit) .slider-indicators {
     top: -1px;
     border-radius: 100%;
     margin-left: -15px;
-}
-
-/*Lista DesGris*/
-
-#actividad .content .texto_curso .bck-ul-4 li,
-#actividad .content .workspace ul li .bck-ul-4 li ,
-#actividad .popover-background.shown .popover-content > ul > li {
-
-}
-
-#actividad .content .texto_curso .bck-ul-4 li:before,
-#actividad .content .workspace ul li .bck-ul-4 li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before {
-    content: "";
-    height: 9px;
-    width: 9px;
-    background-color: #818284;
-    position: absolute;
-    top: -1px;
-    border-radius: 100%;
-    margin-left: -15px;
-}
-
-/*lista tickNaranja*/
-
-#actividad .content .texto_curso .bck-ul-3 li,
-#actividad .content .workspace ul li .bck-ul-3 li ,
-#actividad .popover-background.shown .popover-content > ul > li {
-    color: #814997;
-    font-weight: 600;
-    
-}
-
-#actividad .content .texto_curso .bck-ul-3 li:before,
-#actividad .content .workspace ul li .bck-ul-3 li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before{
-    content: "";
-    height: 0px;
-    width: 0px;
-    background-image: url(Images/tick-naranja-ul.png);
-    margin-top: 4px;
-    padding: 8px;
-    background-color: #e5e5e500;
-    background-size: contain;
-    background-repeat: no-repeat;
-    position: absolute;
-    margin-left: -19px;
 }
 
 
@@ -1230,53 +916,11 @@ body:not(.edit) .slider-indicators {
     border-radius: 100%;
     text-align: center;
     font-size: 1.9rem;
-    font-family: BauhausStd-Demi;
     font-weight: normal;
     line-height: 26px;
 }
 
-/*LISTA OrdAMARILLA*/
-#actividad .content .cke_contents .bck-ol-4,
-#actividad .content .texto_curso .bck-ol-4,
-#actividad .content .workspace ul li .bck-ol-4 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-}
 
-#actividad .content .cke_contents .bck-ol-4 li,
-#actividad .content .cke_contents .bck-ol-4 li,
-#actividad .content .texto_curso .bck-ol-4 li,
-#actividad .popover-content .bck-ol-4 li,
-#actividad .content .workspace ul li .bck-ol-4 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0px;
-    position: relative;
-    z-index: 0;
-    font-weight: 700;
-    margin-left: 0px;
-    margin-top: 10px;
-}
-
-
-#actividad .content .cke_contents .bck-ol-4 li:before,
-#actividad .content .texto_curso .bck-ol-4 li:before,
-#actividad .popover-content .bck-ol-4 li:before,
-#actividad .content .workspace ul li .bck-ol-4 li:before {
-    content: counter(bck-li-counter);
-    width: 26px;
-    height: 26px;
-    position: absolute;
-    color: #ffffff;
-    background: #ffcc00;
-    margin-left: -30px;
-    margin-right: 0px;
-    border-radius: 100%;
-    text-align: center;
-    font-size: 1.9rem;
-    font-family: BauhausStd-Demi;
-    font-weight: normal;
-    line-height: 26px;
-}
 
 /*LISTA LetraMinusMorada*/
 #actividad .content .cke_contents .bck-ol-5,
@@ -1314,41 +958,7 @@ body:not(.edit) .slider-indicators {
     margin-top: -1px;
 }
 
-/*LISTA LetraMinusAzul*/
-#actividad .content .cke_contents .bck-ol-2,
-#actividad .content .texto_curso .bck-ol-2,
-#actividad .content .workspace ul li .bck-ol-2 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: 20px;
-}
 
-#actividad .content .cke_contents .bck-ol-2 li,
-#actividad .content .cke_contents .bck-ol-2 li,
-#actividad .content .texto_curso .bck-ol-2 li,
-#actividad .popover-content .bck-ol-2 li,
-#actividad .content .workspace ul li .bck-ol-2 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0px;
-    position: relative;
-    z-index: 0;
-    margin-left: 0px;
-}
-
-#actividad .content .cke_contents .bck-ol-2 li:before,
-#actividad .content .texto_curso ol.bck-ol-2 li:before,
-#actividad .popover-content ol.bck-ol-2 li:before,
-#actividad .content .workspace ul li ol.bck-ol-2 li:before {
-    content: counter(bck-li-counter, lower-alpha)".";
-    position: absolute;
-    text-align: center;
-    color: #96a6d1;
-    line-height: normal;
-    margin-left: -20px;
-    line-height: unset;
-    font-weight: 600;
-    margin-top: -1px;
-}
 
 /*Lista RectaAmarilla*/
 #actividad .content .cke_contents .bck-ol-3,
@@ -1435,6 +1045,7 @@ body:not(.edit) .slider-indicators {
     padding: 10px 14px 10px 63px;
 }
 
+
 /*CAJA1 - CajaInicio*/
 
 .bck-box.bck-box-1 {
@@ -1455,94 +1066,9 @@ background: linear-gradient(to bottom, rgba(54,87,133,1) 0%,rgba(78,122,182,1) 3
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', endColorstr='#5685c4',GradientType=0 ); /* IE6-9 */ 
 }
 
-/*CAJA2 CajaLeson*/
-
-.bck-box.bck-box-2 {
-    background: #fff;
-    text-align: left;
-    margin-left: -97px;
-    margin-top: -37px;
-}
-
-.bck-box.bck-box-2:before {
-    background-image: url(Images/before-leson.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 150px 250px 100px;
-    position: absolute;
-    width: 40px;
-    height: auto;
-    left: 0;
-}
-
-.bck-box.bck-box-2 .bck-content {
-    border: 0;
-    padding: 46px 1px 10px 120px;
-    font-size: 5rem;
-    font-family: GrilledCheeseBTN;
-    color: #ea5b0c;
-}
-
-.bck-box.bck-box-2 .bck-title {
-    font-family: Olivier2016;
-    padding: 20px 25px 0px;
-    text-align: center;
-    border: 0;
-    color: #80A0D3;
-    font-size: 2.5rem;
-    font-weight: 500;
-}
-
-.bck-box.bck-box-2 .bck-title p {
-    border-bottom: 2px dotted #80A0D3;
-    width: fit-content;
-    width: -moz-fit-content;
-}
 
 
-.bck-box.bck-box-2 .bck-title:before {
-    
-}
 
-
-/*CAJA13 CajaLesonCahier*/
-
-.bck-box.bck-box-13 {
-    background: #fff;
-    text-align: left;
-    margin-left: -97px;
-    margin-top: -37px;
-}
-
-.bck-box.bck-box-13:before {
-    background-image: url(Images/before-leson.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 150px 250px 100px;
-    position: absolute;
-    width: 40px;
-    height: auto;
-    left: 0;
-}
-
-.bck-box.bck-box-13 .bck-content {
-    border: 0;
-    padding: 46px 1px 10px 120px;
-    font-size: 5rem;
-    font-family: GrilledCheeseBTN;
-    color: #ea5b0c;
-}
-
-.bck-box.bck-box-13 .bck-title {
-    font-family: Olivier2016;
-    padding: 20px 25px 0px;
-    text-align: center;
-    color: #80A0D3;
-    font-size: 2.5rem;
-    font-weight: 500;
-}
 
 /*CAJA3 CajaEsquinaVerde*/
 
@@ -1552,7 +1078,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     background: -webkit-linear-gradient(left, rgba(252,181,84,1) 0%,rgba(254,193,94,1) 40%,rgba(255,224,122,1) 100%);
     background: linear-gradient(to right, rgba(252,181,84,1) 0%,rgba(254,193,94,1) 40%,rgba(255,224,122,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcb554', endColorstr='#ffe07a',GradientType=1 );
-    margin-top: 20px;
+    margin-top: 45px;
     padding: 10px 10px 2px;
 }
 
@@ -1560,12 +1086,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     border: 0;
     padding: 5px;
     font-size: 2.8rem;
-    font-family: WendyLPStd;
     text-align: center;
 }
 
 .bck-box.bck-box-3 .bck-title {
-    font-family: GrilledCheeseBTN;
     padding: 5px 25px;
     text-align: center;
     border: 0;
@@ -1588,246 +1112,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     margin-top: -36px;
 }
 
-/*CAJA4 CajaAmarilla*/
 
-.bck-box.bck-box-4 {
-    background: #D4E05A;
-    margin-top: 20px;
-    padding: 10px 10px 2px;
-    border-radius: 0px 30px 30px 30px;
-}
 
-.bck-box.bck-box-4 .bck-content {
-    border: 0;
-    padding: 5px;
-}
 
-.bck-box.bck-box-4 .bck-title {
-    font-family: GrilledCheeseBTN;
-    padding: 5px 10px;
-    text-align: center;
-    border: 0;
-    color: #FFF;
-    font-size: 2.8rem;
-    font-weight: 100;
-    margin-top: -30px;
-    -webkit-text-stroke: 1px #7d9761;
-}
 
-/*CAJA5 CajaATOI*/
 
-.bck-box.bck-box-5 {
-    background: #FFF;
-    margin-top: 20px;
-    padding: 10px 10px 0px;
-    border: 5px solid #8da6d6;
-    border-radius: 20px;
-}
 
-.bck-box.bck-box-5 .bck-content {
-    border: 0;
-    padding: 5px;
-}
-
-.bck-box.bck-box-5 .bck-title {
-    font-family: GrilledCheeseBTN;
-    padding: 5px 15px;
-    text-align: left;
-    border: 0;
-    color: #FFF;
-    font-size: 4rem;
-    font-weight: 600;
-    margin-top: -49px;
-    -webkit-text-stroke: 2px #8da6d6;
-}
-
-/*CAJA6 CajaFondoAzul*/
-
-.bck-box.bck-box-6 {
-    background: #D4DDF1;
-    margin-top: 20px;
-    padding: 10px 15px 10px;
-    border: 0px;
-    border-radius: 0px;
-}
-
-.bck-box.bck-box-6 .bck-content {
-    border: 0;
-    padding: 5px;
-}
-
-/*CAJA7 CajaBlog*/
-
-.bck-box.bck-box-7 {
-    background: #FFF;
-    margin-top: 20px;
-    padding: 10px 10px 2px;
-    border-radius: 0px;
-    -webkit-box-shadow: 0 6px 10px 0 #BDBDBD;
-    box-shadow: 0 6px 10px 0 #BDBDBD;
-}
-
-.bck-box.bck-box-7 .bck-content {
-    border: 0;
-    padding: 5px;
-    font-family: AvenirLT;
-}
-
-.bck-box.bck-box-7 .bck-title {
-    background-image: url(Images/blog-declaire-caja1.jpg);
-    text-align: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 5px;
-}
-
-/*CAJA8 CajaNaranja*/
-
-.bck-box.bck-box-8 {
-    background: #F36F23;
-    margin-top: 20px;
-    padding: 10px 10px 2px;
-    border-radius: 30px;
-}
-
-.bck-box.bck-box-8 .bck-content {
-    border: 0;
-    padding: 5px;
-}
-
-.bck-box.bck-box-8 .bck-title {
-    font-family: Olivier2016;
-    color: #fff;
-    font-size: 3rem;
-    text-align: left;
-    padding: 5px;
-}
-
-/*CAJA9 CajaBlanca*/
-
-.bck-box.bck-box-9 {
-    background: #FFF;
-    margin-top: 20px;
-    padding: 10px 10px 2px;
-    border-radius: 30px;
-}
-
-.bck-box.bck-box-9 .bck-content {
-    border: 0;
-    padding: 5px;
-}
-
-.bck-box.bck-box-9 .bck-title {
-    font-size: 3rem;
-    text-align: left;
-    padding: 5px;
-}
-
-/*CAJA10 CajaTachesAzul*/
-
-.bck-box.bck-box-10 {
-    background: #E8EEF9;
-    margin-top: 20px;
-    padding: 10px;
-    border: 3px solid #80A0D3;
-    border-radius: 30px;
-    -webkit-box-shadow: 6px 6px 10px 0 #BDBDBD;
-    box-shadow: 6px 6px 10px 0 #BDBDBD;
-}
-
-.bck-box.bck-box-10 .bck-content {
-    border: 0;
-    padding: 5px;
-}
-
-.bck-box.bck-box-10 .bck-title {
-    font-family: GrilledCheeseBTN;
-    padding: 5px 20px 5px 120px;
-    text-align: left;
-    border: 0;
-    color: #ec6608;
-    font-size: 4rem;
-    font-weight: 100;
-}
-
-.bck-box.bck-box-10 .bck-title:before {
-    background-image: url(Images/taches-finales-azul-before2.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 80px;
-    position: absolute;
-    left: -40px;
-    top: 0;
-    width: 10px;
-    height: auto;
-    margin-top: -42px;
-}
-
-/*CAJA11 CajaBordesAzul*/
-
-.bck-box.bck-box-11 {
-    background: #E8EEF9;
-    margin-top: 20px;
-    padding: 10px;
-    border: 3px solid #80A0D3;
-    border-radius: 30px;
-    -webkit-box-shadow: 6px 6px 10px 0 #BDBDBD;
-    box-shadow: 6px 6px 10px 0 #BDBDBD;
-}
-
-.bck-box.bck-box-11 .bck-content {
-    border: 0;
-    padding: 5px;
-}
-
-.bck-box.bck-box-11 .bck-title {
-    font-family: GrilledCheeseBTN;
-    padding: 5px 25px;
-    text-align: left;
-    border: 0;
-    color: #ec6608;
-    font-size: 4rem;
-    font-weight: 100;
-}
-
-/*CAJA12 CajaStrategies*/
-
-.bck-box.bck-box-12 {
-    background: #FFF;
-    margin-top: 20px;
-    padding: 10px;
-    -webkit-box-shadow: 0 -4px 5px 1px #B0B0B0;
-    box-shadow: 0 -4px 5px 1px #B0B0B0;
-}
-
-.bck-box.bck-box-12 .bck-content {
-    border: 0;
-    padding: 5px;
-}
-
-.bck-box.bck-box-12 .bck-title {
-    font-family: BauhausStd-Demi;
-    color: #ec6608;
-    font-size: 3rem;
-    text-align: left;
-    padding-left: 80px;
-    margin-bottom: 85px;
-}
-
-.bck-box.bck-box-12 .bck-title:before {
-    background-image: url(Images/strategies-before-parachute.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 80px;
-    position: absolute;
-    left: -2px;
-    top: -30px;
-    width: 10px;
-    height: auto;
-    margin-top: 2px;
-}
 
 
 /*CAJA POP-UP*/
@@ -2268,7 +1558,6 @@ table,
 
 #actividad .workspace h5 {
     color: #fff;
-    font-family: Olivier2016;
     font-size: 2.5rem;
     font-weight: 100;
     margin-top: 10px;
@@ -2673,150 +1962,6 @@ table,
 
 
 @media screen and (max-width: 500px) {
-.bck-box.bck-box-2 {
-    background: #fff;
-    /* text-align: left; */
-    margin-left: 0px;
-    margin-top: -40px;
-}
-.bck-box.bck-box-2:before {
-    background-image: url(Images/before-leson.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 50px 149px 100px;
-    position: absolute;
-    width: 40px;
-    height: auto;
-    left: -19px;
-}
-
-.bck-box.bck-box-2 .bck-title {
-    font-family: Olivier2016;
-    padding: 10px 0px 0px 0px;
-    border: 0;
-    color: #80A0D3;
-    font-size: 2rem;
-    font-weight: 500;
-    margin-left: 200px;
-    text-align: center;
-}
-
-.bck-box.bck-box-2 .bck-content {
-    border: 0;
-    padding: 0px 25px 10px 50px;
-    font-size: 3rem;
-    font-family: GrilledCheeseBTN;
-    color: #ea5b0c;
-}
-
-.bck-enfasis-3 {
-    color: #ea5b0c;
-    font-size: 6rem;
-    font-family: BauhausStd-Demi;
-}
-
-#actividad .content .cke_contents .bck-ol-1, #actividad .content .texto_curso .bck-ol-1, #actividad .content .workspace ul li .bck-ol-1 {
-   margin-left: -10px; 
-}
-
-#actividad .content .cke_contents .bck-ol-2, #actividad .content .texto_curso .bck-ol-2, #actividad .content .workspace ul li .bck-ol-2 {
-    margin-left: -10px;
-}
-
-.bck-title-intro {
-    font-size: 3.2rem;
-    font-family: GrilledCheeseBTN;
-    color: #ea5b0c;
-}
-
-.bck-title-2 {
-    color: #8da6d6;
-    font-family: GrilledCheeseBTN;
-    font-size: 3rem;
-    text-align: left;
-}
-
-.bck-box.bck-box-10 .bck-title:before {
-    background-image: url(Images/taches-finales-azul-before2.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 70px;
-    position: absolute;
-    left: -20px;
-    top: 0;
-    width: 10px;
-    height: auto;
-    margin-top: -42px;
-}
-
-.bck-box.bck-box-10 .bck-title {
-    font-family: GrilledCheeseBTN;
-    padding: 50px 20px 5px 10px;
-    text-align: left;
-    border: 0;
-    color: #ec6608;
-    font-size: 3rem;
-    font-weight: 100;
-}
-
-.texto_curso ul li {
-    padding-left: 20px;
-}
-
-.bck-title-4 {
-    color: #ea5b0c;
-    font-family: Olivier2016;
-    font-size: 2.5rem;
-    text-decoration: underline;
-    text-decoration-style: dotted;
-}
-
-.bck-title-5 {
-    font-family: BauhausStd-Demi;
-    color: #814997;
-    font-size: 2rem;
-    padding-bottom: 3px;
-    border-bottom: 2px solid #814997;
-    width: fit-content;
-    width: -moz-fit-content;
-}
-
-.bck-box.bck-box-12 .bck-title {
-    font-family: BauhausStd-Demi;
-    color: #ec6608;
-    font-size: 2.5rem;
-    text-align: left;
-    padding-left: 80px;
-    margin-bottom: 85px;
-}
-
-.bck-title-6 {
-    font-family: BauhausStd-Demi;
-    color: #ec6608;
-    font-size: 2.5rem;
-}
-
-.bck-box.bck-box-3 .bck-title:before {
-    background-image: url(Images/after-verde-caja.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 20px;
-    position: absolute;
-    right: 0px;
-    top: 0;
-    width: 10px;
-    height: auto;
-    margin-top: -14px;
-}
-
-#actividad .carousel-inner .item-container {
-    -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
-    -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
-    box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
-}
 
 
 }
@@ -2854,178 +1999,11 @@ table,
         bottom:0 ;
     }
 
-   .bck-box.bck-box-2 {
-    background: #fff;
-    /* text-align: left; */
-    margin-left: 0px;
-    margin-top: -40px;
-    }
-
-    .bck-box.bck-box-2:before {
-    background-image: url(Images/before-leson.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 50px 149px 100px;
-    position: absolute;
-    width: 40px;
-    height: auto;
-    left: -19px;
-    }
-
-    .bck-box.bck-box-2 .bck-title {
-    font-family: Olivier2016;
-    padding: 20px 25px 0px 180px;
-    border: 0;
-    color: #80A0D3;
-    font-size: 2rem;
-    font-weight: 500;
-    margin-left: 200px;
-    text-align: center;
-    }   
-
-    .bck-box.bck-box-2 .bck-content {
-    border: 0;
-    padding: 10px 25px 10px 53px;
-    font-size: 4rem;
-    font-family: GrilledCheeseBTN;
-    color: #ea5b0c;
-    }
-
-    .bck-enfasis-3 {
-    color: #ea5b0c;
-    font-size: 6rem;
-    font-family: BauhausStd-Demi;
-    }
-
-    #actividad .content .cke_contents .bck-ol-1, #actividad .content .texto_curso .bck-ol-1, #actividad .content .workspace ul li .bck-ol-1 {
-   margin-left: -10px; 
-    }
-
-    #actividad .content .cke_contents .bck-ol-2, #actividad .content .texto_curso .bck-ol-2, #actividad .content .workspace ul li .bck-ol-2 {
-    margin-left: -10px;
-    }
-
-    .bck-title-intro {
-    font-size: 3.2rem;
-    font-family: GrilledCheeseBTN;
-    color: #ea5b0c;
-    }
-
-    .bck-title-2 {
-    color: #8da6d6;
-    font-family: GrilledCheeseBTN;
-    font-size: 3rem;
-    text-align: left;
-    }
-
-    .bck-box.bck-box-10 .bck-title:before {
-    background-image: url(Images/taches-finales-azul-before2.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 70px;
-    position: absolute;
-    left: -20px;
-    top: 0;
-    width: 10px;
-    height: auto;
-    margin-top: -42px;
-    }
-
-    .bck-box.bck-box-10 .bck-title {
-    font-family: GrilledCheeseBTN;
-    padding: 50px 20px 5px 10px;
-    text-align: left;
-    border: 0;
-    color: #ec6608;
-    font-size: 3rem;
-    font-weight: 100;
-    }
-
-    .texto_curso ul li {
-    padding-left: 20px;
-    }
-
-    .bck-title-4 {
-    color: #ea5b0c;
-    font-family: Olivier2016;
-    font-size: 2.5rem;
-    text-decoration: underline;
-    text-decoration-style: dotted;
-    }
-
-    .bck-title-5 {
-    font-family: BauhausStd-Demi;
-    color: #814997;
-    font-size: 2rem;
-    padding-bottom: 3px;
-    border-bottom: 2px solid #814997;
-    width: fit-content;
-    width: -moz-fit-content;
-    }
-
-.bck-box.bck-box-12 .bck-title {
-    font-family: BauhausStd-Demi;
-    color: #ec6608;
-    font-size: 2.5rem;
-    text-align: left;
-    padding-left: 80px;
-    margin-bottom: 85px;
-}
-
-.bck-title-6 {
-    font-family: BauhausStd-Demi;
-    color: #ec6608;
-    font-size: 2.5rem;
-}
-
-.bck-box.bck-box-3 .bck-title:before {
-    background-image: url(Images/after-verde-caja.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 40px;
-    position: absolute;
-    right: 0px;
-    top: 0;
-    width: 10px;
-    height: auto;
-    margin-top: -30px;
-}
-
-#actividad .carousel-inner .item-container {
-    -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
-    -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
-    box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
-}
+   
 
 }
 
 @media screen and (max-width: 1024px) {
 
-.bck-box.bck-box-2 .bck-title {
-    font-family: Olivier2016;
-    padding: 20px 25px 0px 180px;
-    text-align: center;
-    border: 0;
-    color: #80A0D3;
-    font-size: 2.5rem;
-    font-weight: 500;
-}
-
-.bck-box.bck-box-2 .bck-content {
-    border: 0;
-    padding: 50px 1px 10px 120px;
-    font-size: 5rem;
-    font-family: GrilledCheeseBTN;
-    color: #ea5b0c;
-}
-
-#actividad .carousel-inner .item-container {
-    -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
-    -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
-    box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
-}
 
 }
