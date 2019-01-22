@@ -49,6 +49,7 @@
 				
 				{ name: 'Lista OrdNaranja', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista OrdAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
+				{ name: 'Lista CírculoNegro', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				{ name: 'Lista LetraMinusAzul', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista RectaAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
