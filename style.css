@@ -2346,6 +2346,18 @@ table,
     background: white;
 }
 
+/*crossword*/
+.slide.crosswords-puzzle .enunciados {
+    border: 2px solid #f19562;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    display: inline-block;
+    width: 350px;
+    padding: 1rem 3rem;
+    line-height: 2.1rem;
+}
+
 
 /*Boton toc - boton reininciar ejercicio*/
 
