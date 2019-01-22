@@ -2266,6 +2266,17 @@ table,
     background-color: white;
 }
 
+#actividad .workspace.multiplechoice_horizontal .opcion {
+    display: inline-block;
+    margin: 10px;
+    padding: 0 30px;
+}
+
+#actividad .workspace.multiple-choice .opcion.respuesta_checked {
+    border-color: #ea5b0c;
+    background-color: #ffffff;
+}
+
 #actividad .workspace h5 {
     color: #fff;
     font-family: Olivier2016;
