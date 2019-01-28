@@ -1057,7 +1057,7 @@ body:not(.edit) .slider-indicators {
 
 #actividad .texto_curso li:last-of-type,
 #actividad .workspace ul li li:last-of-type {
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 #actividad .content ul.bck-ul li {
