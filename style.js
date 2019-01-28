@@ -50,6 +50,7 @@
 				{ name: 'Lista TickNaranja', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				
 				{ name: 'Lista OrdNaranja', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
+				{ name: 'Lista Negrita', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
 				{ name: 'Lista OrdAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista CírculoNegro', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				{ name: 'Lista LetraMinusAzul', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
