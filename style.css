@@ -734,6 +734,11 @@ body:not(.edit) .slider-indicators {
     background-color: #ffffff;
 }
 
+#actividad .workspace.chooseblanks select {
+    border: 0;
+    border-bottom: 1px solid #f17936;
+}
+
 
 #actividad .workspace.matching .opcion {
     background: #fff;
@@ -1644,11 +1649,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 /*CAJA3 CajaEsquinaVerde*/
 
 .bck-box.bck-box-3 {
-    background: rgb(252,181,84);
+    /*background: rgb(252,181,84);
     background: -moz-linear-gradient(left, rgba(252,181,84,1) 0%, rgba(254,193,94,1) 40%, rgba(255,224,122,1) 100%);
     background: -webkit-linear-gradient(left, rgba(252,181,84,1) 0%,rgba(254,193,94,1) 40%,rgba(255,224,122,1) 100%);
     background: linear-gradient(to right, rgba(252,181,84,1) 0%,rgba(254,193,94,1) 40%,rgba(255,224,122,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcb554', endColorstr='#ffe07a',GradientType=1 );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcb554', endColorstr='#ffe07a',GradientType=1 );*/
+    background: #FFDB6F;
     margin-top: 20px;
     padding: 10px 10px 2px;
 }
