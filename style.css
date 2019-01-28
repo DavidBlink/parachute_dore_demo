@@ -1219,6 +1219,10 @@ body:not(.edit) .slider-indicators {
 /*LISTAS ORDENADAS*/
 
 /*LISTA ORDENADA General*/
+li:before {
+    font-weight: 800;
+}
+
 
 #actividad .content .texto_curso .bck-ol li,
 #actividad .popover-content .bck-ol li,
