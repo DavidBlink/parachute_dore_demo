@@ -1607,16 +1607,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     font-weight: 500;
 }
 
-.bck-box.bck-box-2 .bck-title p {
-    border-bottom: 2px dotted #80A0D3;
-    width: fit-content;
-    width: -moz-fit-content;
-}
-
-
-.bck-box.bck-box-2 .bck-title:before {
-    
-}
 
 
 
@@ -1657,6 +1647,47 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     font-size: 2.5rem;
     font-weight: 500;
 }
+
+/*CAJA15 CajaBilanOral*/
+
+.bck-box.bck-box-15 {
+    background: #fff;
+    text-align: left;
+    margin-left: -97px;
+    margin-top: -37px;
+}
+
+.bck-box.bck-box-15:before {
+    background-image: url(Images/imagen-before-unite2.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 150px 250px 100px;
+    position: absolute;
+    width: 40px;
+    height: auto;
+    left: 0;
+}
+
+.bck-box.bck-box-15 .bck-content {
+    border: 0;
+    padding: 46px 1px 10px 120px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+
+.bck-box.bck-box-15 .bck-title {
+    font-family: Olivier2016;
+    padding: 20px 25px 0px;
+    text-align: center;
+    border: 0;
+    color: #80A0D3;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+
 
 /*CAJA3 CajaEsquinaVerde*/
 
