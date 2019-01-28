@@ -3234,38 +3234,9 @@ table,
 .bck-box.bck-box-15 .bck-title {
     
 }
-
-.bck-title-8 {
-    width: 100%;
-    background-image: url(Images/titulo-vers-ledelfA1.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 100px;
-    position: relative;
-    top: -58px;
 }
 
-.bck-title-8:after {
-    background-image: url(Images/after-titulo-8.jpg);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 48px;
-    position: absolute;
-    left: -28px;
-}
 
-.bck-title-8:before {
-    background-image: url(Images/before-titulo-8.jpg);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 62.1px;
-    position: absolute;
-    right: -79px;
-}
-
-}
 
 @media screen and (max-width: 1024px) {
 
@@ -3304,23 +3275,11 @@ table,
 }
 
 .bck-title-8:after {
-    background-image: url(Images/after-titulo-8-2.jpg);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 53.8px;
-    position: absolute;
-    left: -98px;
+    background-image: none;
 }
 
 .bck-title-8:before {
-    background-image: url(Images/before-titulo-8.jpg);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 68px;
-    position: absolute;
-    right: -114px;
+    background-image: none;
 }
 
 }
