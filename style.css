@@ -1388,11 +1388,11 @@ body:not(.edit) .slider-indicators {
     content: counter(bck-li-counter, lower-alpha)".";
     position: absolute;
     text-align: center;
-    color: #96a6d1;
+    color: #80A0D3;
     line-height: normal;
     margin-left: -20px;
     line-height: unset;
-    font-weight: 600;
+    font-weight: 700;
     margin-top: -1px;
 }
 
