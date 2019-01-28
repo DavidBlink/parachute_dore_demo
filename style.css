@@ -939,8 +939,9 @@ body:not(.edit) .slider-indicators {
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 70px;
+    padding: 50px;
     position: absolute;
+    left: -99px;
 }
 
 .bck-title-8:before {
@@ -948,8 +949,9 @@ body:not(.edit) .slider-indicators {
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 70px;
+    padding: 26px 100px;
     position: absolute;
+    right: -194px;
 }
 
 /*-------------*/
