@@ -17,6 +17,7 @@
 				{ name: 'Título BlancoInicio', element: 'h2', attributes: { 'class': 'bck-title-1'} },
 				{ name: 'Título AzulClaro', element: 'h3', attributes: { 'class': 'bck-title-2'} },
 				{ name: 'Título BlogClaire', element: 'h3', attributes: { 'class': 'bck-title-7'} },
+				{ name: 'Título VersleDelf', element: 'h3', attributes: { 'class': 'bck-title-8'} },
 				{ name: 'AmarilloFondoNegro', element: 'h3', attributes: { 'class': 'bck-title-3'} },
 				{ name: 'JevalueNaranja', element: 'h3', attributes: { 'class': 'bck-title-4'} },
 				{ name: 'MoradoSubrayado', element: 'h3', attributes: { 'class': 'bck-title-5'} },
