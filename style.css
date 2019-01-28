@@ -695,6 +695,11 @@ body:not(.edit) .slider-indicators {
     font-weight: 300;
 }
 
+#actividad .workspace.true-false li {
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
 #actividad .content .workspace.test ul li ul li:before,
 #actividad .content .workspace.test ul li .bck-ul li:before {
     display: none;
