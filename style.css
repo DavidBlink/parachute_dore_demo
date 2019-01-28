@@ -1656,7 +1656,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcb554', endColorstr='#ffe07a',GradientType=1 );*/
     background: #FFDB6F;
     margin-top: 20px;
-    padding: 10px 10px 2px;
+    padding: 10px 20px 2px 10px;
 }
 
 .bck-box.bck-box-3 .bck-content {
