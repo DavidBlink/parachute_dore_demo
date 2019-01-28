@@ -1901,6 +1901,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 .bck-box.bck-box-9 .bck-content {
     border: 0;
     padding: 5px;
+    margin-left: 30px;
 }
 
 .bck-box.bck-box-9 .bck-title {
@@ -2443,6 +2444,10 @@ table,
 }
 
 /**/
+
+.texto_curso textarea {
+    margin: 0px 0px 10px 0px;
+}
 
 .textarea-container {
     width: 100%;
