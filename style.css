@@ -949,9 +949,9 @@ body:not(.edit) .slider-indicators {
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 26px 100px;
+    padding: 84px;
     position: absolute;
-    right: -194px;
+    right: -97px;
 }
 
 /*-------------*/
