@@ -1431,7 +1431,7 @@ body:not(.edit) .slider-indicators {
     position: relative;
     z-index: 0;
     font-size: 2.2rem;
-    font-weight: 600;
+    font-weight: bold;
     color: #ec6608;
     margin-top: 10px;
 }
@@ -3171,6 +3171,38 @@ table,
     -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
     -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
     box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
+}
+
+.bck-box.bck-box-15 {
+    background: #fff0;
+    text-align: left;
+    margin-left: -18px;
+    margin-top: -37px;
+}
+
+.bck-box.bck-box-15:before {
+    background-image: url(Images/bilan-oral-before-parachute.jpg);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 80px;
+    position: absolute;
+    width: 40px;
+    height: auto;
+    top: -43px;
+    left: 0;
+}
+
+.bck-box.bck-box-15 .bck-content {
+    border: 0;
+    padding: 40px 1px 10px 200px;
+    font-size: 3.2rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+
+.bck-box.bck-box-15 .bck-title {
+    
 }
 
 }
