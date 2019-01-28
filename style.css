@@ -923,6 +923,14 @@ body:not(.edit) .slider-indicators {
     background-repeat: no-repeat;
 }
 
+/*titulo Versledelf*/
+.bck-title-8 {
+    width: 100%;
+    background-image: url(Images/titulo-vers-ledelfA1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: auto;
+}
 
 /*-------------*/
 
