@@ -23,6 +23,11 @@
     }
 
     @font-face {
+      font-family: GraphiteStd-Regular;
+      src: url(fonts/GraphiteStd-Regular.otf);
+    }
+
+    @font-face {
       font-family: Olivier2016;
       src: url(fonts/Olivier2016.otf);
     }
@@ -1028,6 +1033,12 @@ body:not(.edit) .slider-indicators {
 /*Enfasis 12 GrilledFont*/
 .bck-enfasis-12 {
     font-family: GrilledCheeseBTN;
+    font-size: 2rem;
+}
+
+/*Enfasis 19 GraphiteFont*/
+.bck-enfasis-19 {
+    font-family: GraphiteStd-Regular;
     font-size: 2rem;
 }
 
