@@ -2918,7 +2918,7 @@ table,
 
 @media screen and (max-width: 500px) {
 .bck-box.bck-box-2 {
-    background: #fff;
+    background: #fff0;
     /* text-align: left; */
     margin-left: 0px;
     margin-top: -40px;
@@ -3062,6 +3062,21 @@ table,
     box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
 }
 
+#actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
+height: 28px !important;
+width: 28px;
+display: inline-block;
+background-image: url(Images/icono-audio-parachute.png);
+background-color: rgba(0, 128, 0, 0)!important;
+background-repeat: no-repeat;
+background-size: contain;
+-webkit-border-radius: 100%;
+-moz-border-radius: 100%;
+border-radius: 100%;
+margin: 0 5px;
+vertical-align: sub;
+}
+
 
 }
 
@@ -3099,7 +3114,7 @@ table,
     }
 
    .bck-box.bck-box-2 {
-    background: #fff;
+    background: #fff0;
     /* text-align: left; */
     margin-left: 0px;
     margin-top: -40px;
@@ -3304,8 +3319,6 @@ font-weight: normal;
 line-height: 30px;
 }
 
-
-
 #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
 height: 28px !important;
 width: 28px;
@@ -3313,6 +3326,7 @@ display: inline-block;
 background-image: url(Images/icono-audio-parachute.png);
 background-color: rgba(0, 128, 0, 0)!important;
 background-repeat: no-repeat;
+background-size: contain;
 -webkit-border-radius: 100%;
 -moz-border-radius: 100%;
 border-radius: 100%;
@@ -3324,6 +3338,13 @@ vertical-align: sub;
 }
 
 @media only screen and (max-width: 1024px) and (min-width: 769px)  {
+
+.bck-box.bck-box-2 {
+    background: #fff0;
+    margin-left: 0px;
+    margin-top: -40px;
+}
+
 
 .bck-box.bck-box-2 .bck-title {
     font-family: Olivier2016;
@@ -3435,21 +3456,12 @@ display: inline-block;
 background-image: url(Images/icono-audio-parachute.png);
 background-color: rgba(0, 128, 0, 0)!important;
 background-repeat: no-repeat;
+background-size: contain;
 -webkit-border-radius: 100%;
 -moz-border-radius: 100%;
 border-radius: 100%;
 margin: 0 5px;
 vertical-align: sub;
 }
-
-#book-index #wrapper.units {
-    display: block;
-    padding: 20px 0;
-}
-
-#book-index .col-main {
-    background: #ea5b0c;
-}
-
 
 }
