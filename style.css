@@ -2954,7 +2954,7 @@ table,
 
 .bck-enfasis-3 {
     color: #ea5b0c;
-    font-size: 6rem;
+    font-size: 5.2rem;
     font-family: BauhausStd-Demi;
 }
 
@@ -3445,6 +3445,12 @@ vertical-align: sub;
     text-decoration: underline;
     text-decoration-style: dotted;
     margin-top: 0px;
+}
+
+.bck-enfasis-3 {
+    color: #ea5b0c;
+    font-size: 7.5rem;
+    font-family: BauhausStd-Demi;
 }
 
 #actividad .content .cke_contents .bck-ol-1 li:before, #actividad .content .texto_curso .bck-ol-1 li:before, #actividad .popover-content .bck-ol-1 li:before, #actividad .content .workspace ul li .bck-ol-1 li:before {
