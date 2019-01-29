@@ -1276,7 +1276,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li .bck-ol-1 li:before {
     content: counter(bck-li-counter);
     width: 26px;
-    height: 26px;
+    height: auto;
     position: absolute;
     color: #ffffff;
     background: #ec6608;
@@ -1287,7 +1287,6 @@ body:not(.edit) .slider-indicators {
     font-size: 1.9rem;
     font-family: BauhausStd-Demi;
     font-weight: normal;
-    line-height: 26px;
 }
 
 /*LISTA OrdAMARILLA*/
@@ -1319,7 +1318,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li .bck-ol-4 li:before {
     content: counter(bck-li-counter);
     width: 26px;
-    height: 26px;
+    height: auto;
     position: absolute;
     color: #ffffff;
     background: #ffcc00;
@@ -1330,7 +1329,7 @@ body:not(.edit) .slider-indicators {
     font-size: 1.9rem;
     font-family: BauhausStd-Demi;
     font-weight: normal;
-    line-height: 26px;
+
 }
 
 #actividad .content .cke_contents .bck-ol-7,
@@ -1395,7 +1394,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li .bck-ol-6 li:before {
     content: counter(bck-li-counter);
     width: 26px;
-    height: 26px;
+    height: auto;
     position: absolute;
     color: #ffffff;
     background: #231F20;
@@ -1406,7 +1405,6 @@ body:not(.edit) .slider-indicators {
     font-size: 1.9rem;
     font-family: Olivier2016;
     font-weight: normal;
-    line-height: 22px;
 }
 
 
@@ -1477,7 +1475,6 @@ body:not(.edit) .slider-indicators {
     color: #80A0D3;
     line-height: normal;
     margin-left: -20px;
-    line-height: unset;
     font-weight: 800;
     margin-top: -1px;
 }
@@ -3281,7 +3278,6 @@ table,
 }
 
 
-
 @media screen and (max-width: 1024px) {
 
 .bck-box.bck-box-2 .bck-title {
@@ -3335,6 +3331,4 @@ table,
     text-decoration-style: dotted;
     margin-top: 0px;
 }
-
-
 }
