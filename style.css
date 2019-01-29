@@ -1473,7 +1473,6 @@ body:not(.edit) .slider-indicators {
     position: absolute;
     text-align: center;
     color: #80A0D3;
-    line-height: normal;
     margin-left: -20px;
     font-weight: 800;
     margin-top: -1px;
