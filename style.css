@@ -3317,6 +3317,57 @@ font-weight: normal;
 line-height: 30px;
 }
 
+#actividad .content .cke_contents .bck-ol-3 li:before, #actividad .content .texto_curso ol.bck-ol-3 li:before, #actividad .popover-content ol.bck-ol-3 li:before, #actividad .content .workspace ul li ol.bck-ol-3 li:before {
+    content: counter(bck-li-counter)'';
+    background: #FFCB06;
+    -webkit-box-shadow: 0 2px 5px 0 #D2A806;
+    box-shadow: 0 2px 5px 0 #D2A806;
+    margin-top: 1px;
+    padding-left: 40px;
+    padding-right: 5px;
+    padding-top: 1px;
+    color: #FFF;
+    margin-left: -62px;
+    margin-right: 10px;
+    font-size: 2.2rem;
+    font-weight: 600;
+    text-align: right;
+}
+
+#actividad .content .cke_contents .bck-ol-4 li:before, #actividad .content .texto_curso .bck-ol-4 li:before, #actividad .popover-content .bck-ol-4 li:before, #actividad .content .workspace ul li .bck-ol-4 li:before {
+content: counter(bck-li-counter);
+width: 26px;
+height: 26px;
+position: absolute;
+color: #ffffff;
+background: #ec6608;
+margin-left: -30px;
+margin-right: 0px;
+border-radius: 100%;
+text-align: center;
+font-size: 1.9rem;
+font-family: BauhausStd-Demi;
+font-weight: normal;
+line-height: 30px;
+}
+
+#actividad .content .cke_contents .bck-ol-6 li:before, #actividad .content .texto_curso .bck-ol-6 li:before, #actividad .popover-content .bck-ol-6 li:before, #actividad .content .workspace ul li .bck-ol-6 li:before {
+content: counter(bck-li-counter);
+width: 26px;
+height: 26px;
+position: absolute;
+color: #ffffff;
+background: #ec6608;
+margin-left: -30px;
+margin-right: 0px;
+border-radius: 100%;
+text-align: center;
+font-size: 1.9rem;
+font-family: BauhausStd-Demi;
+font-weight: normal;
+line-height: 30px;
+}
+
 #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
 height: 28px !important;
 width: 28px;
@@ -3446,6 +3497,24 @@ font-family: BauhausStd-Demi;
 font-weight: normal;
 line-height: 30px;
 }
+
+#actividad .content .cke_contents .bck-ol-3 li:before, #actividad .content .texto_curso ol.bck-ol-3 li:before, #actividad .popover-content ol.bck-ol-3 li:before, #actividad .content .workspace ul li ol.bck-ol-3 li:before {
+    content: counter(bck-li-counter)'';
+    background: #FFCB06;
+    -webkit-box-shadow: 0 2px 5px 0 #D2A806;
+    box-shadow: 0 2px 5px 0 #D2A806;
+    margin-top: 1px;
+    padding-left: 40px;
+    padding-right: 5px;
+    padding-top: 1px;
+    color: #FFF;
+    margin-left: -62px;
+    margin-right: 10px;
+    font-size: 2.2rem;
+    font-weight: 600;
+    text-align: right;
+}
+
 
 #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
 height: 28px !important;
