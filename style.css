@@ -3275,6 +3275,19 @@ table,
 .bck-box.bck-box-15 .bck-title {
     
 }
+.bck-box.bck-box-14:before {
+    background-image: url(Images/imagen-before-unite2.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 100px 250px 100px;
+    position: absolute;
+    width: 40px;
+    height: auto;
+    left: 77px;
+}
+
+
 }
 
 
@@ -3331,4 +3344,36 @@ table,
     text-decoration-style: dotted;
     margin-top: 0px;
 }
+
+#actividad .content .cke_contents .bck-ol-1 li:before, #actividad .content .texto_curso .bck-ol-1 li:before, #actividad .popover-content .bck-ol-1 li:before, #actividad .content .workspace ul li .bck-ol-1 li:before {
+content: counter(bck-li-counter);
+width: 26px;
+height: 26px;
+position: absolute;
+color: #ffffff;
+background: #ec6608;
+margin-left: -30px;
+margin-right: 0px;
+border-radius: 100%;
+text-align: center;
+font-size: 1.9rem;
+font-family: BauhausStd-Demi;
+font-weight: normal;
+line-height: 30px;
+}
+
+#actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
+height: 28px !important;
+width: 28px;
+display: inline-block;
+background-color: rgba(0, 128, 0, 0)!important;
+background-image: url(../../../images/shared/multimedia-icons.png);
+background-repeat: no-repeat;
+-webkit-border-radius: 100%;
+-moz-border-radius: 100%;
+border-radius: 100%;
+margin: 0 5px;
+vertical-align: sub;
+}
+
 }
