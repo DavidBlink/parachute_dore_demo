@@ -3287,11 +3287,43 @@ table,
     left: 77px;
 }
 
-
+#actividad .content .cke_contents .bck-ol-1 li:before, #actividad .content .texto_curso .bck-ol-1 li:before, #actividad .popover-content .bck-ol-1 li:before, #actividad .content .workspace ul li .bck-ol-1 li:before {
+content: counter(bck-li-counter);
+width: 26px;
+height: 26px;
+position: absolute;
+color: #ffffff;
+background: #ec6608;
+margin-left: -30px;
+margin-right: 0px;
+border-radius: 100%;
+text-align: center;
+font-size: 1.9rem;
+font-family: BauhausStd-Demi;
+font-weight: normal;
+line-height: 30px;
 }
 
 
-@media screen and (max-width: 1024px) {
+
+#actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
+height: 28px !important;
+width: 28px;
+display: inline-block;
+background-image: url(Images/icono-audio-parachute.png);
+background-color: rgba(0, 128, 0, 0)!important;
+background-repeat: no-repeat;
+-webkit-border-radius: 100%;
+-moz-border-radius: 100%;
+border-radius: 100%;
+margin: 0 5px;
+vertical-align: sub;
+}
+
+
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 769px)  {
 
 .bck-box.bck-box-2 .bck-title {
     font-family: Olivier2016;
@@ -3346,6 +3378,40 @@ table,
 }
 
 #actividad .content .cke_contents .bck-ol-1 li:before, #actividad .content .texto_curso .bck-ol-1 li:before, #actividad .popover-content .bck-ol-1 li:before, #actividad .content .workspace ul li .bck-ol-1 li:before {
+content: counter(bck-li-counter);
+width: 26px;
+height: 26px;
+position: absolute;
+color: #ffffff;
+background: #ec6608;
+margin-left: -30px;
+margin-right: 0px;
+border-radius: 100%;
+text-align: center;
+font-size: 1.9rem;
+font-family: BauhausStd-Demi;
+font-weight: normal;
+line-height: 30px;
+}
+
+#actividad .content .cke_contents .bck-ol-4 li:before, #actividad .content .texto_curso .bck-ol-4 li:before, #actividad .popover-content .bck-ol-4 li:before, #actividad .content .workspace ul li .bck-ol-4 li:before {
+content: counter(bck-li-counter);
+width: 26px;
+height: 26px;
+position: absolute;
+color: #ffffff;
+background: #ec6608;
+margin-left: -30px;
+margin-right: 0px;
+border-radius: 100%;
+text-align: center;
+font-size: 1.9rem;
+font-family: BauhausStd-Demi;
+font-weight: normal;
+line-height: 30px;
+}
+
+#actividad .content .cke_contents .bck-ol-6 li:before, #actividad .content .texto_curso .bck-ol-6 li:before, #actividad .popover-content .bck-ol-6 li:before, #actividad .content .workspace ul li .bck-ol-6 li:before {
 content: counter(bck-li-counter);
 width: 26px;
 height: 26px;
