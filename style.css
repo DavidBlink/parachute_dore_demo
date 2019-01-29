@@ -3366,6 +3366,7 @@ line-height: 30px;
 height: 28px !important;
 width: 28px;
 display: inline-block;
+background-image: url(Images/icono-audio-parachute.png);
 background-color: rgba(0, 128, 0, 0)!important;
 background-repeat: no-repeat;
 -webkit-border-radius: 100%;
