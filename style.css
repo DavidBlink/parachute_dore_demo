@@ -3474,6 +3474,14 @@ vertical-align: sub;
     background-image: none;
 }
 
+.bck-box.bck-box-13 .bck-content {
+    border: 0;
+    padding: 55px 1px 10px 130px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+
 /*titulo JevalueNaranja*/
 .bck-title-4 {
     color: #ea5b0c;
