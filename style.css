@@ -425,6 +425,16 @@ footer {
 
 /**/
 
+/*desplegable azul respuesta multiple - display:none*/
+.slide_main .multiple-solution-marker {
+    border: 5px solid transparent;
+    border-left-color: #00bdff;
+    display: none;
+    position: relative;
+    margin-left: -10px;
+}
+
+
 #actividad .texto_curso {
     font-size: 1.8rem;
 }
