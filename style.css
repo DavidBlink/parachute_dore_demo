@@ -2563,14 +2563,6 @@ table,
 
 /**/
 
-
-#actividad .workspace {
-    clear: both;
-    font-size: 1.8rem;
-    line-height: 2.1rem;
-    margin-left: 40px;
-}
-
 .texto_curso textarea {
     margin: 0px 0px 10px 0px;
 }
