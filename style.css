@@ -3401,6 +3401,30 @@ vertical-align: sub;
     left: 77px;
 }
 
+
+.bck-box.bck-box-17 .bck-content {
+    border: 0;
+    padding: 46px 1px 10px 200px;
+    text-align: center;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+
+.bck-box.bck-box-17:before {
+    background-image: url(Images/unite-cahier-before.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 150px 200px 200px;
+    position: absolute;
+    width: 40px;
+    height: auto;
+    left: 0;
+    margin-left: 77px;
+}
+
+
 #actividad .content .cke_contents .bck-ol-1 li:before, #actividad .content .texto_curso .bck-ol-1 li:before, #actividad .popover-content .bck-ol-1 li:before, #actividad .content .workspace ul li .bck-ol-1 li:before {
 content: counter(bck-li-counter);
 width: 26px;
@@ -3541,6 +3565,27 @@ vertical-align: sub;
 .bck-box.bck-box-13 .bck-content {
     border: 0;
     padding: 55px 1px 10px 130px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+
+.bck-box.bck-box-17:before {
+    background-image: url(Images/unite-cahier-before.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 120px 200px 100px;
+    position: absolute;
+    width: 40px;
+    height: auto;
+    left: 0;
+}
+
+.bck-box.bck-box-17 .bck-content {
+    border: 0;
+    padding: 46px 1px 10px 100px;
+    text-align: center;
     font-size: 5rem;
     font-family: GrilledCheeseBTN;
     color: #ea5b0c;
