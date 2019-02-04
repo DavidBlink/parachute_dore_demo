@@ -759,6 +759,8 @@ body:not(.edit) .slider-indicators {
     background: #fff;
     border-color: #ffab7d;
     padding-top: 2px;
+    padding-right: 2px;
+    padding-left: 2px;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
@@ -1394,7 +1396,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li .bck-ol-6 li:before {
     content: counter(bck-li-counter);
     width: 26px;
-    height: auto;
+    height: 26px;
     position: absolute;
     color: #ffffff;
     background: #231F20;
