@@ -1369,7 +1369,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ol-7 li:before,
 #actividad .popover-content .bck-ol-7 li:before,
 #actividad .content .workspace ul li .bck-ol-7 li:before {
-    content: counter(bck-li-counter);
+    content: counter(bck-li-counter)".";
     position: absolute;
     margin-left: -30px;
     margin-right: 0px;
