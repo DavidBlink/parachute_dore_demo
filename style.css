@@ -1683,6 +1683,48 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 }
 
 
+/*CAJA17 CajaUniteCahier*/
+
+.bck-box.bck-box-17 {
+    background: #fff;
+    text-align: left;
+    margin-left: -97px;
+    margin-top: -37px;
+}
+
+.bck-box.bck-box-17:before {
+    background-image: url(Images/unite-cahier-before.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 150px 250px 100px;
+    position: absolute;
+    width: 40px;
+    height: auto;
+    left: 0;
+}
+
+.bck-box.bck-box-17 .bck-content {
+    border: 0;
+    padding: 46px 1px 10px 10px;
+    text-align: center;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+
+.bck-box.bck-box-17 .bck-title {
+    font-family: Olivier2016;
+    padding: 20px 25px 0px;
+    text-align: center;
+    border: 0;
+    color: #80A0D3;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+
+
 
 /*CAJA13 CajaLesonCahier*/
 
