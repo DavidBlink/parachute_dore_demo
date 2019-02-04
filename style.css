@@ -409,6 +409,8 @@ input, button, select, textarea {
     font-weight: bold;
 }
 
+
+
 /**/
 
 /*FOOTER*/
@@ -474,6 +476,15 @@ body.is_app #actividad .class_slide {
     content: '\f101';
     margin-right: 10px;
     font-family: 'FontAwesome';
+}
+
+.puzzle-wrapper {
+    float: left;
+    width: 54%;
+    margin-top: 13px;
+    margin-right: 10px;
+    margin-left: 40px;
+    font-size: 1.8rem;
 }
 
 .slide_main input {
