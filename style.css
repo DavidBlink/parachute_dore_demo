@@ -487,6 +487,16 @@ body.is_app #actividad .class_slide {
     font-size: 1.8rem;
 }
 
+.fillblanks-draggable-wrapper .response p {
+    position: relative;
+    margin: 0;
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 1.5rem;
+    background-color: #c4d0ebba;
+    border-color: #b1c1e5;
+}
+
 .slide_main input {
     color: #555;
     background-color: #fff;
