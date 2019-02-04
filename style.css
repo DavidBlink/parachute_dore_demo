@@ -3645,32 +3645,19 @@ content: counter(bck-li-counter);
 width: 26px;
 height: 26px;
 position: absolute;
-color: #ffffff;
-background: #ec6608;
-margin-left: -30px;
-margin-right: 0px;
-border-radius: 100%;
 text-align: center;
 font-size: 1.9rem;
-font-family: BauhausStd-Demi;
-font-weight: normal;
 line-height: 30px;
 }
+
 
 #actividad .content .cke_contents .bck-ol-4 li:before, #actividad .content .texto_curso .bck-ol-4 li:before, #actividad .popover-content .bck-ol-4 li:before, #actividad .content .workspace ul li .bck-ol-4 li:before {
 content: counter(bck-li-counter);
 width: 26px;
 height: 26px;
 position: absolute;
-color: #ffffff;
-background: #ec6608;
-margin-left: -30px;
-margin-right: 0px;
-border-radius: 100%;
 text-align: center;
 font-size: 1.9rem;
-font-family: BauhausStd-Demi;
-font-weight: normal;
 line-height: 30px;
 }
 
@@ -3679,15 +3666,7 @@ content: counter(bck-li-counter);
 width: 26px;
 height: 26px;
 position: absolute;
-color: #ffffff;
-background: #ec6608;
-margin-left: -30px;
-margin-right: 0px;
-border-radius: 100%;
 text-align: center;
-font-size: 1.9rem;
-font-family: BauhausStd-Demi;
-font-weight: normal;
 line-height: 30px;
 }
 
