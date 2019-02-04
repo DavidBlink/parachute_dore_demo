@@ -1769,11 +1769,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 100px;
+    padding: 150px;
     position: absolute;
     width: 40px;
     height: auto;
-    top: -43px;
+    top: 0px;
     left: 0;
 }
 
