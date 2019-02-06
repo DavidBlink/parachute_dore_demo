@@ -1469,7 +1469,7 @@ body:not(.edit) .slider-indicators {
     height: 26px;
     position: absolute;
     color: #ffffff;
-    background: #231F20;
+    background: #d07eae;
     margin-left: -30px;
     margin-right: 0px;
     border-radius: 100%;
@@ -3520,21 +3520,33 @@ vertical-align: sub;
     margin-left: 77px;
 }
 
-
 #actividad .content .cke_contents .bck-ol-1 li:before, #actividad .content .texto_curso .bck-ol-1 li:before, #actividad .popover-content .bck-ol-1 li:before, #actividad .content .workspace ul li .bck-ol-1 li:before {
 content: counter(bck-li-counter);
 width: 26px;
 height: 26px;
 position: absolute;
-color: #ffffff;
-background: #ec6608;
-margin-left: -30px;
-margin-right: 0px;
-border-radius: 100%;
 text-align: center;
 font-size: 1.9rem;
-font-family: BauhausStd-Demi;
-font-weight: normal;
+line-height: 30px;
+}
+
+
+#actividad .content .cke_contents .bck-ol-4 li:before, #actividad .content .texto_curso .bck-ol-4 li:before, #actividad .popover-content .bck-ol-4 li:before, #actividad .content .workspace ul li .bck-ol-4 li:before {
+content: counter(bck-li-counter);
+width: 26px;
+height: 26px;
+position: absolute;
+text-align: center;
+font-size: 1.9rem;
+line-height: 30px;
+}
+
+#actividad .content .cke_contents .bck-ol-6 li:before, #actividad .content .texto_curso .bck-ol-6 li:before, #actividad .popover-content .bck-ol-6 li:before, #actividad .content .workspace ul li .bck-ol-6 li:before {
+content: counter(bck-li-counter);
+width: 26px;
+height: 26px;
+position: absolute;
+text-align: center;
 line-height: 30px;
 }
 
@@ -3553,40 +3565,6 @@ line-height: 30px;
     font-size: 2.2rem;
     font-weight: 600;
     text-align: right;
-}
-
-#actividad .content .cke_contents .bck-ol-4 li:before, #actividad .content .texto_curso .bck-ol-4 li:before, #actividad .popover-content .bck-ol-4 li:before, #actividad .content .workspace ul li .bck-ol-4 li:before {
-content: counter(bck-li-counter);
-width: 26px;
-height: 26px;
-position: absolute;
-color: #ffffff;
-background: #ec6608;
-margin-left: -30px;
-margin-right: 0px;
-border-radius: 100%;
-text-align: center;
-font-size: 1.9rem;
-font-family: BauhausStd-Demi;
-font-weight: normal;
-line-height: 30px;
-}
-
-#actividad .content .cke_contents .bck-ol-6 li:before, #actividad .content .texto_curso .bck-ol-6 li:before, #actividad .popover-content .bck-ol-6 li:before, #actividad .content .workspace ul li .bck-ol-6 li:before {
-content: counter(bck-li-counter);
-width: 26px;
-height: 26px;
-position: absolute;
-color: #ffffff;
-background: #ec6608;
-margin-left: -30px;
-margin-right: 0px;
-border-radius: 100%;
-text-align: center;
-font-size: 1.9rem;
-font-family: BauhausStd-Demi;
-font-weight: normal;
-line-height: 30px;
 }
 
 #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
