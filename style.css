@@ -3402,6 +3402,26 @@ vertical-align: sub;
     font-size: 2.5rem;
 }
 
+.bck-title-8 {
+    width: 100%;
+    background-image: url(Images/titulo-vers-ledelfA1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100px;
+    position: relative;
+    top: -38px;
+}
+
+.bck-title-8:after {
+    background-image: none;
+}
+
+.bck-title-8:before {
+    background-image: none;
+}
+
+
+
 .bck-box.bck-box-3 .bck-title:before {
     background-image: url(Images/after-verde-caja.png);
     content: '';
@@ -3637,7 +3657,7 @@ vertical-align: sub;
     background-size: contain;
     height: 100px;
     position: relative;
-    top: -58px;
+    top: -38px;
 }
 
 .bck-title-8:after {
