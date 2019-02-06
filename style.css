@@ -2024,16 +2024,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-18 {
     background: #fff;
-    margin-left: 30px;
-    border: 1px solid #5469a9;
+    margin-left: 40px;
+    border: 3px solid #5469a9;
 }
 
 .bck-box.bck-box-18 .bck-content {
-    }
+	text-align: center;
+	padding: 10px 14px 10px 14px;
+}
 
 .bck-box.bck-box-18 .bck-title {
     text-align: center;
-    border-bottom: 1px solid #5469a9;
+    border-bottom: 3px solid #5469a9;
 }
 
 
