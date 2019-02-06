@@ -2020,6 +2020,23 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     padding: 5px;
 }
 
+/*Caja-TablaAzul*/
+
+.bck-box.bck-box-18 {
+    background: #fff;
+    margin-left: 30px;
+    border: 1px solid #5469a9;
+}
+
+.bck-box.bck-box-18 .bck-content {
+    }
+
+.bck-box.bck-box-14 .bck-title {
+    text-align: center;
+    border-bottom: 1px solid #5469a9;
+}
+
+
 /*CAJA7 CajaBlog*/
 
 .bck-box.bck-box-7 {
