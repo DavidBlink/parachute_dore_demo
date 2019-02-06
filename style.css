@@ -445,6 +445,12 @@ footer {
     padding: 20px 97px 0px;
     }
 
+
+/*CLASE PADDING SLIDE CON MAPA CONCEPTUAL - ELIMINAMOS PADDING DE ESTA CLASE*/
+.mapaconceptual #actividad .class_slide {
+    padding: 0px 0px 0px;
+}
+
 body.is_app #actividad .class_slide {
     padding-top: 0px;
 }
