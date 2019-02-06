@@ -69,6 +69,7 @@
 				{ name: 'CajaEsquinaVerde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'CajaTachesAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-10' } },
 				{ name: 'CajaBordeAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-11' } },
+				{ name: 'Caja-TablaAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-18' } },
 				{ name: 'CajaAmarilla', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
 				{ name: 'CajaATOI', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
 				{ name: 'CajaFondoAzul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
