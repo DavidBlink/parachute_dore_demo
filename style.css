@@ -1404,6 +1404,44 @@ body:not(.edit) .slider-indicators {
     font-weight: bold;
 }
 
+/*Lista NumeroAzul*/
+#actividad .content .cke_contents .bck-ol-8,
+#actividad .content .texto_curso .bck-ol-8,
+#actividad .content .workspace ul li .bck-ol-8 {
+    list-style-type: none;
+    counter-reset: bck-li-counter;
+}
+
+#actividad .content .cke_contents .bck-ol-8 li,
+#actividad .content .cke_contents .bck-ol-8 li,
+#actividad .content .texto_curso .bck-ol-8 li,
+#actividad .popover-content .bck-ol-8 li,
+#actividad .content .workspace ul li .bck-ol-8 li {
+    counter-increment: bck-li-counter;
+    padding-left: 0px;
+    position: relative;
+    z-index: 0;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+
+#actividad .content .cke_contents .bck-ol-8 li:before,
+#actividad .content .texto_curso .bck-ol-8 li:before,
+#actividad .popover-content .bck-ol-8 li:before,
+#actividad .content .workspace ul li .bck-ol-8 li:before {
+    content: counter(bck-li-counter)".";
+    position: absolute;
+    margin-left: -30px;
+    margin-right: 0px;
+    font-size: 1.9rem;
+    font-weight: bold;
+    color: #80A0D3;
+}
+
+
+
+
 /*LISTA CirculoNegro*/
 #actividad .content .cke_contents .bck-ol-6,
 #actividad .content .texto_curso .bck-ol-6,
