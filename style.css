@@ -775,11 +775,6 @@ body:not(.edit) .slider-indicators {
     font-weight: 400;
 }
 
-#actividad .workspace.chooseblanks .inline-answer a.respuesta_ok {
-    color: #00bdff;
-    border-color: #00bdff;
-    background-color: #ffffff;
-}
 
 #actividad .workspace.chooseblanks select {
     border: 0;
