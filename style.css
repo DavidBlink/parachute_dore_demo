@@ -2611,10 +2611,9 @@ table,
     border: 3px solid #5469a9;
 }
 
-/*celda azul*/
+/*celda borde azul*/
 .bck-td-2 {
-    color: #ffffff;
-    background: #3F6AB2;
+    border-bottom: 3px solid #5469a9;
     text-align: center;
 }
 
