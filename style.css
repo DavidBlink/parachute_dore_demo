@@ -3364,16 +3364,16 @@ vertical-align: sub;
     color: #ea5b0c;
     font-family: Olivier2016;
     font-size: 2.5rem;
-    text-decoration: underline!important;
-    text-decoration: -webkit-underline!important;
-    text-decoration: -moz-underline!important;
-    text-decoration: -o-underline!important;
-    text-decoration: -ms-underline!important;
-    text-decoration-style: dotted!important;
-    text-decoration-style: -webkit-dotted!important;
-    text-decoration-style: -moz-dotted!important;
-    text-decoration-style: -o-dotted!important;
-    text-decoration-style: -ms-dotted!important;
+    text-decoration: underline;
+    text-decoration: -webkit-underline;
+    text-decoration: -moz-underline;
+    text-decoration: -o-underline;
+    text-decoration: -ms-underline;
+    text-decoration-style: dotted;
+    text-decoration-style: -webkit-dotted;
+    text-decoration-style: -moz-dotted;
+    text-decoration-style: -o-dotted;
+    text-decoration-style: -ms-dotted;
     
     }
 
@@ -3702,16 +3702,16 @@ vertical-align: sub;
     color: #ea5b0c;
     font-family: Olivier2016;
     font-size: 3.2rem;
-    text-decoration: underline!important;
-    text-decoration: -webkit-underline!important;
-    text-decoration: -moz-underline!important;
-    text-decoration: -o-underline!important;
-    text-decoration: -ms-underline!important;
-    text-decoration-style: dotted!important;
-    text-decoration-style: -webkit-dotted!important;
-    text-decoration-style: -moz-dotted!important;
-    text-decoration-style: -o-dotted!important;
-    text-decoration-style: -ms-dotted!important;
+    text-decoration: underline;
+    text-decoration: -webkit-underline;
+    text-decoration: -moz-underline;
+    text-decoration: -o-underline;
+    text-decoration: -ms-underline;
+    text-decoration-style: dotted;
+    text-decoration-style: -webkit-dotted;
+    text-decoration-style: -moz-dotted;
+    text-decoration-style: -o-dotted;
+    text-decoration-style: -ms-dotted;
     margin-top: 0px;
 }
 
