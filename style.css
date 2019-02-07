@@ -279,7 +279,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
     font-family: GrilledCheeseBTN;
     line-height: 34px;
     padding: 5px 20px;
-    height: 50px;
+    height: 42px;
     margin: 5px 140px 20px 8px;
     overflow: hidden;
     z-index: 1;
