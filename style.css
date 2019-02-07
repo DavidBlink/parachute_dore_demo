@@ -1465,8 +1465,8 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-content .bck-ol-6 li:before,
 #actividad .content .workspace ul li .bck-ol-6 li:before {
     content: counter(bck-li-counter);
-    width: 26px;
-    height: 26px;
+    width: 23px;
+    height: 24px;
     position: absolute;
     color: #ffffff;
     background: #d07eae;
@@ -1477,6 +1477,7 @@ body:not(.edit) .slider-indicators {
     font-size: 1.9rem;
     font-family: Olivier2016;
     font-weight: normal;
+    line-height: initial;
 }
 
 
