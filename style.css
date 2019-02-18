@@ -964,34 +964,9 @@ body:not(.edit) .slider-indicators {
 
 /*titulo Versledelf*/
 .bck-title-8 {
-    width: 100%;
-    background-image: url(Images/titulo-vers-ledelfA1.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 100px;
-    position: relative;
-    top: -58px;
+    
 }
 
-.bck-title-8:after {
-    background-image: url(Images/after-titulo-8.jpg);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 50px;
-    position: absolute;
-    left: -99px;
-}
-
-.bck-title-8:before {
-    background-image: url(Images/before-titulo-8.jpg);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 84px;
-    position: absolute;
-    right: -97px;
-}
 
 /*-------------*/
 
@@ -3394,22 +3369,10 @@ vertical-align: sub;
 }
 
 .bck-title-8 {
-    width: 100%;
-    background-image: url(Images/titulo-vers-ledelfA1.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 100px;
-    position: relative;
-    top: -17px;
+   
 }
 
-.bck-title-8:after {
-    background-image: none;
-}
 
-.bck-title-8:before {
-    background-image: none;
-}
 
 
 
@@ -3620,22 +3583,10 @@ vertical-align: sub;
 }
 
 .bck-title-8 {
-    width: 100%;
-    background-image: url(Images/titulo-vers-ledelfA1.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 100px;
-    position: relative;
-    top: -17px;
+   
 }
 
-.bck-title-8:after {
-    background-image: none;
-}
 
-.bck-title-8:before {
-    background-image: none;
-}
 
 .bck-box.bck-box-13 .bck-content {
     border: 0;
