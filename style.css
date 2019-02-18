@@ -1727,10 +1727,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-14 .bck-content {
     border: 0;
-    padding: 90px 1px 60px 300px;
+    padding: 70px 1px 60px 300px;
     font-size: 5rem;
     font-family: GrilledCheeseBTN;
     color: #ea5b0c;
+    line-height: 5rem;
 }
 
 .bck-box.bck-box-14 .bck-title {
