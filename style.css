@@ -976,6 +976,7 @@ body:not(.edit) .slider-indicators {
     padding: 30px 10px 20px 100px;
     margin-top: -39px;
     margin-left: -98px;
+    margin-bottom: 40px;
 }
 
 
@@ -3607,6 +3608,7 @@ vertical-align: sub;
     padding: 30px 10px 20px 100px;
     margin-top: -39px;
     margin-left: -98px; 
+    margin-bottom: 40px;
 }
 
 
