@@ -3092,6 +3092,30 @@ table,
 
 /*--------------------------------TAGS------------------------------------*/
 
+/*Tags PARACHUTE*/
+
+/*4 colores principales, uno por cada libro+cuaderno que irán aplicados en el css propio de cada libro. Color principal por defecto naranja
+
+10 colores secundarios, cambian por unidad, irán en las tags y el CSS aplicado en github*/
+
+
+/*colores secundarios:
+
+    1.- Azul -color por defecto de los elementos del estilo- = #80A0D3
+    2.- Fucsia = activitytag_fucsia_parachute || unittag_fucsia_parachute = #be628f
+    3.- AzulClaro = activitytag_azulclaro_parachute = 
+    4.- Verde = activitytag_verde_parachute = 
+    5.- Morado = activitytag_morado_parachute = 
+    6.- VerdeAgua = activitytag_verdeagua_parachute = 
+    7.- Rojo = activitytag_rojo_parachute =
+    8.- Rosa = activitytag_rosa_parachute =
+    9.- Naranja = activitytag_naranja_parachute = 
+    10.- VerdeGris = activitytag_verdegris_parachute =
+
+    */
+
+/*Elementos gráficos que cambian de color respecto a las unidades*/
+
 /*------------------FUCSIA---------------*/
 
 /*Fucsia - #be628f */
@@ -3136,8 +3160,91 @@ table,
 }
 */
 
-.bck-box.bck-box-13 .bck-title {
+.activitytag_fucsia_parachute .bck-box.bck-box-13 .bck-title {
     color: #be628f;
+}
+
+
+
+/*CAJA14 CajaUnite*/
+
+.activitytag_fucsia_parachute .bck-box.bck-box-14:before {
+    background-image: url(Images/imagen-before-unite2.png);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-14 .bck-content {
+    color: #ea5b0c;
+}
+*/
+
+.activitytag_fucsia_parachute .bck-box.bck-box-14 .bck-title {
+    color: #be628f;
+}
+
+/*Lista 2 -ListaLetraMinus- */
+.activitytag_fucsia_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.activitytag_fucsia_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.activitytag_fucsia_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.activitytag_fucsia_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+    color: #be628f;
+}
+
+/*Lista 8 -ListaNumero-*/
+.activitytag_fucsia_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.activitytag_fucsia_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.activitytag_fucsia_parachute #actividad .popover-content .bck-ol-8 li:before,
+.activitytag_fucsia_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+    color: #be628f;
+}
+
+/*CAJA5 CajaATOI*/
+
+.activitytag_fucsia_parachute .bck-box.bck-box-5 {
+    border: 5px solid #be628f;
+}
+
+.activitytag_fucsia_parachute .bck-box.bck-box-5 .bck-title {
+    -webkit-text-stroke: 2px #be628f;
+}
+
+/*Titulo ColorUnidad*/
+.activitytag_fucsia_parachute .bck-title-2 {
+    color: #be628f;
+}
+
+/*CAJA10 CajaTaches*/
+
+.activitytag_fucsia_parachute .bck-box.bck-box-10 {
+    border: 3px solid #be628f;
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-10 .bck-title {
+    color: #ec6608;
+}
+*/
+
+.activitytag_fucsia_parachute .bck-box.bck-box-10 .bck-title:before {
+    background-image: url(Images/taches-finales-fucsia-before2.png);
+}
+
+/*CAJA11 CajaBordesColor*/
+
+.activitytag_fucsia_parachute .bck-box.bck-box-11 {
+    border: 3px solid #be628f;
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-11 .bck-title {
+    color: #ec6608;
+}
+*/
+
+/*CAJA6 CajaFondo*/
+
+.bck-box.bck-box-6 {
+    background: #D0DAEF;
 }
 
 
