@@ -3248,6 +3248,24 @@ table,
 }
 
 
+/*CAJA15 CajaBilanOral*/
+
+
+.activitytag_fucsia_parachute .bck-box.bck-box-15:before {
+    background-image: url(Images/bilan-oral-before-parachute-fucsia.jpg);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-15 .bck-content {
+    border: 0;
+    padding: 40px 1px 10px 240px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+*/
+
+
 
 
 
