@@ -1037,6 +1037,11 @@ body:not(.edit) .slider-indicators {
     color: #c90c0f;
  }
 
+   /*Enfasis 20 ColorFucsia*/
+ .bck-enfasis-5 {
+    color: #be628f;
+ }
+
 /*Enfasis 9 ColorAzul*/
  .bck-enfasis-9 {
     color: #00529c;
