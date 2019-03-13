@@ -3777,6 +3777,170 @@ table,
 
 
 
+/*------------------ROJO---------------*/
+
+/*Rojo - #c64329 */
+
+/*CAJA2 CajaLeson*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-2:before {
+    background-image: url(Images/before-leson-rojo.png);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-2 .bck-content {
+    border: 0;
+    padding: 60px 1px 10px 100px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-2 .bck-title {
+    color: #c64329;
+}
+
+.activitytag_rojo_parachute .bck-box.bck-box-2 .bck-title p {
+    border-bottom: 2px dotted #c64329;
+}
+
+/*CAJA13 CajaLesonCahier*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-13:before {
+    background-image: url(Images/before-leson-rojo.png);
+}
+
+/*Color principal, cambia por libro
+.bck-box.bck-box-13 .bck-content {
+    border: 0;
+    padding: 60px 1px 10px 100px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-13 .bck-title {
+    color: #c64329;
+}
+
+/*CAJA14 CajaUnite*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-14:before {
+    background-image: url(Images/imagen-before-unite2.png);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-14 .bck-content {
+    color: #ea5b0c;
+}
+*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-14 .bck-title {
+    color: #c64329;
+}
+
+/*Lista 2 -ListaLetraMinus- */
+.activitytag_rojo_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.activitytag_rojo_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.activitytag_rojo_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.activitytag_rojo_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+    color: #c64329;
+}
+
+/*Lista 8 -ListaNumero-*/
+.activitytag_rojo_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.activitytag_rojo_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.activitytag_rojo_parachute #actividad .popover-content .bck-ol-8 li:before,
+.activitytag_rojo_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+    color: #c64329;
+}
+
+/*CAJA5 CajaATOI*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-5 {
+    border: 5px solid #c64329;
+}
+
+.activitytag_rojo_parachute .bck-box.bck-box-5 .bck-title {
+    -webkit-text-stroke: 2px #c64329;
+}
+
+/*Titulo ColorUnidad*/
+.activitytag_rojo_parachute .bck-title-2 {
+    color: #c64329;
+}
+
+/*CAJA10 CajaTaches*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-10 {
+    border: 3px solid #c64329;
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-10 .bck-title {
+    color: #ec6608;
+}
+*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-10 .bck-title:before {
+    background-image: url(Images/taches-finales-rojo-before2.png);
+}
+
+/*CAJA11 CajaBordesColor*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-11 {
+    border: 3px solid #c64329;
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-11 .bck-title {
+    color: #ec6608;
+}
+*/
+
+/*CAJA6 CajaFondo*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-6 {
+    background: #D0DAEF;
+}
+
+
+/*CAJA15 CajaBilanOral*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-15:before {
+    background-image: url(Images/bilan-oral-before-parachute-rojo.png);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-15 .bck-content {
+    border: 0;
+    padding: 40px 1px 10px 240px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+*/
+
+/*CAJA16 CajaBilanEcrit*/
+
+.activitytag_rojo_parachute .bck-box.bck-box-16:before {
+    background-image: url(Images/bilan-ecrit-cahier-parachute-rojo.png);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-16 .bck-content {
+    border: 0;
+    padding: 40px 1px 10px 240px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+*/
+
+
+
 
 
 @media screen and (max-width: 500px) {
