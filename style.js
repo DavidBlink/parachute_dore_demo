@@ -30,6 +30,7 @@
 				{ name: 'ColorNaranja', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'NaranjaBorde', element: 'span', attributes: { 'class': 'bck-enfasis-17'} },
 				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
+				{ name: 'ColorFucsia', element: 'span', attributes: { 'class': 'bck-enfasis-20'} },
 				{ name: 'ColorAzul', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
 				{ name: 'ColorAzulCeleste', element: 'span', attributes: { 'class': 'bck-enfasis-16'} },
 				{ name: 'ColorAzulClaro', element: 'span', attributes: { 'class': 'bck-enfasis-13'} },
