@@ -15,7 +15,7 @@
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
 				{ name: 'Título BlancoInicio', element: 'h2', attributes: { 'class': 'bck-title-1'} },
-				{ name: 'Título AzulClaro', element: 'h3', attributes: { 'class': 'bck-title-2'} },
+				{ name: 'Título ColorUnidad', element: 'h3', attributes: { 'class': 'bck-title-2'} },
 				{ name: 'Título BlogClaire', element: 'h3', attributes: { 'class': 'bck-title-7'} },
 				{ name: 'Título VersleDelf', element: 'h3', attributes: { 'class': 'bck-title-8'} },
 				{ name: 'AmarilloFondoNegro', element: 'h3', attributes: { 'class': 'bck-title-3'} },
