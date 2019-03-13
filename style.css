@@ -897,7 +897,7 @@ body:not(.edit) .slider-indicators {
      font-size: 3.2rem;
 }
 
-/*Título AzulClaro*/
+/*Título ColorUnidad*/
 .bck-title-2 {
     color: #8da6d6;
      font-family: GrilledCheeseBTN;
@@ -1385,7 +1385,7 @@ body:not(.edit) .slider-indicators {
     font-weight: bold;
 }
 
-/*Lista NumeroAzul*/
+/*Lista Numero*/
 #actividad .content .cke_contents .bck-ol-8,
 #actividad .content .texto_curso .bck-ol-8,
 #actividad .content .workspace ul li .bck-ol-8 {
@@ -1546,7 +1546,7 @@ body:not(.edit) .slider-indicators {
     margin-top: -1px;
 }
 
-/*LISTA LetraMinusAzul*/
+/*LISTA LetraMinus*/
 #actividad .content .cke_contents .bck-ol-2,
 #actividad .content .texto_curso .bck-ol-2,
 #actividad .content .workspace ul li .bck-ol-2 {
@@ -2035,7 +2035,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     -webkit-text-stroke: 2px #8da6d6;
 }
 
-/*CAJA6 CajaFondoAzul*/
+/*CAJA6 CajaFondo*/
 
 .bck-box.bck-box-6 {
     background: #D0DAEF;
@@ -2120,7 +2120,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     padding: 5px;
 }
 
-/*CAJA10 CajaTachesAzul*/
+/*CAJA10 CajaTaches*/
 
 .bck-box.bck-box-10 {
     background: #E8EEF9;
@@ -2161,7 +2161,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     margin-top: -42px;
 }
 
-/*CAJA11 CajaBordesAzul*/
+/*CAJA11 CajaBordeColor*/
 
 .bck-box.bck-box-11 {
     background: #E8EEF9;
