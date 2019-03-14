@@ -46,7 +46,7 @@
 				{ name: 'WendyFont', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 
 				{ name: 'Lista Triangulo', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
-				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
+				{ name: 'Lista DesordPrincipal', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista DesGris', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Tick', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				
