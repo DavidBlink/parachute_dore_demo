@@ -58,6 +58,8 @@
 				{ name: 'Lista Numero', element: 'ol', attributes: { 'class': 'bck-ol-8' } },
 				{ name: 'Lista LetraMinus', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
+				{ name: 'Lista LetraMinusAzulClaro', element: 'ol', attributes: { 'class': 'bck-ol-10' } },
+				{ name: 'Lista LetraMinusRosa', element: 'ol', attributes: { 'class': 'bck-ol-11' } },
 				{ name: 'Lista RectaAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 								
 
