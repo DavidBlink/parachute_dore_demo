@@ -28,7 +28,7 @@
 				{ name: 'NúmeroTitulo', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'PointsMorados', element: 'span', attributes: { 'class': 'bck-enfasis-14'} },
 				{ name: 'ColorNaranja', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
-				{ name: 'NaranjaBorde', element: 'span', attributes: { 'class': 'bck-enfasis-17'} },
+				{ name: 'ColorBorde', element: 'span', attributes: { 'class': 'bck-enfasis-17'} },
 				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				{ name: 'ColorFucsia', element: 'span', attributes: { 'class': 'bck-enfasis-20'} },
 				{ name: 'ColorAzul', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
