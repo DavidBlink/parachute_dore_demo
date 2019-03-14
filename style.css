@@ -1143,7 +1143,7 @@ body:not(.edit) .slider-indicators {
 
 /*lista desordenada */
 
-/*lista trianguloNaranja*/
+/*lista triangulo*/
 
 #actividad .content .texto_curso .bck-ul-1 li,
 #actividad .content .workspace ul li .bck-ul-1 li ,
@@ -1168,7 +1168,7 @@ body:not(.edit) .slider-indicators {
     margin-top: 2px;
 }
 
-/*Lista DesNaranja*/
+/*Lista DesordPrincipal*/
 
 #actividad .content .texto_curso .bck-ul-2 li,
 #actividad .content .workspace ul li .bck-ul-2 li ,
@@ -1210,7 +1210,7 @@ body:not(.edit) .slider-indicators {
     margin-left: -15px;
 }
 
-/*lista tickNaranja*/
+/*lista tick*/
 
 #actividad .content .texto_curso .bck-ul-3 li,
 #actividad .content .workspace ul li .bck-ul-3 li ,
@@ -1272,7 +1272,7 @@ body:not(.edit) .slider-indicators {
 }
 
 
-/*LISTA OrdNARANJA*/
+/*LISTA OrdenadaPrincipal*/
 #actividad .content .cke_contents .bck-ol-1,
 #actividad .content .texto_curso .bck-ol-1,
 #actividad .content .workspace ul li .bck-ol-1 {
@@ -2155,7 +2155,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     margin-bottom: 40px;
 }
 
-/*CAJA8 CajaNaranja*/
+/*CAJA8 CajaJeJoue*/
 
 .bck-box.bck-box-8 {
     background: #F36F23;
