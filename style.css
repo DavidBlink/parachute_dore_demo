@@ -994,7 +994,13 @@ body:not(.edit) .slider-indicators {
     font-size: 2rem;
 }    
 
-/*NúmeroNaranjaTitulo*/
+/*Bauhaus*/
+.bck-enfasis-23 {
+    font-family: BauhausStd-Demi;
+    font-size: 2rem;
+}   
+
+/*NúmeroTitulo*/
 .bck-enfasis-3 {
     color: #ea5b0c;
     font-size: 9rem;
