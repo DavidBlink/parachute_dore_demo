@@ -4103,6 +4103,169 @@ table,
 */
 
 
+/*------------------VERDEGRIS---------------*/
+
+/*VerdeGris - #a0c49a */
+
+/*CAJA2 CajaLeson*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-2:before {
+    background-image: url(Images/before-leson-verdegris.png);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-2 .bck-content {
+    border: 0;
+    padding: 60px 1px 10px 100px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-2 .bck-title {
+    color: #a0c49a;
+}
+
+.activitytag_verdegris_parachute .bck-box.bck-box-2 .bck-title p {
+    border-bottom: 2px dotted #a0c49a;
+}
+
+/*CAJA13 CajaLesonCahier*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-13:before {
+    background-image: url(Images/before-leson-verdegris.png);
+}
+
+/*Color principal, cambia por libro
+.bck-box.bck-box-13 .bck-content {
+    border: 0;
+    padding: 60px 1px 10px 100px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-13 .bck-title {
+    color: #a0c49a;
+}
+
+/*CAJA14 CajaUnite*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-14:before {
+    background-image: url(Images/imagen-before-unite2.png);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-14 .bck-content {
+    color: #ea5b0c;
+}
+*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-14 .bck-title {
+    color: #a0c49a;
+}
+
+/*Lista 2 -ListaLetraMinus- */
+.activitytag_verdegris_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.activitytag_verdegris_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.activitytag_verdegris_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.activitytag_verdegris_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+    color: #a0c49a;
+}
+
+/*Lista 8 -ListaNumero-*/
+.activitytag_verdegris_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.activitytag_verdegris_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.activitytag_verdegris_parachute #actividad .popover-content .bck-ol-8 li:before,
+.activitytag_verdegris_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+    color: #a0c49a;
+}
+
+/*CAJA5 CajaATOI*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-5 {
+    border: 5px solid #a0c49a;
+}
+
+.activitytag_verdegris_parachute .bck-box.bck-box-5 .bck-title {
+    -webkit-text-stroke: 2px #a0c49a;
+}
+
+/*Titulo ColorUnidad*/
+.activitytag_verdegris_parachute .bck-title-2 {
+    color: #a0c49a;
+}
+
+/*CAJA10 CajaTaches*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-10 {
+    border: 3px solid #a0c49a;
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-10 .bck-title {
+    color: #ec6608;
+}
+*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-10 .bck-title:before {
+    background-image: url(Images/taches-finales-verdegris-before2.png);
+}
+
+/*CAJA11 CajaBordesColor*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-11 {
+    border: 3px solid #a0c49a;
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-11 .bck-title {
+    color: #ec6608;
+}
+*/
+
+/*CAJA6 CajaFondo*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-6 {
+    background: #D0DAEF;
+}
+
+
+/*CAJA15 CajaBilanOral*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-15:before {
+    background-image: url(Images/bilan-oral-before-parachute-verdegris.png);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-15 .bck-content {
+    border: 0;
+    padding: 40px 1px 10px 240px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+*/
+
+/*CAJA16 CajaBilanEcrit*/
+
+.activitytag_verdegris_parachute .bck-box.bck-box-16:before {
+    background-image: url(Images/bilan-ecrit-cahier-parachute-verdegris.png);
+}
+
+/*El titulo naranja de esta caja, cambia por libro, se considera color principal
+.bck-box.bck-box-16 .bck-content {
+    border: 0;
+    padding: 40px 1px 10px 240px;
+    font-size: 5rem;
+    font-family: GrilledCheeseBTN;
+    color: #ea5b0c;
+}
+*/
+
+
 
 
 
