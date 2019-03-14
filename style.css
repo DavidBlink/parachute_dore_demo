@@ -3174,8 +3174,7 @@ table,
 
 /*4 colores principales, uno por cada libro+cuaderno que irán aplicados en el css propio de cada libro. Color principal por defecto naranja
 
-10 colores secundarios, cambian por unidad, irán en las tags y el CSS aplicado en github*/
-
+8 colores secundarios, cambian por unidad, irán en las tags y el CSS aplicado en github*/
 
 /*colores secundarios:
 
@@ -3185,11 +3184,9 @@ table,
     4.- Morado = activitytag_morado_parachute || unittag_morado_parachute = #9582b0
     5.- VerdeAgua = activitytag_verdeagua_parachute || unittag_verdeagua_parachute = #8cbeb4
     6.- Rojo = activitytag_rojo_parachute || unittag_rojo_parachute = #c64329
-    7.- Rosa = activitytag_rosa_parachute =
-    8.- Naranja = activitytag_naranja_parachute = 
-    9.- VerdeGris = activitytag_verdegris_parachute =
-    10.- AzulClaro = activitytag_azulclaro_parachute || unittag_azulclaro_parachute = 
-
+    7.- Naranja = activitytag_naranja_parachute || unittag_naranja_parachute = #dc9122
+    8.- VerdeGris = activitytag_verdegris_parachute || unittag_verdegris_parachute = #a0c49a
+    
     */
 
 /*Elementos gráficos que cambian de color respecto a las unidades*/
@@ -3241,7 +3238,6 @@ table,
 .activitytag_fucsia_parachute .bck-box.bck-box-13 .bck-title {
     color: #be628f;
 }
-
 
 
 /*CAJA14 CajaUnite*/
@@ -3325,7 +3321,6 @@ table,
     background: #D0DAEF;
 }
 
-
 /*CAJA15 CajaBilanOral*/
 
 .activitytag_fucsia_parachute .bck-box.bck-box-15:before {
@@ -3357,7 +3352,6 @@ table,
     color: #ea5b0c;
 }
 */
-
 
 
 /*------------------VERDE---------------*/
@@ -3652,7 +3646,6 @@ table,
     background: #D0DAEF;
 }
 
-
 /*CAJA15 CajaBilanOral*/
 
 .activitytag_morado_parachute .bck-box.bck-box-15:before {
@@ -3815,7 +3808,6 @@ table,
     background: #D0DAEF;
 }
 
-
 /*CAJA15 CajaBilanOral*/
 
 .activitytag_verdeagua_parachute .bck-box.bck-box-15:before {
@@ -3847,7 +3839,6 @@ table,
     color: #ea5b0c;
 }
 */
-
 
 
 /*------------------ROJO---------------*/
@@ -4337,8 +4328,6 @@ table,
     color: #ea5b0c;
 }
 */
-
-
 
 
 
