@@ -25,7 +25,7 @@
 				
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
-				{ name: 'NúmeroNaranjaTitulo', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
+				{ name: 'NúmeroTitulo', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'PointsMorados', element: 'span', attributes: { 'class': 'bck-enfasis-14'} },
 				{ name: 'ColorNaranja', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'NaranjaBorde', element: 'span', attributes: { 'class': 'bck-enfasis-17'} },
