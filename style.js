@@ -36,6 +36,8 @@
 				{ name: 'ColorAzulClaro', element: 'span', attributes: { 'class': 'bck-enfasis-13'} },
 				{ name: 'ColorMorado', element: 'span', attributes: { 'class': 'bck-enfasis-15'} },
 				{ name: 'ColorVerde', element: 'span', attributes: { 'class': 'bck-enfasis-18'} },
+				{ name: 'ColorVerdeAgua', element: 'span', attributes: { 'class': 'bck-enfasis-21'} },
+				{ name: 'ColorVerdeGris', element: 'span', attributes: { 'class': 'bck-enfasis-22'} },
 				{ name: 'ColorRosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Azul-Bauhaus', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'CochinFont', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
