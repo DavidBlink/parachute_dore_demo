@@ -1027,9 +1027,19 @@ body:not(.edit) .slider-indicators {
     font-weight: 400;
 }
 
-/*Enfasis 18 ColorOliva*/
+/*Enfasis 18 ColorVerde*/
  .bck-enfasis-18 {
     color: #9CB225;
+ }
+
+ /*Enfasis 21 ColorVerdeAgua*/
+ .bck-enfasis-21 {
+    color: #8cbeb4;
+ }
+
+ /*Enfasis 22 ColorVerdeGris*/
+ .bck-enfasis-22 {
+    color: #a0c49a;
  }
 
   /*Enfasis 5 ColorRojo*/
