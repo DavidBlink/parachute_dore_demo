@@ -22,6 +22,8 @@
 				{ name: 'JevalueNaranja', element: 'h3', attributes: { 'class': 'bck-title-4'} },
 				{ name: 'MoradoSubrayado', element: 'h3', attributes: { 'class': 'bck-title-5'} },
 				{ name: 'NaranjaBauhaus', element: 'h3', attributes: { 'class': 'bck-title-6'} },
+				{ name: 'Titulo123', element: 'h3', attributes: { 'class': 'bck-title-9'} },
+				
 				
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
@@ -52,6 +54,7 @@
 				{ name: 'Lista DesordPrincipal', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista DesGris', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Tick', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
+				{ name: 'Lista 123', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				
 				{ name: 'Lista OrdenadaPrincipal', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista Negrita', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
@@ -64,6 +67,7 @@
 				{ name: 'Lista LetraMinusAzulClaro', element: 'ol', attributes: { 'class': 'bck-ol-10' } },
 				{ name: 'Lista LetraMinusRosa', element: 'ol', attributes: { 'class': 'bck-ol-11' } },
 				{ name: 'Lista RectaAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
+				{ name: 'Lista 123', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 								
 
 				{ name: 'CajaInicio', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
