@@ -1994,17 +1994,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 }
 
 
-/*CAJA99 - Prueba CajaBilanOral*/
+/*Caja18 CajaIMGBillanOral*/
 
-.bck-box.bck-box-99 {
-    margin-right: -10px;
-    margin-top: -37px;
+.bck-box.bck-box-18 {
+    margin-top: -100px;
 }
 
 
-.bck-box.bck-box-99 .bck-content {
+.bck-box.bck-box-18 .bck-content {
     border: 0;
     color: #ea5b0c;
+    padding-right: 0px;
+    right: -100px;
 }
 
 
@@ -2043,6 +2044,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-16 .bck-title {
     
+}
+
+
+/*Caja19 CajaIMGBilanEcrit*/
+
+.bck-box.bck-box-19 {
+    margin-top: -100px;
+}
+
+
+.bck-box.bck-box-19 .bck-content {
+    border: 0;
+    color: #ea5b0c;
+    padding-right: 0px;
+    right: -100px;
 }
 
 
