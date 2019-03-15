@@ -3010,8 +3010,8 @@ table,
 /*Dropdown 1*/
 
 .bck-dropdown.bck-dropdown-1 {
-    background-color: #bf0811;
-    border: 1px solid #DDDDDD;
+    background-color: #ea5b0c;
+    border: 1px solid #ea5b0c;
     margin-top: 10px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -3024,7 +3024,7 @@ table,
 }
 
 .bck-dropdown-1 .bck-dropdown-icon {
-    background-color: #bf0811;
+    background-color: #ea5b0c;
     width: 25px;
     height: 10px;
 }
@@ -3040,6 +3040,7 @@ table,
 .bck-dropdown-1 .bck-dropdown-titulo {
     font-size: 1.8rem;
     padding-left: 0px;
+    font-family: GrilledCheeseBTN;
 }
 
 .bck-dropdown-1 .bck-dropdown-content {
@@ -4881,7 +4882,7 @@ vertical-align: sub;
 
 .bck-box.bck-box-2 .bck-content {
     border: 0;
-	padding: 54px 1px 10px 98px;
+    padding: 54px 1px 10px 98px;
     font-size: 5rem;
     font-family: GrilledCheeseBTN;
     color: #ea5b0c;
@@ -4894,7 +4895,7 @@ vertical-align: sub;
 }
 
 .bck-title-8 {
-	width: 123.5%;
+    width: 123.5%;
     height: auto;
     background: rgb(231,181,0);
     background: -moz-linear-gradient(left, rgba(231,181,0,1) 0%, rgba(220,152,0,1) 100%);
