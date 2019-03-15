@@ -3061,7 +3061,7 @@ table,
 
 .bck-dropdown-2 .bck-dropdown-button {
     margin-top: 20px;
-    background: #E76048;
+    background: #ea5b0c;
     color: #fff;
     text-align: center;
     border: 1px solid #dcdada;
@@ -3076,6 +3076,7 @@ table,
 .bck-dropdown-2 .bck-dropdown-icon {
     display: block;
     width: auto;
+    display: none;
 }
 
 .bck-dropdown-2 .bck-dropdown-icon > .fa {
