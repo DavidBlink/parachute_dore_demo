@@ -78,7 +78,7 @@
 				{ name: 'CajaBordeColor', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-11' } },
 				{ name: 'CajaAmarilla', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
 				{ name: 'CajaATOI', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
-				{ name: 'CajaFondo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
+				{ name: 'CajaFondoColor', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
 				{ name: 'CajaBlog', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
 				{ name: 'CajaJeJoue', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
 				{ name: 'CajaBlanca', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-9' } },
