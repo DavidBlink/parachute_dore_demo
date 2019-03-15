@@ -49,7 +49,7 @@
 				{ name: 'LobsterFont', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 				{ name: 'YanoneFont', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 				{ name: 'WendyFont', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
-				{ name: 'Enfasis123', element: 'span', attributes: { 'class': 'bck-enfasis-23'} },
+				{ name: 'Enfasis123', element: 'span', attributes: { 'class': 'bck-enfasis-25'} },
 
 				{ name: 'Lista Triangulo', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesordPrincipal', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
