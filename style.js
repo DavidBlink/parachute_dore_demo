@@ -49,12 +49,13 @@
 				{ name: 'LobsterFont', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 				{ name: 'YanoneFont', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 				{ name: 'WendyFont', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
+				{ name: 'Enfasis123', element: 'span', attributes: { 'class': 'bck-enfasis-23'} },
 
 				{ name: 'Lista Triangulo', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesordPrincipal', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista DesGris', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Tick', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
-				{ name: 'Lista 123', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
+				{ name: 'Lista 123', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
 				
 				{ name: 'Lista OrdenadaPrincipal', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista Negrita', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
@@ -67,7 +68,7 @@
 				{ name: 'Lista LetraMinusAzulClaro', element: 'ol', attributes: { 'class': 'bck-ol-10' } },
 				{ name: 'Lista LetraMinusRosa', element: 'ol', attributes: { 'class': 'bck-ol-11' } },
 				{ name: 'Lista RectaAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
-				{ name: 'Lista 123', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
+				{ name: 'Lista 123', element: 'ol', attributes: { 'class': 'bck-ol-12' } },
 								
 
 				{ name: 'CajaInicio', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
