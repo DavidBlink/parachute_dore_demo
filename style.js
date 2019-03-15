@@ -72,6 +72,7 @@
 				{ name: 'CajaUniteCahier', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-17' } },
 				{ name: 'CajaLesonCahier', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-13' } },
 				{ name: 'CajaBilanOral', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-15' } },
+				{ name: 'CajaBilanOralPRUEBA', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-99' } },
 				{ name: 'CajaBilanEcrit', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-16' } },
 				{ name: 'CajaEsquinaVerde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'CajaTaches', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-10' } },
