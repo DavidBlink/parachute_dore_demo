@@ -3292,11 +3292,11 @@ table,
 
 
 /*CAJA14 CajaUnite*/
-
+/*
 .activitytag_fucsia_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
-
+*/
 /*El titulo naranja de esta caja, cambia por libro, se considera color principal
 .bck-box.bck-box-14 .bck-content {
     color: #ea5b0c;
@@ -3454,11 +3454,11 @@ table,
 }
 
 /*CAJA14 CajaUnite*/
-
+/*
 .activitytag_verde_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
-
+*/
 /*El titulo naranja de esta caja, cambia por libro, se considera color principal
 .bck-box.bck-box-14 .bck-content {
     color: #ea5b0c;
@@ -3617,11 +3617,11 @@ table,
 }
 
 /*CAJA14 CajaUnite*/
-
+/*
 .activitytag_morado_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
-
+*/
 /*El titulo naranja de esta caja, cambia por libro, se considera color principal
 .bck-box.bck-box-14 .bck-content {
     color: #ea5b0c;
@@ -3779,11 +3779,11 @@ table,
 }
 
 /*CAJA14 CajaUnite*/
-
+/*
 .activitytag_verdeagua_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
-
+*/
 /*El titulo naranja de esta caja, cambia por libro, se considera color principal
 .bck-box.bck-box-14 .bck-content {
     color: #ea5b0c;
@@ -3941,11 +3941,11 @@ table,
 }
 
 /*CAJA14 CajaUnite*/
-
+/*
 .activitytag_rojo_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
-
+*/
 /*El titulo naranja de esta caja, cambia por libro, se considera color principal
 .bck-box.bck-box-14 .bck-content {
     color: #ea5b0c;
@@ -4104,11 +4104,11 @@ table,
 }
 
 /*CAJA14 CajaUnite*/
-
+/*
 .activitytag_naranja_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
-
+*/
 /*El titulo naranja de esta caja, cambia por libro, se considera color principal
 .bck-box.bck-box-14 .bck-content {
     color: #ea5b0c;
@@ -4267,11 +4267,11 @@ table,
 }
 
 /*CAJA14 CajaUnite*/
-
+/*
 .activitytag_verdegris_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
-
+*/
 /*El titulo naranja de esta caja, cambia por libro, se considera color principal
 .bck-box.bck-box-14 .bck-content {
     color: #ea5b0c;
@@ -4380,6 +4380,282 @@ table,
 }
 */
 
+
+
+/*---------------------------------------------secciones--------------------------------------*/
+/*Imagenes Parachute insertadas por secciones*/
+
+/*2 cajas - Caja Unite (Livre) y Caja Unite Cahier*/
+
+/*Caja Unite
+.bck-box.bck-box-14:before {
+    background-image: url(Images/imagen-before-unite2.png);
+}
+*/
+
+/*Caja Cahier
+.bck-box.bck-box-17:before {
+    background-image: url(Images/before-leson.png);
+}
+*/
+
+
+/*Nivel 1*/
+    /*Livre*/
+        /*0*/
+        .livre1unite0 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-1-0.png);
+        }
+        /*1*/
+        .livre1unite1 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-1-1.png);
+        }
+        /*2*/
+        .livre1unite2 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-1-2.png);
+        }
+        /*3*/
+        .livre1unite3 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-1-3.png);
+        }
+        /*4*/
+        .livre1unite4 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-1-4.png);
+        }
+        /*5*/
+        .livre1unite5 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-1-5.png);
+        }
+        /*6*/
+        .livre1unite6 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-1-6.png);
+        }
+
+    /*Cahier*/
+        /*Project*/
+        .cahier1unitep .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-1-p.png);
+        }
+        /*0*/
+        .cahier1unite0 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-1-0.png);
+        }
+        /*1*/
+        .cahier1unite1 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-1-1.png);
+        }
+        /*2*/
+        .cahier1unite2 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-1-2.png);
+        }
+        /*3*/
+        .cahier1unite3 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-1-3.png);
+        }
+        /*4*/
+        .cahier1unite4 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-1-4.png);
+        }
+        /*5*/
+        .cahier1unite5 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-1-5.png);
+        }
+        /*6*/
+        .cahier1unite6 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-1-6.png);
+        }
+
+/*Nivel 2*/
+    /*Livre*/
+        .livre2unite0 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-2-0.png);
+        }
+        /*1*/
+        .livre2unite1 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-2-1.png);
+        }
+        /*2*/
+        .livre2unite2 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-2-2.png);
+        }
+        /*3*/
+        .livre2unite3 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-2-3.png);
+        }
+        /*4*/
+        .livre2unite4 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-2-4.png);
+        }
+        /*5*/
+        .livre2unite5 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-2-5.png);
+        }
+        /*6*/
+        .livre2unite6 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-2-6.png);
+        }
+
+    /*Cahier*/
+        /*Project*/
+        .cahier2unitep .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-2-p.png);
+        }
+        /*0*/
+        .cahier2unite0 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-2-0.png);
+        }
+        /*1*/
+        .cahier2unite1 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-2-1.png);
+        }
+        /*2*/
+        .cahier2unite2 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-2-2.png);
+        }
+        /*3*/
+        .cahier2unite3 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-2-3.png);
+        }
+        /*4*/
+        .cahier2unite4 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-2-4.png);
+        }
+        /*5*/
+        .cahier2unite5 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-2-5.png);
+        }
+        /*6*/
+        .cahier2unite6 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-2-6.png);
+        }
+
+/*Nivel 3*/
+    /*Livre*/
+        .livre3unite0 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-3-0.png);
+        }
+        /*1*/
+        .livre3unite1 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-3-1.png);
+        }
+        /*2*/
+        .livre3unite2 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-3-2.png);
+        }
+        /*3*/
+        .livre3unite3 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-3-3.png);
+        }
+        /*4*/
+        .livre3unite4 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-3-4.png);
+        }
+        /*5*/
+        .livre3unite5 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-3-5.png);
+        }
+        /*6*/
+        .livre3unite6 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-3-6.png);
+        }
+
+    /*Cahier*/
+        /*Project*/
+        .cahier3unitep .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-3-p.png);
+        }
+        /*0*/
+        .cahier3unite0 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-3-0.png);
+        }
+        /*1*/
+        .cahier3unite1 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-3-1.png);
+        }
+        /*2*/
+        .cahier3unite2 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-3-2.png);
+        }
+        /*3*/
+        .cahier3unite3 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-3-3.png);
+        }
+        /*4*/
+        .cahier3unite4 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-3-4.png);
+        }
+        /*5*/
+        .cahier3unite5 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-3-5.png);
+        }
+        /*6*/
+        .cahier3unite6 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-3-6.png);
+        }
+
+/*Nivel 4*/
+    /*Livre*/
+        .livre4unite0 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-4-0.png);
+        }
+        /*1*/
+        .livre4unite1 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-4-1.png);
+        }
+        /*2*/
+        .livre4unite2 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-4-2.png);
+        }
+        /*3*/
+        .livre4unite3 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-4-3.png);
+        }
+        /*4*/
+        .livre4unite4 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-4-4.png);
+        }
+        /*5*/
+        .livre4unite5 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-4-5.png);
+        }
+        /*6*/
+        .livre4unite6 .bck-box.bck-box-14:before {
+        background-image: url(Images/imagen-before-unite-4-6.png);
+        }
+
+    /*Cahier*/
+        /*Project*/
+        .cahier4unitep .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-4-p.png);
+        }
+        /*0*/
+        .cahier4unite0 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-4-0.png);
+        }
+        /*1*/
+        .cahier4unite1 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-4-1.png);
+        }
+        /*2*/
+        .cahier4unite2 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-4-2.png);
+        }
+        /*3*/
+        .cahier4unite3 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-4-3.png);
+        }
+        /*4*/
+        .cahier4unite4 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-4-4.png);
+        }
+        /*5*/
+        .cahier4unite5 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-4-5.png);
+        }
+        /*6*/
+        .cahier4unite6 .bck-box.bck-box-17:before {
+        background-image: url(Images/before-leson-cahier-4-6.png);
+        }
 
 
 @media screen and (max-width: 500px) {
