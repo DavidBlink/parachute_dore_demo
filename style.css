@@ -1997,14 +1997,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 /*Caja18 CajaIMGBillan*/
 
 .bck-box.bck-box-18 {
-    margin-top: -60px;
+    margin-top: -50px;
 }
 
 
 .bck-box.bck-box-18 .bck-content {
     border: 0;
     color: #ea5b0c;
-    padding-right: 0px;
+    padding: 0px;
     right: -105px;
 }
 
@@ -5178,7 +5178,7 @@ vertical-align: sub;
 .bck-box.bck-box-18 .bck-content {
     border: 0;
     color: #FFFFFF;
-    padding-right: 0px;
+    padding: 0px;
     right: -20px;
 }
 }
