@@ -1994,10 +1994,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 }
 
 
-/*Caja18 CajaIMGBillanOral*/
+/*Caja18 CajaIMGBillan*/
 
 .bck-box.bck-box-18 {
-    margin-top: -100px;
+    margin-top: -60px;
 }
 
 
@@ -2005,7 +2005,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     border: 0;
     color: #ea5b0c;
     padding-right: 0px;
-    right: -100px;
+    right: -105px;
 }
 
 
@@ -5168,7 +5168,19 @@ margin: 0 5px;
 vertical-align: sub;
 }
 
+/*Caja18 CajaIMGBillan*/
 
+.bck-box.bck-box-18 {
+    margin-top: -60px;
+}
+
+
+.bck-box.bck-box-18 .bck-content {
+    border: 0;
+    color: #FFFFFF;
+    padding-right: 0px;
+    right: -20px;
+}
 }
 
 @media only screen and (max-width: 1024px) and (min-width: 769px)  {
