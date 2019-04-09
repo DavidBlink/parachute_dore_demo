@@ -1959,45 +1959,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     font-weight: 500;
 }
 
-/*CAJA15 CajaBilanOral*/
-
-.bck-box.bck-box-15 {
-    background: #fff0;
-    text-align: left;
-    margin-left: -97px;
-    margin-top: -37px;
-}
-
-.bck-box.bck-box-15:before {
-    background-image: url(Images/bilan-oral-before-parachute.jpg);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 100px;
-    position: absolute;
-    width: 40px;
-    height: auto;
-    top: -43px;
-    left: 0;
-}
-
-.bck-box.bck-box-15 .bck-content {
-    border: 0;
-    padding: 40px 1px 10px 240px;
-    font-size: 5rem;
-    font-family: GrilledCheeseBTN;
-    color: #ea5b0c;
-}
-
-.bck-box.bck-box-15 .bck-title {
-    
-}
-
 
 /*Caja18 CajaIMGBillan*/
 
 .bck-box.bck-box-18 {
-    margin-top: -50px;
+    margin-top: -41px;
 }
 
 
@@ -2005,61 +1971,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     border: 0;
     color: #ea5b0c;
     padding: 0px;
-    right: -105px;
+    right: -98px;
 }
 
-
-
-
-
-/*CAJA16 CajaBilanEcrit*/
-
-.bck-box.bck-box-16 {
-    background: #fff0;
-    text-align: left;
-    margin-left: -97px;
-    margin-top: -37px;
-}
-
-.bck-box.bck-box-16:before {
-    background-image: url(Images/bilan-ecrit-cahier-parachute.png);
-    content: '';
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding: 150px;
-    position: absolute;
-    width: 40px;
-    height: auto;
-    top: 0px;
-    left: 0;
-}
-
-.bck-box.bck-box-16 .bck-content {
-    border: 0;
-    padding: 40px 1px 10px 240px;
-    font-size: 5rem;
-    font-family: GrilledCheeseBTN;
-    color: #ea5b0c;
-}
-
-.bck-box.bck-box-16 .bck-title {
-    
-}
-
-
-/*Caja19 CajaIMGBilanEcrit*/
-
-.bck-box.bck-box-19 {
-    margin-top: -100px;
-}
-
-
-.bck-box.bck-box-19 .bck-content {
-    border: 0;
-    color: #ea5b0c;
-    padding-right: 0px;
-    right: -100px;
-}
 
 
 
@@ -5171,7 +5085,7 @@ vertical-align: sub;
 /*Caja18 CajaIMGBillan*/
 
 .bck-box.bck-box-18 {
-    margin-top: -60px;
+    margin-top: -80px;
 }
 
 
@@ -5349,6 +5263,20 @@ background-size: contain;
 border-radius: 100%;
 margin: 0 5px;
 vertical-align: sub;
+}
+
+/*Caja18 CajaIMGBillan*/
+
+.bck-box.bck-box-18 {
+    margin-top: -60px;
+}
+
+
+.bck-box.bck-box-18 .bck-content {
+    border: 0;
+    color: #ea5b0c;
+    padding: 0px;
+    right: -98px;
 }
 
 }
