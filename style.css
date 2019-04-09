@@ -1964,7 +1964,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-18 {
     margin-top: -41px;
-    background-color: #fff;
+    background-color: #fff0;
 }
 
 
@@ -1973,10 +1973,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     color: #fff;
     padding: 0px;
     right: -98px;
-    background-color: #fff;
+    background-color: #fff0;
 }
 
-
+.bck-box.bck-box-18 .bck-content .bck-i-fullscreen-wrapper {
+    padding: 0px;
+}
 
 
 /*CAJA3 CajaEsquinaVerde*/
@@ -5088,12 +5090,12 @@ vertical-align: sub;
 
 .bck-box.bck-box-18 {
     margin-top: -80px;
-    background-color: #fff;
+    background-color: #fff0;
 }
 
 
 .bck-box.bck-box-18 .bck-content {
-    background-color: #fff;
+    background-color: #fff0;
     border: 0;
     color: #FFFFFF;
     padding: 0px;
@@ -5273,7 +5275,7 @@ vertical-align: sub;
 
 .bck-box.bck-box-18 {
     margin-top: -60px;
-    background-color: #fff;
+    background-color: #fff0;
 }
 
 
@@ -5282,7 +5284,7 @@ vertical-align: sub;
     color: #fff;
     padding: 0px;
     right: -98px;
-    background-color: #fff;
+    background-color: #fff0;
 }
 
 }
