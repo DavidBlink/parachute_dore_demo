@@ -1964,14 +1964,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 .bck-box.bck-box-18 {
     margin-top: -41px;
+    background-color: #fff;
 }
 
 
 .bck-box.bck-box-18 .bck-content {
     border: 0;
-    color: #ea5b0c;
+    color: #fff;
     padding: 0px;
     right: -98px;
+    background-color: #fff;
 }
 
 
@@ -5086,10 +5088,12 @@ vertical-align: sub;
 
 .bck-box.bck-box-18 {
     margin-top: -80px;
+    background-color: #fff;
 }
 
 
 .bck-box.bck-box-18 .bck-content {
+    background-color: #fff;
     border: 0;
     color: #FFFFFF;
     padding: 0px;
@@ -5269,14 +5273,16 @@ vertical-align: sub;
 
 .bck-box.bck-box-18 {
     margin-top: -60px;
+    background-color: #fff;
 }
 
 
 .bck-box.bck-box-18 .bck-content {
     border: 0;
-    color: #ea5b0c;
+    color: #fff;
     padding: 0px;
     right: -98px;
+    background-color: #fff;
 }
 
 }
