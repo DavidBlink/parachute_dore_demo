@@ -3148,13 +3148,13 @@ table,
 /*colores secundarios:
 
     1.- Azul -color por defecto de los elementos del estilo- unittag_azul_parachute = #80A0D3
-    2.- Fucsia = activitytag_fucsia_parachute || unittag_fucsia_parachute = #be628f
-    3.- Verde = activitytag_verde_parachute || unittag_verde_parachute = #c0cd29
-    4.- Morado = activitytag_morado_parachute || unittag_morado_parachute = #9582b0
-    5.- VerdeAgua = activitytag_verdeagua_parachute || unittag_verdeagua_parachute = #8cbeb4
-    6.- Rojo = activitytag_rojo_parachute || unittag_rojo_parachute = #c64329
-    7.- Naranja = activitytag_naranja_parachute || unittag_naranja_parachute = #dc9122
-    8.- VerdeGris = activitytag_verdegris_parachute || unittag_verdegris_parachute = #a0c49a
+    2.- Fucsia = unittag_fucsia_parachute || unittag_fucsia_parachute = #be628f
+    3.- Verde = unittag_verde_parachute || unittag_verde_parachute = #c0cd29
+    4.- Morado = unittag_morado_parachute || unittag_morado_parachute = #9582b0
+    5.- VerdeAgua = unittag_verdeagua_parachute || unittag_verdeagua_parachute = #8cbeb4
+    6.- Rojo = unittag_rojo_parachute || unittag_rojo_parachute = #c64329
+    7.- Naranja = unittag_naranja_parachute || unittag_naranja_parachute = #dc9122
+    8.- VerdeGris = unittag_verdegris_parachute || unittag_verdegris_parachute = #a0c49a
     
     */
 
@@ -3166,7 +3166,7 @@ table,
 
 /*CAJA2 CajaLeson*/
 
-.activitytag_fucsia_parachute .bck-box.bck-box-2:before {
+.unittag_fucsia_parachute .bck-box.bck-box-2:before {
     background-image: url(Images/before-leson-fucsia.png);
 }
 
@@ -3180,17 +3180,17 @@ table,
 }
 */
 
-.activitytag_fucsia_parachute .bck-box.bck-box-2 .bck-title {
+.unittag_fucsia_parachute .bck-box.bck-box-2 .bck-title {
     color: #be628f;
 }
 
-.activitytag_fucsia_parachute .bck-box.bck-box-2 .bck-title p {
+.unittag_fucsia_parachute .bck-box.bck-box-2 .bck-title p {
     border-bottom: 2px dotted #be628f;
 }
 
 /*CAJA13 CajaLesonCahier*/
 
-.activitytag_fucsia_parachute .bck-box.bck-box-13:before {
+.unittag_fucsia_parachute .bck-box.bck-box-13:before {
     background-image: url(Images/before-leson-fucsia.png);
 }
 
@@ -3204,14 +3204,14 @@ table,
 }
 */
 
-.activitytag_fucsia_parachute .bck-box.bck-box-13 .bck-title {
+.unittag_fucsia_parachute .bck-box.bck-box-13 .bck-title {
     color: #be628f;
 }
 
 
 /*CAJA14 CajaUnite*/
 /*
-.activitytag_fucsia_parachute .bck-box.bck-box-14:before {
+.unittag_fucsia_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
 */
@@ -3221,44 +3221,44 @@ table,
 }
 */
 
-.activitytag_fucsia_parachute .bck-box.bck-box-14 .bck-title {
+.unittag_fucsia_parachute .bck-box.bck-box-14 .bck-title {
     color: #be628f;
 }
 
 /*Lista 2 -ListaLetraMinus- */
-.activitytag_fucsia_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_fucsia_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
-.activitytag_fucsia_parachute #actividad .popover-content ol.bck-ol-2 li:before,
-.activitytag_fucsia_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+.unittag_fucsia_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_fucsia_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.unittag_fucsia_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.unittag_fucsia_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
     color: #be628f;
 }
 
 /*Lista 8 -ListaNumero-*/
-.activitytag_fucsia_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
-.activitytag_fucsia_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
-.activitytag_fucsia_parachute #actividad .popover-content .bck-ol-8 li:before,
-.activitytag_fucsia_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_fucsia_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.unittag_fucsia_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.unittag_fucsia_parachute #actividad .popover-content .bck-ol-8 li:before,
+.unittag_fucsia_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
     color: #be628f;
 }
 
 /*CAJA5 CajaATOI*/
 
-.activitytag_fucsia_parachute .bck-box.bck-box-5 {
+.unittag_fucsia_parachute .bck-box.bck-box-5 {
     border: 5px solid #be628f;
 }
 
-.activitytag_fucsia_parachute .bck-box.bck-box-5 .bck-title {
+.unittag_fucsia_parachute .bck-box.bck-box-5 .bck-title {
     -webkit-text-stroke: 2px #be628f;
 }
 
 /*Titulo ColorUnidad*/
-.activitytag_fucsia_parachute .bck-title-2 {
+.unittag_fucsia_parachute .bck-title-2 {
     color: #be628f;
 }
 
 /*CAJA10 CajaTaches*/
 
-.activitytag_fucsia_parachute .bck-box.bck-box-10 {
+.unittag_fucsia_parachute .bck-box.bck-box-10 {
     border: 3px solid #be628f;
 }
 
@@ -3268,13 +3268,13 @@ table,
 }
 */
 
-.activitytag_fucsia_parachute .bck-box.bck-box-10 .bck-title:before {
+.unittag_fucsia_parachute .bck-box.bck-box-10 .bck-title:before {
     background-image: url(Images/taches-finales-fucsia-before2.png);
 }
 
 /*CAJA11 CajaBordesColor*/
 
-.activitytag_fucsia_parachute .bck-box.bck-box-11 {
+.unittag_fucsia_parachute .bck-box.bck-box-11 {
     border: 3px solid #be628f;
 }
 
@@ -3286,13 +3286,13 @@ table,
 
 /*CAJA6 CajaFondo*/
 
-.activitytag_fucsia_parachute .bck-box.bck-box-6 {
+.unittag_fucsia_parachute .bck-box.bck-box-6 {
     background: #D0DAEF;
 }
 
 /*CAJA15 CajaBilanOral*/
 
-.activitytag_fucsia_parachute .bck-box.bck-box-15:before {
+.unittag_fucsia_parachute .bck-box.bck-box-15:before {
     background-image: url(Images/bilan-oral-before-parachute-fucsia.png);
 }
 
@@ -3308,7 +3308,7 @@ table,
 
 /*CAJA16 CajaBilanEcrit*/
 
-.activitytag_fucsia_parachute .bck-box.bck-box-16:before {
+.unittag_fucsia_parachute .bck-box.bck-box-16:before {
     background-image: url(Images/bilan-ecrit-cahier-parachute-fucsia.png);
 }
 
@@ -3329,7 +3329,7 @@ table,
 
 /*CAJA2 CajaLeson*/
 
-.activitytag_verde_parachute .bck-box.bck-box-2:before {
+.unittag_verde_parachute .bck-box.bck-box-2:before {
     background-image: url(Images/before-leson-verde.png);
 }
 
@@ -3343,17 +3343,17 @@ table,
 }
 */
 
-.activitytag_verde_parachute .bck-box.bck-box-2 .bck-title {
+.unittag_verde_parachute .bck-box.bck-box-2 .bck-title {
     color: #c0cd29;
 }
 
-.activitytag_verde_parachute .bck-box.bck-box-2 .bck-title p {
+.unittag_verde_parachute .bck-box.bck-box-2 .bck-title p {
     border-bottom: 2px dotted #c0cd29;
 }
 
 /*CAJA13 CajaLesonCahier*/
 
-.activitytag_verde_parachute .bck-box.bck-box-13:before {
+.unittag_verde_parachute .bck-box.bck-box-13:before {
     background-image: url(Images/before-leson-verde.png);
 }
 
@@ -3367,13 +3367,13 @@ table,
 }
 */
 
-.activitytag_verde_parachute .bck-box.bck-box-13 .bck-title {
+.unittag_verde_parachute .bck-box.bck-box-13 .bck-title {
     color: #c0cd29;
 }
 
 /*CAJA14 CajaUnite*/
 /*
-.activitytag_verde_parachute .bck-box.bck-box-14:before {
+.unittag_verde_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
 */
@@ -3383,44 +3383,44 @@ table,
 }
 */
 
-.activitytag_verde_parachute .bck-box.bck-box-14 .bck-title {
+.unittag_verde_parachute .bck-box.bck-box-14 .bck-title {
     color: #c0cd29;
 }
 
 /*Lista 2 -ListaLetraMinus- */
-.activitytag_verde_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_verde_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
-.activitytag_verde_parachute #actividad .popover-content ol.bck-ol-2 li:before,
-.activitytag_verde_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+.unittag_verde_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_verde_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.unittag_verde_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.unittag_verde_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
     color: #c0cd29;
 }
 
 /*Lista 8 -ListaNumero-*/
-.activitytag_verde_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
-.activitytag_verde_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
-.activitytag_verde_parachute #actividad .popover-content .bck-ol-8 li:before,
-.activitytag_verde_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_verde_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.unittag_verde_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.unittag_verde_parachute #actividad .popover-content .bck-ol-8 li:before,
+.unittag_verde_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
     color: #c0cd29;
 }
 
 /*CAJA5 CajaATOI*/
 
-.activitytag_verde_parachute .bck-box.bck-box-5 {
+.unittag_verde_parachute .bck-box.bck-box-5 {
     border: 5px solid #c0cd29;
 }
 
-.activitytag_verde_parachute .bck-box.bck-box-5 .bck-title {
+.unittag_verde_parachute .bck-box.bck-box-5 .bck-title {
     -webkit-text-stroke: 2px #c0cd29;
 }
 
 /*Titulo ColorUnidad*/
-.activitytag_verde_parachute .bck-title-2 {
+.unittag_verde_parachute .bck-title-2 {
     color: #c0cd29;
 }
 
 /*CAJA10 CajaTaches*/
 
-.activitytag_verde_parachute .bck-box.bck-box-10 {
+.unittag_verde_parachute .bck-box.bck-box-10 {
     border: 3px solid #c0cd29;
 }
 
@@ -3430,13 +3430,13 @@ table,
 }
 */
 
-.activitytag_verde_parachute .bck-box.bck-box-10 .bck-title:before {
+.unittag_verde_parachute .bck-box.bck-box-10 .bck-title:before {
     background-image: url(Images/taches-finales-verde-before2.png);
 }
 
 /*CAJA11 CajaBordesColor*/
 
-.activitytag_verde_parachute .bck-box.bck-box-11 {
+.unittag_verde_parachute .bck-box.bck-box-11 {
     border: 3px solid #c0cd29;
 }
 
@@ -3448,14 +3448,14 @@ table,
 
 /*CAJA6 CajaFondo*/
 
-.activitytag_verde_parachute .bck-box.bck-box-6 {
+.unittag_verde_parachute .bck-box.bck-box-6 {
     background: #D0DAEF;
 }
 
 
 /*CAJA15 CajaBilanOral*/
 
-.activitytag_verde_parachute .bck-box.bck-box-15:before {
+.unittag_verde_parachute .bck-box.bck-box-15:before {
     background-image: url(Images/bilan-oral-before-parachute-verde.png);
 }
 
@@ -3471,7 +3471,7 @@ table,
 
 /*CAJA16 CajaBilanEcrit*/
 
-.activitytag_verde_parachute .bck-box.bck-box-16:before {
+.unittag_verde_parachute .bck-box.bck-box-16:before {
     background-image: url(Images/bilan-ecrit-cahier-parachute-verde.png);
 }
 
@@ -3492,7 +3492,7 @@ table,
 
 /*CAJA2 CajaLeson*/
 
-.activitytag_morado_parachute .bck-box.bck-box-2:before {
+.unittag_morado_parachute .bck-box.bck-box-2:before {
     background-image: url(Images/before-leson-morado.png);
 }
 
@@ -3506,17 +3506,17 @@ table,
 }
 */
 
-.activitytag_morado_parachute .bck-box.bck-box-2 .bck-title {
+.unittag_morado_parachute .bck-box.bck-box-2 .bck-title {
     color: #9582b0;
 }
 
-.activitytag_morado_parachute .bck-box.bck-box-2 .bck-title p {
+.unittag_morado_parachute .bck-box.bck-box-2 .bck-title p {
     border-bottom: 2px dotted #9582b0;
 }
 
 /*CAJA13 CajaLesonCahier*/
 
-.activitytag_morado_parachute .bck-box.bck-box-13:before {
+.unittag_morado_parachute .bck-box.bck-box-13:before {
     background-image: url(Images/before-leson-morado.png);
 }
 
@@ -3530,13 +3530,13 @@ table,
 }
 */
 
-.activitytag_morado_parachute .bck-box.bck-box-13 .bck-title {
+.unittag_morado_parachute .bck-box.bck-box-13 .bck-title {
     color: #9582b0;
 }
 
 /*CAJA14 CajaUnite*/
 /*
-.activitytag_morado_parachute .bck-box.bck-box-14:before {
+.unittag_morado_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
 */
@@ -3546,44 +3546,44 @@ table,
 }
 */
 
-.activitytag_morado_parachute .bck-box.bck-box-14 .bck-title {
+.unittag_morado_parachute .bck-box.bck-box-14 .bck-title {
     color: #9582b0;
 }
 
 /*Lista 2 -ListaLetraMinus- */
-.activitytag_morado_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_morado_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
-.activitytag_morado_parachute #actividad .popover-content ol.bck-ol-2 li:before,
-.activitytag_morado_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+.unittag_morado_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_morado_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.unittag_morado_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.unittag_morado_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
     color: #9582b0;
 }
 
 /*Lista 8 -ListaNumero-*/
-.activitytag_morado_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
-.activitytag_morado_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
-.activitytag_morado_parachute #actividad .popover-content .bck-ol-8 li:before,
-.activitytag_morado_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_morado_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.unittag_morado_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.unittag_morado_parachute #actividad .popover-content .bck-ol-8 li:before,
+.unittag_morado_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
     color: #9582b0;
 }
 
 /*CAJA5 CajaATOI*/
 
-.activitytag_morado_parachute .bck-box.bck-box-5 {
+.unittag_morado_parachute .bck-box.bck-box-5 {
     border: 5px solid #9582b0;
 }
 
-.activitytag_morado_parachute .bck-box.bck-box-5 .bck-title {
+.unittag_morado_parachute .bck-box.bck-box-5 .bck-title {
     -webkit-text-stroke: 2px #9582b0;
 }
 
 /*Titulo ColorUnidad*/
-.activitytag_morado_parachute .bck-title-2 {
+.unittag_morado_parachute .bck-title-2 {
     color: #9582b0;
 }
 
 /*CAJA10 CajaTaches*/
 
-.activitytag_morado_parachute .bck-box.bck-box-10 {
+.unittag_morado_parachute .bck-box.bck-box-10 {
     border: 3px solid #9582b0;
 }
 
@@ -3593,13 +3593,13 @@ table,
 }
 */
 
-.activitytag_morado_parachute .bck-box.bck-box-10 .bck-title:before {
+.unittag_morado_parachute .bck-box.bck-box-10 .bck-title:before {
     background-image: url(Images/taches-finales-morado-before2.png);
 }
 
 /*CAJA11 CajaBordesColor*/
 
-.activitytag_morado_parachute .bck-box.bck-box-11 {
+.unittag_morado_parachute .bck-box.bck-box-11 {
     border: 3px solid #9582b0;
 }
 
@@ -3611,13 +3611,13 @@ table,
 
 /*CAJA6 CajaFondo*/
 
-.activitytag_morado_parachute .bck-box.bck-box-6 {
+.unittag_morado_parachute .bck-box.bck-box-6 {
     background: #D0DAEF;
 }
 
 /*CAJA15 CajaBilanOral*/
 
-.activitytag_morado_parachute .bck-box.bck-box-15:before {
+.unittag_morado_parachute .bck-box.bck-box-15:before {
     background-image: url(Images/bilan-oral-before-parachute-morado.png);
 }
 
@@ -3633,7 +3633,7 @@ table,
 
 /*CAJA16 CajaBilanEcrit*/
 
-.activitytag_morado_parachute .bck-box.bck-box-16:before {
+.unittag_morado_parachute .bck-box.bck-box-16:before {
     background-image: url(Images/bilan-ecrit-cahier-parachute-morado.png);
 }
 
@@ -3654,7 +3654,7 @@ table,
 
 /*CAJA2 CajaLeson*/
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-2:before {
+.unittag_verdeagua_parachute .bck-box.bck-box-2:before {
     background-image: url(Images/before-leson-verdeagua.png);
 }
 
@@ -3668,17 +3668,17 @@ table,
 }
 */
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-2 .bck-title {
+.unittag_verdeagua_parachute .bck-box.bck-box-2 .bck-title {
     color: #8cbeb4;
 }
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-2 .bck-title p {
+.unittag_verdeagua_parachute .bck-box.bck-box-2 .bck-title p {
     border-bottom: 2px dotted #8cbeb4;
 }
 
 /*CAJA13 CajaLesonCahier*/
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-13:before {
+.unittag_verdeagua_parachute .bck-box.bck-box-13:before {
     background-image: url(Images/before-leson-verdeagua.png);
 }
 
@@ -3692,13 +3692,13 @@ table,
 }
 */
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-13 .bck-title {
+.unittag_verdeagua_parachute .bck-box.bck-box-13 .bck-title {
     color: #8cbeb4;
 }
 
 /*CAJA14 CajaUnite*/
 /*
-.activitytag_verdeagua_parachute .bck-box.bck-box-14:before {
+.unittag_verdeagua_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
 */
@@ -3708,44 +3708,44 @@ table,
 }
 */
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-14 .bck-title {
+.unittag_verdeagua_parachute .bck-box.bck-box-14 .bck-title {
     color: #8cbeb4;
 }
 
 /*Lista 2 -ListaLetraMinus- */
-.activitytag_verdeagua_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_verdeagua_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
-.activitytag_verdeagua_parachute #actividad .popover-content ol.bck-ol-2 li:before,
-.activitytag_verdeagua_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+.unittag_verdeagua_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_verdeagua_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.unittag_verdeagua_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.unittag_verdeagua_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
     color: #8cbeb4;
 }
 
 /*Lista 8 -ListaNumero-*/
-.activitytag_verdeagua_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
-.activitytag_verdeagua_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
-.activitytag_verdeagua_parachute #actividad .popover-content .bck-ol-8 li:before,
-.activitytag_verdeagua_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_verdeagua_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.unittag_verdeagua_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.unittag_verdeagua_parachute #actividad .popover-content .bck-ol-8 li:before,
+.unittag_verdeagua_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
     color: #8cbeb4;
 }
 
 /*CAJA5 CajaATOI*/
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-5 {
+.unittag_verdeagua_parachute .bck-box.bck-box-5 {
     border: 5px solid #8cbeb4;
 }
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-5 .bck-title {
+.unittag_verdeagua_parachute .bck-box.bck-box-5 .bck-title {
     -webkit-text-stroke: 2px #8cbeb4;
 }
 
 /*Titulo ColorUnidad*/
-.activitytag_verdeagua_parachute .bck-title-2 {
+.unittag_verdeagua_parachute .bck-title-2 {
     color: #8cbeb4;
 }
 
 /*CAJA10 CajaTaches*/
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-10 {
+.unittag_verdeagua_parachute .bck-box.bck-box-10 {
     border: 3px solid #8cbeb4;
 }
 
@@ -3755,13 +3755,13 @@ table,
 }
 */
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-10 .bck-title:before {
+.unittag_verdeagua_parachute .bck-box.bck-box-10 .bck-title:before {
     background-image: url(Images/taches-finales-verdeagua-before2.png);
 }
 
 /*CAJA11 CajaBordesColor*/
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-11 {
+.unittag_verdeagua_parachute .bck-box.bck-box-11 {
     border: 3px solid #8cbeb4;
 }
 
@@ -3773,13 +3773,13 @@ table,
 
 /*CAJA6 CajaFondo*/
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-6 {
+.unittag_verdeagua_parachute .bck-box.bck-box-6 {
     background: #D0DAEF;
 }
 
 /*CAJA15 CajaBilanOral*/
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-15:before {
+.unittag_verdeagua_parachute .bck-box.bck-box-15:before {
     background-image: url(Images/bilan-oral-before-parachute-verdeagua.png);
 }
 
@@ -3795,7 +3795,7 @@ table,
 
 /*CAJA16 CajaBilanEcrit*/
 
-.activitytag_verdeagua_parachute .bck-box.bck-box-16:before {
+.unittag_verdeagua_parachute .bck-box.bck-box-16:before {
     background-image: url(Images/bilan-ecrit-cahier-parachute-verdeagua.png);
 }
 
@@ -3816,7 +3816,7 @@ table,
 
 /*CAJA2 CajaLeson*/
 
-.activitytag_rojo_parachute .bck-box.bck-box-2:before {
+.unittag_rojo_parachute .bck-box.bck-box-2:before {
     background-image: url(Images/before-leson-rojo.png);
 }
 
@@ -3830,17 +3830,17 @@ table,
 }
 */
 
-.activitytag_rojo_parachute .bck-box.bck-box-2 .bck-title {
+.unittag_rojo_parachute .bck-box.bck-box-2 .bck-title {
     color: #c64329;
 }
 
-.activitytag_rojo_parachute .bck-box.bck-box-2 .bck-title p {
+.unittag_rojo_parachute .bck-box.bck-box-2 .bck-title p {
     border-bottom: 2px dotted #c64329;
 }
 
 /*CAJA13 CajaLesonCahier*/
 
-.activitytag_rojo_parachute .bck-box.bck-box-13:before {
+.unittag_rojo_parachute .bck-box.bck-box-13:before {
     background-image: url(Images/before-leson-rojo.png);
 }
 
@@ -3854,13 +3854,13 @@ table,
 }
 */
 
-.activitytag_rojo_parachute .bck-box.bck-box-13 .bck-title {
+.unittag_rojo_parachute .bck-box.bck-box-13 .bck-title {
     color: #c64329;
 }
 
 /*CAJA14 CajaUnite*/
 /*
-.activitytag_rojo_parachute .bck-box.bck-box-14:before {
+.unittag_rojo_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
 */
@@ -3870,44 +3870,44 @@ table,
 }
 */
 
-.activitytag_rojo_parachute .bck-box.bck-box-14 .bck-title {
+.unittag_rojo_parachute .bck-box.bck-box-14 .bck-title {
     color: #c64329;
 }
 
 /*Lista 2 -ListaLetraMinus- */
-.activitytag_rojo_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_rojo_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
-.activitytag_rojo_parachute #actividad .popover-content ol.bck-ol-2 li:before,
-.activitytag_rojo_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+.unittag_rojo_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_rojo_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.unittag_rojo_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.unittag_rojo_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
     color: #c64329;
 }
 
 /*Lista 8 -ListaNumero-*/
-.activitytag_rojo_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
-.activitytag_rojo_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
-.activitytag_rojo_parachute #actividad .popover-content .bck-ol-8 li:before,
-.activitytag_rojo_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_rojo_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.unittag_rojo_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.unittag_rojo_parachute #actividad .popover-content .bck-ol-8 li:before,
+.unittag_rojo_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
     color: #c64329;
 }
 
 /*CAJA5 CajaATOI*/
 
-.activitytag_rojo_parachute .bck-box.bck-box-5 {
+.unittag_rojo_parachute .bck-box.bck-box-5 {
     border: 5px solid #c64329;
 }
 
-.activitytag_rojo_parachute .bck-box.bck-box-5 .bck-title {
+.unittag_rojo_parachute .bck-box.bck-box-5 .bck-title {
     -webkit-text-stroke: 2px #c64329;
 }
 
 /*Titulo ColorUnidad*/
-.activitytag_rojo_parachute .bck-title-2 {
+.unittag_rojo_parachute .bck-title-2 {
     color: #c64329;
 }
 
 /*CAJA10 CajaTaches*/
 
-.activitytag_rojo_parachute .bck-box.bck-box-10 {
+.unittag_rojo_parachute .bck-box.bck-box-10 {
     border: 3px solid #c64329;
 }
 
@@ -3917,13 +3917,13 @@ table,
 }
 */
 
-.activitytag_rojo_parachute .bck-box.bck-box-10 .bck-title:before {
+.unittag_rojo_parachute .bck-box.bck-box-10 .bck-title:before {
     background-image: url(Images/taches-finales-rojo-before2.png);
 }
 
 /*CAJA11 CajaBordesColor*/
 
-.activitytag_rojo_parachute .bck-box.bck-box-11 {
+.unittag_rojo_parachute .bck-box.bck-box-11 {
     border: 3px solid #c64329;
 }
 
@@ -3935,14 +3935,14 @@ table,
 
 /*CAJA6 CajaFondo*/
 
-.activitytag_rojo_parachute .bck-box.bck-box-6 {
+.unittag_rojo_parachute .bck-box.bck-box-6 {
     background: #D0DAEF;
 }
 
 
 /*CAJA15 CajaBilanOral*/
 
-.activitytag_rojo_parachute .bck-box.bck-box-15:before {
+.unittag_rojo_parachute .bck-box.bck-box-15:before {
     background-image: url(Images/bilan-oral-before-parachute-rojo.png);
 }
 
@@ -3958,7 +3958,7 @@ table,
 
 /*CAJA16 CajaBilanEcrit*/
 
-.activitytag_rojo_parachute .bck-box.bck-box-16:before {
+.unittag_rojo_parachute .bck-box.bck-box-16:before {
     background-image: url(Images/bilan-ecrit-cahier-parachute-rojo.png);
 }
 
@@ -3979,7 +3979,7 @@ table,
 
 /*CAJA2 CajaLeson*/
 
-.activitytag_naranja_parachute .bck-box.bck-box-2:before {
+.unittag_naranja_parachute .bck-box.bck-box-2:before {
     background-image: url(Images/before-leson-naranja.png);
 }
 
@@ -3993,17 +3993,17 @@ table,
 }
 */
 
-.activitytag_naranja_parachute .bck-box.bck-box-2 .bck-title {
+.unittag_naranja_parachute .bck-box.bck-box-2 .bck-title {
     color: #dc9122;
 }
 
-.activitytag_naranja_parachute .bck-box.bck-box-2 .bck-title p {
+.unittag_naranja_parachute .bck-box.bck-box-2 .bck-title p {
     border-bottom: 2px dotted #dc9122;
 }
 
 /*CAJA13 CajaLesonCahier*/
 
-.activitytag_naranja_parachute .bck-box.bck-box-13:before {
+.unittag_naranja_parachute .bck-box.bck-box-13:before {
     background-image: url(Images/before-leson-naranja.png);
 }
 
@@ -4017,13 +4017,13 @@ table,
 }
 */
 
-.activitytag_naranja_parachute .bck-box.bck-box-13 .bck-title {
+.unittag_naranja_parachute .bck-box.bck-box-13 .bck-title {
     color: #dc9122;
 }
 
 /*CAJA14 CajaUnite*/
 /*
-.activitytag_naranja_parachute .bck-box.bck-box-14:before {
+.unittag_naranja_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
 */
@@ -4033,44 +4033,44 @@ table,
 }
 */
 
-.activitytag_naranja_parachute .bck-box.bck-box-14 .bck-title {
+.unittag_naranja_parachute .bck-box.bck-box-14 .bck-title {
     color: #dc9122;
 }
 
 /*Lista 2 -ListaLetraMinus- */
-.activitytag_naranja_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_naranja_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
-.activitytag_naranja_parachute #actividad .popover-content ol.bck-ol-2 li:before,
-.activitytag_naranja_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+.unittag_naranja_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_naranja_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.unittag_naranja_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.unittag_naranja_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
     color: #dc9122;
 }
 
 /*Lista 8 -ListaNumero-*/
-.activitytag_naranja_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
-.activitytag_naranja_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
-.activitytag_naranja_parachute #actividad .popover-content .bck-ol-8 li:before,
-.activitytag_naranja_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_naranja_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.unittag_naranja_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.unittag_naranja_parachute #actividad .popover-content .bck-ol-8 li:before,
+.unittag_naranja_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
     color: #dc9122;
 }
 
 /*CAJA5 CajaATOI*/
 
-.activitytag_naranja_parachute .bck-box.bck-box-5 {
+.unittag_naranja_parachute .bck-box.bck-box-5 {
     border: 5px solid #dc9122;
 }
 
-.activitytag_naranja_parachute .bck-box.bck-box-5 .bck-title {
+.unittag_naranja_parachute .bck-box.bck-box-5 .bck-title {
     -webkit-text-stroke: 2px #dc9122;
 }
 
 /*Titulo ColorUnidad*/
-.activitytag_naranja_parachute .bck-title-2 {
+.unittag_naranja_parachute .bck-title-2 {
     color: #dc9122;
 }
 
 /*CAJA10 CajaTaches*/
 
-.activitytag_naranja_parachute .bck-box.bck-box-10 {
+.unittag_naranja_parachute .bck-box.bck-box-10 {
     border: 3px solid #dc9122;
 }
 
@@ -4080,13 +4080,13 @@ table,
 }
 */
 
-.activitytag_naranja_parachute .bck-box.bck-box-10 .bck-title:before {
+.unittag_naranja_parachute .bck-box.bck-box-10 .bck-title:before {
     background-image: url(Images/taches-finales-naranja-before2.png);
 }
 
 /*CAJA11 CajaBordesColor*/
 
-.activitytag_naranja_parachute .bck-box.bck-box-11 {
+.unittag_naranja_parachute .bck-box.bck-box-11 {
     border: 3px solid #dc9122;
 }
 
@@ -4098,14 +4098,14 @@ table,
 
 /*CAJA6 CajaFondo*/
 
-.activitytag_naranja_parachute .bck-box.bck-box-6 {
+.unittag_naranja_parachute .bck-box.bck-box-6 {
     background: #D0DAEF;
 }
 
 
 /*CAJA15 CajaBilanOral*/
 
-.activitytag_naranja_parachute .bck-box.bck-box-15:before {
+.unittag_naranja_parachute .bck-box.bck-box-15:before {
     background-image: url(Images/bilan-oral-before-parachute-naranja.png);
 }
 
@@ -4121,7 +4121,7 @@ table,
 
 /*CAJA16 CajaBilanEcrit*/
 
-.activitytag_naranja_parachute .bck-box.bck-box-16:before {
+.unittag_naranja_parachute .bck-box.bck-box-16:before {
     background-image: url(Images/bilan-ecrit-cahier-parachute-naranja.png);
 }
 
@@ -4142,7 +4142,7 @@ table,
 
 /*CAJA2 CajaLeson*/
 
-.activitytag_verdegris_parachute .bck-box.bck-box-2:before {
+.unittag_verdegris_parachute .bck-box.bck-box-2:before {
     background-image: url(Images/before-leson-verdegris.png);
 }
 
@@ -4156,17 +4156,17 @@ table,
 }
 */
 
-.activitytag_verdegris_parachute .bck-box.bck-box-2 .bck-title {
+.unittag_verdegris_parachute .bck-box.bck-box-2 .bck-title {
     color: #a0c49a;
 }
 
-.activitytag_verdegris_parachute .bck-box.bck-box-2 .bck-title p {
+.unittag_verdegris_parachute .bck-box.bck-box-2 .bck-title p {
     border-bottom: 2px dotted #a0c49a;
 }
 
 /*CAJA13 CajaLesonCahier*/
 
-.activitytag_verdegris_parachute .bck-box.bck-box-13:before {
+.unittag_verdegris_parachute .bck-box.bck-box-13:before {
     background-image: url(Images/before-leson-verdegris.png);
 }
 
@@ -4180,13 +4180,13 @@ table,
 }
 */
 
-.activitytag_verdegris_parachute .bck-box.bck-box-13 .bck-title {
+.unittag_verdegris_parachute .bck-box.bck-box-13 .bck-title {
     color: #a0c49a;
 }
 
 /*CAJA14 CajaUnite*/
 /*
-.activitytag_verdegris_parachute .bck-box.bck-box-14:before {
+.unittag_verdegris_parachute .bck-box.bck-box-14:before {
     background-image: url(Images/imagen-before-unite2.png);
 }
 */
@@ -4196,44 +4196,44 @@ table,
 }
 */
 
-.activitytag_verdegris_parachute .bck-box.bck-box-14 .bck-title {
+.unittag_verdegris_parachute .bck-box.bck-box-14 .bck-title {
     color: #a0c49a;
 }
 
 /*Lista 2 -ListaLetraMinus- */
-.activitytag_verdegris_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_verdegris_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
-.activitytag_verdegris_parachute #actividad .popover-content ol.bck-ol-2 li:before,
-.activitytag_verdegris_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+.unittag_verdegris_parachute #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_verdegris_parachute #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.unittag_verdegris_parachute #actividad .popover-content ol.bck-ol-2 li:before,
+.unittag_verdegris_parachute #actividad .content .workspace ul li ol.bck-ol-2 li:before {
     color: #a0c49a;
 }
 
 /*Lista 8 -ListaNumero-*/
-.activitytag_verdegris_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
-.activitytag_verdegris_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
-.activitytag_verdegris_parachute #actividad .popover-content .bck-ol-8 li:before,
-.activitytag_verdegris_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_verdegris_parachute #actividad .content .cke_contents .bck-ol-8 li:before,
+.unittag_verdegris_parachute #actividad .content .texto_curso .bck-ol-8 li:before,
+.unittag_verdegris_parachute #actividad .popover-content .bck-ol-8 li:before,
+.unittag_verdegris_parachute #actividad .content .workspace ul li .bck-ol-8 li:before {
     color: #a0c49a;
 }
 
 /*CAJA5 CajaATOI*/
 
-.activitytag_verdegris_parachute .bck-box.bck-box-5 {
+.unittag_verdegris_parachute .bck-box.bck-box-5 {
     border: 5px solid #a0c49a;
 }
 
-.activitytag_verdegris_parachute .bck-box.bck-box-5 .bck-title {
+.unittag_verdegris_parachute .bck-box.bck-box-5 .bck-title {
     -webkit-text-stroke: 2px #a0c49a;
 }
 
 /*Titulo ColorUnidad*/
-.activitytag_verdegris_parachute .bck-title-2 {
+.unittag_verdegris_parachute .bck-title-2 {
     color: #a0c49a;
 }
 
 /*CAJA10 CajaTaches*/
 
-.activitytag_verdegris_parachute .bck-box.bck-box-10 {
+.unittag_verdegris_parachute .bck-box.bck-box-10 {
     border: 3px solid #a0c49a;
 }
 
@@ -4243,13 +4243,13 @@ table,
 }
 */
 
-.activitytag_verdegris_parachute .bck-box.bck-box-10 .bck-title:before {
+.unittag_verdegris_parachute .bck-box.bck-box-10 .bck-title:before {
     background-image: url(Images/taches-finales-verdegris-before2.png);
 }
 
 /*CAJA11 CajaBordesColor*/
 
-.activitytag_verdegris_parachute .bck-box.bck-box-11 {
+.unittag_verdegris_parachute .bck-box.bck-box-11 {
     border: 3px solid #a0c49a;
 }
 
@@ -4261,14 +4261,14 @@ table,
 
 /*CAJA6 CajaFondo*/
 
-.activitytag_verdegris_parachute .bck-box.bck-box-6 {
+.unittag_verdegris_parachute .bck-box.bck-box-6 {
     background: #D0DAEF;
 }
 
 
 /*CAJA15 CajaBilanOral*/
 
-.activitytag_verdegris_parachute .bck-box.bck-box-15:before {
+.unittag_verdegris_parachute .bck-box.bck-box-15:before {
     background-image: url(Images/bilan-oral-before-parachute-verdegris.png);
 }
 
@@ -4284,7 +4284,7 @@ table,
 
 /*CAJA16 CajaBilanEcrit*/
 
-.activitytag_verdegris_parachute .bck-box.bck-box-16:before {
+.unittag_verdegris_parachute .bck-box.bck-box-16:before {
     background-image: url(Images/bilan-ecrit-cahier-parachute-verdegris.png);
 }
 
