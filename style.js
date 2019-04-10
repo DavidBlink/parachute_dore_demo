@@ -8,9 +8,11 @@
 
 	parachute_dore_demoStyle.prototype = {
 		bodyClassName: 'content_type_clase_parachute_dore_demo',
-		toolbar: { name: 'editorial', items: ['Blink_popover'] },
+		toolbar: { name: 'editorial' },
 		extraPlugins: ['blink_popover'],
-		ckEditorStyles: {
+		ckEditorStyles: {	
+			
+			
 			name: 'parachute_dore_demo',
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
